@@ -16,7 +16,7 @@ https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc1
 #EXTINF:-1 tvg-id="RTS.ec" tvg-logo="https://iptv-org.github.io/logos/ec/RTS.png" group-title="🇪🇨 TV Nacional",RTS
 https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.hechosecuador.com/rw_common/images/final.gif" group-title="🇪🇨 Hechos",Hechos Ecuador
+#EXTINF:-1 tvg-id="HechosEcuador.ec" tvg-logo="https://www.hechosecuador.com/rw_common/images/final.gif" group-title="🇪🇨 TV Nacional",Hechos Ecuador
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
 
 #EXTINF:-1 group-title="🇪🇨 TV Nacional",RTU
