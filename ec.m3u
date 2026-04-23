@@ -22,6 +22,8 @@ https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
 #EXTINF:-1 group-title="🇪🇨 TV Nacional",RTU
 https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
 
+#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/TC_Television_logo.png" group-title="🇪🇨 TV Nacional",TC Televisión
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(xQ0DvmgEk4BVkcihA3v7IxMHSG2XEGOflqIkvFaI-gEHXr_vPcwOtB5aEm4liIkWM0Sf1JYcL-NU3Sf_0-fs7mATRtd4_Mh7CRtIEy8H9kU8-4seaQwndT3NvqqGQez2)/cloud/3/x7wijay/s/live-720.m3u8
 
 
 # ========================
