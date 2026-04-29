@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+
+  <!-- CANALES -->
+  <channel id="Ecuavisa.ec">
+    <display-name>Ecuavisa</display-name>
+  </channel>
+
+  <channel id="Teleamazonas.ec">
+    <display-name>Teleamazonas</display-name>
+  </channel>
+
+  <channel id="RTS.ec">
+    <display-name>RTS</display-name>
+  </channel>
+
+  <channel id="TCTelevision.ec">
+    <display-name>TC Televisión</display-name>
+  </channel>
+
+  <!-- PROGRAMACIÓN (EJEMPLO) -->
+
+  <programme start="20260428060000 +0000" stop="20260428090000 +0000" channel="Ecuavisa.ec">
+    <title>Noticias</title>
+  </programme>
+
+  <programme start="20260428090000 +0000" stop="20260428120000 +0000" channel="Ecuavisa.ec">
+    <title>Magazine</title>
+  </programme>
+
+  <programme start="20260428060000 +0000" stop="20260428090000 +0000" channel="Teleamazonas.ec">
+    <title>Buenos Días</title>
+  </programme>
+
+  <programme start="20260428090000 +0000" stop="20260428120000 +0000" channel="Teleamazonas.ec">
+    <title>Entretenimiento</title>
+  </programme>
+
+  <programme start="20260428060000 +0000" stop="20260428090000 +0000" channel="RTS.ec">
+    <title>Noticias RTS</title>
+  </programme>
+
+  <programme start="20260428060000 +0000" stop="20260428120000 +0000" channel="TCTelevision.ec">
+    <title>Programación TC</title>
+  </programme>
+
+</tv>
