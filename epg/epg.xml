@@ -1,1 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="test">
+    <display-name>Test</display-name>
+  </channel>
 
+  <programme start="20260430060000 +0000" stop="20260430090000 +0000" channel="test">
+    <title>Test Program</title>
+  </programme>
+</tv>
