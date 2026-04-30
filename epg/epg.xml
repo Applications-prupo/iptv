@@ -1,10 +1,436 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="test">
-    <display-name>Test</display-name>
-  </channel>
 
-  <programme start="20260430060000 +0000" stop="20260430090000 +0000" channel="test">
-    <title>Test Program</title>
+  <channel id="Ecuavisa.ec">
+    <display-name>Ecuavisa</display-name>
+  </channel>
+  <channel id="Teleamazonas.ec">
+    <display-name>Teleamazonas</display-name>
+  </channel>
+  <channel id="RTS.ec">
+    <display-name>RTS</display-name>
+  </channel>
+  <channel id="TCTelevision.ec">
+    <display-name>TC Televisión</display-name>
+  </channel>
+  <programme start="20260430T060000 +0000" stop="20260430T090000 +0000" channel="Ecuavisa.ec">
+    <title>Noticias</title>
+  </programme>
+  <programme start="20260430T090000 +0000" stop="20260430T120000 +0000" channel="Ecuavisa.ec">
+    <title>Magazine</title>
+  </programme>
+  <programme start="20260430T120000 +0000" stop="20260430T150000 +0000" channel="Ecuavisa.ec">
+    <title>Series</title>
+  </programme>
+  <programme start="20260430T150000 +0000" stop="20260430T180000 +0000" channel="Ecuavisa.ec">
+    <title>Películas</title>
+  </programme>
+  <programme start="20260430T180000 +0000" stop="20260430T210000 +0000" channel="Ecuavisa.ec">
+    <title>Noticias Estelar</title>
+  </programme>
+  <programme start="20260430T210000 +0000" stop="20260430T235900 +0000" channel="Ecuavisa.ec">
+    <title>Prime Time</title>
+  </programme>
+  <programme start="20260430T235900 +0000" stop="20260430T235900 +0000" channel="Ecuavisa.ec">
+    <title>Cierre de transmisión</title>
+  </programme>
+  <programme start="20260501T060000 +0000" stop="20260501T090000 +0000" channel="Ecuavisa.ec">
+    <title>Noticias</title>
+  </programme>
+  <programme start="20260501T090000 +0000" stop="20260501T120000 +0000" channel="Ecuavisa.ec">
+    <title>Magazine</title>
+  </programme>
+  <programme start="20260501T120000 +0000" stop="20260501T150000 +0000" channel="Ecuavisa.ec">
+    <title>Series</title>
+  </programme>
+  <programme start="20260501T150000 +0000" stop="20260501T180000 +0000" channel="Ecuavisa.ec">
+    <title>Películas</title>
+  </programme>
+  <programme start="20260501T180000 +0000" stop="20260501T210000 +0000" channel="Ecuavisa.ec">
+    <title>Noticias Estelar</title>
+  </programme>
+  <programme start="20260501T210000 +0000" stop="20260501T235900 +0000" channel="Ecuavisa.ec">
+    <title>Prime Time</title>
+  </programme>
+  <programme start="20260501T235900 +0000" stop="20260501T235900 +0000" channel="Ecuavisa.ec">
+    <title>Cierre de transmisión</title>
+  </programme>
+  <programme start="20260502T060000 +0000" stop="20260502T090000 +0000" channel="Ecuavisa.ec">
+    <title>Noticias</title>
+  </programme>
+  <programme start="20260502T090000 +0000" stop="20260502T120000 +0000" channel="Ecuavisa.ec">
+    <title>Magazine</title>
+  </programme>
+  <programme start="20260502T120000 +0000" stop="20260502T150000 +0000" channel="Ecuavisa.ec">
+    <title>Series</title>
+  </programme>
+  <programme start="20260502T150000 +0000" stop="20260502T180000 +0000" channel="Ecuavisa.ec">
+    <title>Películas</title>
+  </programme>
+  <programme start="20260502T180000 +0000" stop="20260502T210000 +0000" channel="Ecuavisa.ec">
+    <title>Noticias Estelar</title>
+  </programme>
+  <programme start="20260502T210000 +0000" stop="20260502T235900 +0000" channel="Ecuavisa.ec">
+    <title>Prime Time</title>
+  </programme>
+  <programme start="20260502T235900 +0000" stop="20260502T235900 +0000" channel="Ecuavisa.ec">
+    <title>Cierre de transmisión</title>
+  </programme>
+  <programme start="20260503T060000 +0000" stop="20260503T090000 +0000" channel="Ecuavisa.ec">
+    <title>Noticias</title>
+  </programme>
+  <programme start="20260503T090000 +0000" stop="20260503T120000 +0000" channel="Ecuavisa.ec">
+    <title>Magazine</title>
+  </programme>
+  <programme start="20260503T120000 +0000" stop="20260503T150000 +0000" channel="Ecuavisa.ec">
+    <title>Series</title>
+  </programme>
+  <programme start="20260503T150000 +0000" stop="20260503T180000 +0000" channel="Ecuavisa.ec">
+    <title>Películas</title>
+  </programme>
+  <programme start="20260503T180000 +0000" stop="20260503T210000 +0000" channel="Ecuavisa.ec">
+    <title>Noticias Estelar</title>
+  </programme>
+  <programme start="20260503T210000 +0000" stop="20260503T235900 +0000" channel="Ecuavisa.ec">
+    <title>Prime Time</title>
+  </programme>
+  <programme start="20260503T235900 +0000" stop="20260503T235900 +0000" channel="Ecuavisa.ec">
+    <title>Cierre de transmisión</title>
+  </programme>
+  <programme start="20260504T060000 +0000" stop="20260504T090000 +0000" channel="Ecuavisa.ec">
+    <title>Noticias</title>
+  </programme>
+  <programme start="20260504T090000 +0000" stop="20260504T120000 +0000" channel="Ecuavisa.ec">
+    <title>Magazine</title>
+  </programme>
+  <programme start="20260504T120000 +0000" stop="20260504T150000 +0000" channel="Ecuavisa.ec">
+    <title>Series</title>
+  </programme>
+  <programme start="20260504T150000 +0000" stop="20260504T180000 +0000" channel="Ecuavisa.ec">
+    <title>Películas</title>
+  </programme>
+  <programme start="20260504T180000 +0000" stop="20260504T210000 +0000" channel="Ecuavisa.ec">
+    <title>Noticias Estelar</title>
+  </programme>
+  <programme start="20260504T210000 +0000" stop="20260504T235900 +0000" channel="Ecuavisa.ec">
+    <title>Prime Time</title>
+  </programme>
+  <programme start="20260504T235900 +0000" stop="20260504T235900 +0000" channel="Ecuavisa.ec">
+    <title>Cierre de transmisión</title>
+  </programme>
+  <programme start="20260430T060000 +0000" stop="20260430T090000 +0000" channel="Teleamazonas.ec">
+    <title>Noticias</title>
+  </programme>
+  <programme start="20260430T090000 +0000" stop="20260430T120000 +0000" channel="Teleamazonas.ec">
+    <title>Magazine</title>
+  </programme>
+  <programme start="20260430T120000 +0000" stop="20260430T150000 +0000" channel="Teleamazonas.ec">
+    <title>Series</title>
+  </programme>
+  <programme start="20260430T150000 +0000" stop="20260430T180000 +0000" channel="Teleamazonas.ec">
+    <title>Películas</title>
+  </programme>
+  <programme start="20260430T180000 +0000" stop="20260430T210000 +0000" channel="Teleamazonas.ec">
+    <title>Noticias Estelar</title>
+  </programme>
+  <programme start="20260430T210000 +0000" stop="20260430T235900 +0000" channel="Teleamazonas.ec">
+    <title>Prime Time</title>
+  </programme>
+  <programme start="20260430T235900 +0000" stop="20260430T235900 +0000" channel="Teleamazonas.ec">
+    <title>Cierre de transmisión</title>
+  </programme>
+  <programme start="20260501T060000 +0000" stop="20260501T090000 +0000" channel="Teleamazonas.ec">
+    <title>Noticias</title>
+  </programme>
+  <programme start="20260501T090000 +0000" stop="20260501T120000 +0000" channel="Teleamazonas.ec">
+    <title>Magazine</title>
+  </programme>
+  <programme start="20260501T120000 +0000" stop="20260501T150000 +0000" channel="Teleamazonas.ec">
+    <title>Series</title>
+  </programme>
+  <programme start="20260501T150000 +0000" stop="20260501T180000 +0000" channel="Teleamazonas.ec">
+    <title>Películas</title>
+  </programme>
+  <programme start="20260501T180000 +0000" stop="20260501T210000 +0000" channel="Teleamazonas.ec">
+    <title>Noticias Estelar</title>
+  </programme>
+  <programme start="20260501T210000 +0000" stop="20260501T235900 +0000" channel="Teleamazonas.ec">
+    <title>Prime Time</title>
+  </programme>
+  <programme start="20260501T235900 +0000" stop="20260501T235900 +0000" channel="Teleamazonas.ec">
+    <title>Cierre de transmisión</title>
+  </programme>
+  <programme start="20260502T060000 +0000" stop="20260502T090000 +0000" channel="Teleamazonas.ec">
+    <title>Noticias</title>
+  </programme>
+  <programme start="20260502T090000 +0000" stop="20260502T120000 +0000" channel="Teleamazonas.ec">
+    <title>Magazine</title>
+  </programme>
+  <programme start="20260502T120000 +0000" stop="20260502T150000 +0000" channel="Teleamazonas.ec">
+    <title>Series</title>
+  </programme>
+  <programme start="20260502T150000 +0000" stop="20260502T180000 +0000" channel="Teleamazonas.ec">
+    <title>Películas</title>
+  </programme>
+  <programme start="20260502T180000 +0000" stop="20260502T210000 +0000" channel="Teleamazonas.ec">
+    <title>Noticias Estelar</title>
+  </programme>
+  <programme start="20260502T210000 +0000" stop="20260502T235900 +0000" channel="Teleamazonas.ec">
+    <title>Prime Time</title>
+  </programme>
+  <programme start="20260502T235900 +0000" stop="20260502T235900 +0000" channel="Teleamazonas.ec">
+    <title>Cierre de transmisión</title>
+  </programme>
+  <programme start="20260503T060000 +0000" stop="20260503T090000 +0000" channel="Teleamazonas.ec">
+    <title>Noticias</title>
+  </programme>
+  <programme start="20260503T090000 +0000" stop="20260503T120000 +0000" channel="Teleamazonas.ec">
+    <title>Magazine</title>
+  </programme>
+  <programme start="20260503T120000 +0000" stop="20260503T150000 +0000" channel="Teleamazonas.ec">
+    <title>Series</title>
+  </programme>
+  <programme start="20260503T150000 +0000" stop="20260503T180000 +0000" channel="Teleamazonas.ec">
+    <title>Películas</title>
+  </programme>
+  <programme start="20260503T180000 +0000" stop="20260503T210000 +0000" channel="Teleamazonas.ec">
+    <title>Noticias Estelar</title>
+  </programme>
+  <programme start="20260503T210000 +0000" stop="20260503T235900 +0000" channel="Teleamazonas.ec">
+    <title>Prime Time</title>
+  </programme>
+  <programme start="20260503T235900 +0000" stop="20260503T235900 +0000" channel="Teleamazonas.ec">
+    <title>Cierre de transmisión</title>
+  </programme>
+  <programme start="20260504T060000 +0000" stop="20260504T090000 +0000" channel="Teleamazonas.ec">
+    <title>Noticias</title>
+  </programme>
+  <programme start="20260504T090000 +0000" stop="20260504T120000 +0000" channel="Teleamazonas.ec">
+    <title>Magazine</title>
+  </programme>
+  <programme start="20260504T120000 +0000" stop="20260504T150000 +0000" channel="Teleamazonas.ec">
+    <title>Series</title>
+  </programme>
+  <programme start="20260504T150000 +0000" stop="20260504T180000 +0000" channel="Teleamazonas.ec">
+    <title>Películas</title>
+  </programme>
+  <programme start="20260504T180000 +0000" stop="20260504T210000 +0000" channel="Teleamazonas.ec">
+    <title>Noticias Estelar</title>
+  </programme>
+  <programme start="20260504T210000 +0000" stop="20260504T235900 +0000" channel="Teleamazonas.ec">
+    <title>Prime Time</title>
+  </programme>
+  <programme start="20260504T235900 +0000" stop="20260504T235900 +0000" channel="Teleamazonas.ec">
+    <title>Cierre de transmisión</title>
+  </programme>
+  <programme start="20260430T060000 +0000" stop="20260430T090000 +0000" channel="RTS.ec">
+    <title>Noticias</title>
+  </programme>
+  <programme start="20260430T090000 +0000" stop="20260430T120000 +0000" channel="RTS.ec">
+    <title>Magazine</title>
+  </programme>
+  <programme start="20260430T120000 +0000" stop="20260430T150000 +0000" channel="RTS.ec">
+    <title>Series</title>
+  </programme>
+  <programme start="20260430T150000 +0000" stop="20260430T180000 +0000" channel="RTS.ec">
+    <title>Películas</title>
+  </programme>
+  <programme start="20260430T180000 +0000" stop="20260430T210000 +0000" channel="RTS.ec">
+    <title>Noticias Estelar</title>
+  </programme>
+  <programme start="20260430T210000 +0000" stop="20260430T235900 +0000" channel="RTS.ec">
+    <title>Prime Time</title>
+  </programme>
+  <programme start="20260430T235900 +0000" stop="20260430T235900 +0000" channel="RTS.ec">
+    <title>Cierre de transmisión</title>
+  </programme>
+  <programme start="20260501T060000 +0000" stop="20260501T090000 +0000" channel="RTS.ec">
+    <title>Noticias</title>
+  </programme>
+  <programme start="20260501T090000 +0000" stop="20260501T120000 +0000" channel="RTS.ec">
+    <title>Magazine</title>
+  </programme>
+  <programme start="20260501T120000 +0000" stop="20260501T150000 +0000" channel="RTS.ec">
+    <title>Series</title>
+  </programme>
+  <programme start="20260501T150000 +0000" stop="20260501T180000 +0000" channel="RTS.ec">
+    <title>Películas</title>
+  </programme>
+  <programme start="20260501T180000 +0000" stop="20260501T210000 +0000" channel="RTS.ec">
+    <title>Noticias Estelar</title>
+  </programme>
+  <programme start="20260501T210000 +0000" stop="20260501T235900 +0000" channel="RTS.ec">
+    <title>Prime Time</title>
+  </programme>
+  <programme start="20260501T235900 +0000" stop="20260501T235900 +0000" channel="RTS.ec">
+    <title>Cierre de transmisión</title>
+  </programme>
+  <programme start="20260502T060000 +0000" stop="20260502T090000 +0000" channel="RTS.ec">
+    <title>Noticias</title>
+  </programme>
+  <programme start="20260502T090000 +0000" stop="20260502T120000 +0000" channel="RTS.ec">
+    <title>Magazine</title>
+  </programme>
+  <programme start="20260502T120000 +0000" stop="20260502T150000 +0000" channel="RTS.ec">
+    <title>Series</title>
+  </programme>
+  <programme start="20260502T150000 +0000" stop="20260502T180000 +0000" channel="RTS.ec">
+    <title>Películas</title>
+  </programme>
+  <programme start="20260502T180000 +0000" stop="20260502T210000 +0000" channel="RTS.ec">
+    <title>Noticias Estelar</title>
+  </programme>
+  <programme start="20260502T210000 +0000" stop="20260502T235900 +0000" channel="RTS.ec">
+    <title>Prime Time</title>
+  </programme>
+  <programme start="20260502T235900 +0000" stop="20260502T235900 +0000" channel="RTS.ec">
+    <title>Cierre de transmisión</title>
+  </programme>
+  <programme start="20260503T060000 +0000" stop="20260503T090000 +0000" channel="RTS.ec">
+    <title>Noticias</title>
+  </programme>
+  <programme start="20260503T090000 +0000" stop="20260503T120000 +0000" channel="RTS.ec">
+    <title>Magazine</title>
+  </programme>
+  <programme start="20260503T120000 +0000" stop="20260503T150000 +0000" channel="RTS.ec">
+    <title>Series</title>
+  </programme>
+  <programme start="20260503T150000 +0000" stop="20260503T180000 +0000" channel="RTS.ec">
+    <title>Películas</title>
+  </programme>
+  <programme start="20260503T180000 +0000" stop="20260503T210000 +0000" channel="RTS.ec">
+    <title>Noticias Estelar</title>
+  </programme>
+  <programme start="20260503T210000 +0000" stop="20260503T235900 +0000" channel="RTS.ec">
+    <title>Prime Time</title>
+  </programme>
+  <programme start="20260503T235900 +0000" stop="20260503T235900 +0000" channel="RTS.ec">
+    <title>Cierre de transmisión</title>
+  </programme>
+  <programme start="20260504T060000 +0000" stop="20260504T090000 +0000" channel="RTS.ec">
+    <title>Noticias</title>
+  </programme>
+  <programme start="20260504T090000 +0000" stop="20260504T120000 +0000" channel="RTS.ec">
+    <title>Magazine</title>
+  </programme>
+  <programme start="20260504T120000 +0000" stop="20260504T150000 +0000" channel="RTS.ec">
+    <title>Series</title>
+  </programme>
+  <programme start="20260504T150000 +0000" stop="20260504T180000 +0000" channel="RTS.ec">
+    <title>Películas</title>
+  </programme>
+  <programme start="20260504T180000 +0000" stop="20260504T210000 +0000" channel="RTS.ec">
+    <title>Noticias Estelar</title>
+  </programme>
+  <programme start="20260504T210000 +0000" stop="20260504T235900 +0000" channel="RTS.ec">
+    <title>Prime Time</title>
+  </programme>
+  <programme start="20260504T235900 +0000" stop="20260504T235900 +0000" channel="RTS.ec">
+    <title>Cierre de transmisión</title>
+  </programme>
+  <programme start="20260430T060000 +0000" stop="20260430T090000 +0000" channel="TCTelevision.ec">
+    <title>Noticias</title>
+  </programme>
+  <programme start="20260430T090000 +0000" stop="20260430T120000 +0000" channel="TCTelevision.ec">
+    <title>Magazine</title>
+  </programme>
+  <programme start="20260430T120000 +0000" stop="20260430T150000 +0000" channel="TCTelevision.ec">
+    <title>Series</title>
+  </programme>
+  <programme start="20260430T150000 +0000" stop="20260430T180000 +0000" channel="TCTelevision.ec">
+    <title>Películas</title>
+  </programme>
+  <programme start="20260430T180000 +0000" stop="20260430T210000 +0000" channel="TCTelevision.ec">
+    <title>Noticias Estelar</title>
+  </programme>
+  <programme start="20260430T210000 +0000" stop="20260430T235900 +0000" channel="TCTelevision.ec">
+    <title>Prime Time</title>
+  </programme>
+  <programme start="20260430T235900 +0000" stop="20260430T235900 +0000" channel="TCTelevision.ec">
+    <title>Cierre de transmisión</title>
+  </programme>
+  <programme start="20260501T060000 +0000" stop="20260501T090000 +0000" channel="TCTelevision.ec">
+    <title>Noticias</title>
+  </programme>
+  <programme start="20260501T090000 +0000" stop="20260501T120000 +0000" channel="TCTelevision.ec">
+    <title>Magazine</title>
+  </programme>
+  <programme start="20260501T120000 +0000" stop="20260501T150000 +0000" channel="TCTelevision.ec">
+    <title>Series</title>
+  </programme>
+  <programme start="20260501T150000 +0000" stop="20260501T180000 +0000" channel="TCTelevision.ec">
+    <title>Películas</title>
+  </programme>
+  <programme start="20260501T180000 +0000" stop="20260501T210000 +0000" channel="TCTelevision.ec">
+    <title>Noticias Estelar</title>
+  </programme>
+  <programme start="20260501T210000 +0000" stop="20260501T235900 +0000" channel="TCTelevision.ec">
+    <title>Prime Time</title>
+  </programme>
+  <programme start="20260501T235900 +0000" stop="20260501T235900 +0000" channel="TCTelevision.ec">
+    <title>Cierre de transmisión</title>
+  </programme>
+  <programme start="20260502T060000 +0000" stop="20260502T090000 +0000" channel="TCTelevision.ec">
+    <title>Noticias</title>
+  </programme>
+  <programme start="20260502T090000 +0000" stop="20260502T120000 +0000" channel="TCTelevision.ec">
+    <title>Magazine</title>
+  </programme>
+  <programme start="20260502T120000 +0000" stop="20260502T150000 +0000" channel="TCTelevision.ec">
+    <title>Series</title>
+  </programme>
+  <programme start="20260502T150000 +0000" stop="20260502T180000 +0000" channel="TCTelevision.ec">
+    <title>Películas</title>
+  </programme>
+  <programme start="20260502T180000 +0000" stop="20260502T210000 +0000" channel="TCTelevision.ec">
+    <title>Noticias Estelar</title>
+  </programme>
+  <programme start="20260502T210000 +0000" stop="20260502T235900 +0000" channel="TCTelevision.ec">
+    <title>Prime Time</title>
+  </programme>
+  <programme start="20260502T235900 +0000" stop="20260502T235900 +0000" channel="TCTelevision.ec">
+    <title>Cierre de transmisión</title>
+  </programme>
+  <programme start="20260503T060000 +0000" stop="20260503T090000 +0000" channel="TCTelevision.ec">
+    <title>Noticias</title>
+  </programme>
+  <programme start="20260503T090000 +0000" stop="20260503T120000 +0000" channel="TCTelevision.ec">
+    <title>Magazine</title>
+  </programme>
+  <programme start="20260503T120000 +0000" stop="20260503T150000 +0000" channel="TCTelevision.ec">
+    <title>Series</title>
+  </programme>
+  <programme start="20260503T150000 +0000" stop="20260503T180000 +0000" channel="TCTelevision.ec">
+    <title>Películas</title>
+  </programme>
+  <programme start="20260503T180000 +0000" stop="20260503T210000 +0000" channel="TCTelevision.ec">
+    <title>Noticias Estelar</title>
+  </programme>
+  <programme start="20260503T210000 +0000" stop="20260503T235900 +0000" channel="TCTelevision.ec">
+    <title>Prime Time</title>
+  </programme>
+  <programme start="20260503T235900 +0000" stop="20260503T235900 +0000" channel="TCTelevision.ec">
+    <title>Cierre de transmisión</title>
+  </programme>
+  <programme start="20260504T060000 +0000" stop="20260504T090000 +0000" channel="TCTelevision.ec">
+    <title>Noticias</title>
+  </programme>
+  <programme start="20260504T090000 +0000" stop="20260504T120000 +0000" channel="TCTelevision.ec">
+    <title>Magazine</title>
+  </programme>
+  <programme start="20260504T120000 +0000" stop="20260504T150000 +0000" channel="TCTelevision.ec">
+    <title>Series</title>
+  </programme>
+  <programme start="20260504T150000 +0000" stop="20260504T180000 +0000" channel="TCTelevision.ec">
+    <title>Películas</title>
+  </programme>
+  <programme start="20260504T180000 +0000" stop="20260504T210000 +0000" channel="TCTelevision.ec">
+    <title>Noticias Estelar</title>
+  </programme>
+  <programme start="20260504T210000 +0000" stop="20260504T235900 +0000" channel="TCTelevision.ec">
+    <title>Prime Time</title>
+  </programme>
+  <programme start="20260504T235900 +0000" stop="20260504T235900 +0000" channel="TCTelevision.ec">
+    <title>Cierre de transmisión</title>
   </programme>
 </tv>
