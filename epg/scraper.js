@@ -12,17 +12,17 @@ const CHANNELS = [
   {
     id: "Teleamazonas.ec",
     name: "Teleamazonas",
-    url: "https://www.gatotv.com/canal/teleamazonas_ecuador"
+    url: "https://www.gatotv.com/canal/teleamazonas"
   },
   {
     id: "RTS.ec",
     name: "RTS",
-    url: "https://www.gatotv.com/canal/rts_ecuador"
+    url: "https://www.gatotv.com/canal/rts"
   },
   {
     id: "TCTelevision.ec",
     name: "TC Televisión",
-    url: "https://www.gatotv.com/canal/tc_television_ecuador"
+    url: "https://www.gatotv.com/canal/tc_television"
   }
 ]
 
