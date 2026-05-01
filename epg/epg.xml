@@ -13,424 +13,442 @@
   <channel id="TCTelevision.ec">
     <display-name>TC Televisión</display-name>
   </channel>
-  <programme start="20260430T060000 +0000" stop="20260430T090000 +0000" channel="Ecuavisa.ec">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20260430T090000 +0000" stop="20260430T120000 +0000" channel="Ecuavisa.ec">
-    <title>Magazine</title>
-  </programme>
-  <programme start="20260430T120000 +0000" stop="20260430T150000 +0000" channel="Ecuavisa.ec">
-    <title>Series</title>
-  </programme>
-  <programme start="20260430T150000 +0000" stop="20260430T180000 +0000" channel="Ecuavisa.ec">
-    <title>Películas</title>
-  </programme>
-  <programme start="20260430T180000 +0000" stop="20260430T210000 +0000" channel="Ecuavisa.ec">
-    <title>Noticias Estelar</title>
-  </programme>
-  <programme start="20260430T210000 +0000" stop="20260430T235900 +0000" channel="Ecuavisa.ec">
-    <title>Prime Time</title>
-  </programme>
-  <programme start="20260430T235900 +0000" stop="20260430T235900 +0000" channel="Ecuavisa.ec">
-    <title>Cierre de transmisión</title>
-  </programme>
-  <programme start="20260501T060000 +0000" stop="20260501T090000 +0000" channel="Ecuavisa.ec">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20260501T090000 +0000" stop="20260501T120000 +0000" channel="Ecuavisa.ec">
-    <title>Magazine</title>
-  </programme>
-  <programme start="20260501T120000 +0000" stop="20260501T150000 +0000" channel="Ecuavisa.ec">
-    <title>Series</title>
-  </programme>
-  <programme start="20260501T150000 +0000" stop="20260501T180000 +0000" channel="Ecuavisa.ec">
-    <title>Películas</title>
-  </programme>
-  <programme start="20260501T180000 +0000" stop="20260501T210000 +0000" channel="Ecuavisa.ec">
-    <title>Noticias Estelar</title>
-  </programme>
-  <programme start="20260501T210000 +0000" stop="20260501T235900 +0000" channel="Ecuavisa.ec">
-    <title>Prime Time</title>
-  </programme>
-  <programme start="20260501T235900 +0000" stop="20260501T235900 +0000" channel="Ecuavisa.ec">
-    <title>Cierre de transmisión</title>
-  </programme>
-  <programme start="20260502T060000 +0000" stop="20260502T090000 +0000" channel="Ecuavisa.ec">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20260502T090000 +0000" stop="20260502T120000 +0000" channel="Ecuavisa.ec">
-    <title>Magazine</title>
-  </programme>
-  <programme start="20260502T120000 +0000" stop="20260502T150000 +0000" channel="Ecuavisa.ec">
-    <title>Series</title>
-  </programme>
-  <programme start="20260502T150000 +0000" stop="20260502T180000 +0000" channel="Ecuavisa.ec">
-    <title>Películas</title>
-  </programme>
-  <programme start="20260502T180000 +0000" stop="20260502T210000 +0000" channel="Ecuavisa.ec">
-    <title>Noticias Estelar</title>
-  </programme>
-  <programme start="20260502T210000 +0000" stop="20260502T235900 +0000" channel="Ecuavisa.ec">
-    <title>Prime Time</title>
-  </programme>
-  <programme start="20260502T235900 +0000" stop="20260502T235900 +0000" channel="Ecuavisa.ec">
-    <title>Cierre de transmisión</title>
-  </programme>
-  <programme start="20260503T060000 +0000" stop="20260503T090000 +0000" channel="Ecuavisa.ec">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20260503T090000 +0000" stop="20260503T120000 +0000" channel="Ecuavisa.ec">
-    <title>Magazine</title>
-  </programme>
-  <programme start="20260503T120000 +0000" stop="20260503T150000 +0000" channel="Ecuavisa.ec">
-    <title>Series</title>
-  </programme>
-  <programme start="20260503T150000 +0000" stop="20260503T180000 +0000" channel="Ecuavisa.ec">
-    <title>Películas</title>
-  </programme>
-  <programme start="20260503T180000 +0000" stop="20260503T210000 +0000" channel="Ecuavisa.ec">
-    <title>Noticias Estelar</title>
-  </programme>
-  <programme start="20260503T210000 +0000" stop="20260503T235900 +0000" channel="Ecuavisa.ec">
-    <title>Prime Time</title>
-  </programme>
-  <programme start="20260503T235900 +0000" stop="20260503T235900 +0000" channel="Ecuavisa.ec">
-    <title>Cierre de transmisión</title>
-  </programme>
-  <programme start="20260504T060000 +0000" stop="20260504T090000 +0000" channel="Ecuavisa.ec">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20260504T090000 +0000" stop="20260504T120000 +0000" channel="Ecuavisa.ec">
-    <title>Magazine</title>
-  </programme>
-  <programme start="20260504T120000 +0000" stop="20260504T150000 +0000" channel="Ecuavisa.ec">
-    <title>Series</title>
-  </programme>
-  <programme start="20260504T150000 +0000" stop="20260504T180000 +0000" channel="Ecuavisa.ec">
-    <title>Películas</title>
-  </programme>
-  <programme start="20260504T180000 +0000" stop="20260504T210000 +0000" channel="Ecuavisa.ec">
-    <title>Noticias Estelar</title>
-  </programme>
-  <programme start="20260504T210000 +0000" stop="20260504T235900 +0000" channel="Ecuavisa.ec">
-    <title>Prime Time</title>
-  </programme>
-  <programme start="20260504T235900 +0000" stop="20260504T235900 +0000" channel="Ecuavisa.ec">
-    <title>Cierre de transmisión</title>
-  </programme>
-  <programme start="20260430T060000 +0000" stop="20260430T090000 +0000" channel="Teleamazonas.ec">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20260430T090000 +0000" stop="20260430T120000 +0000" channel="Teleamazonas.ec">
-    <title>Magazine</title>
-  </programme>
-  <programme start="20260430T120000 +0000" stop="20260430T150000 +0000" channel="Teleamazonas.ec">
-    <title>Series</title>
-  </programme>
-  <programme start="20260430T150000 +0000" stop="20260430T180000 +0000" channel="Teleamazonas.ec">
-    <title>Películas</title>
-  </programme>
-  <programme start="20260430T180000 +0000" stop="20260430T210000 +0000" channel="Teleamazonas.ec">
-    <title>Noticias Estelar</title>
-  </programme>
-  <programme start="20260430T210000 +0000" stop="20260430T235900 +0000" channel="Teleamazonas.ec">
-    <title>Prime Time</title>
-  </programme>
-  <programme start="20260430T235900 +0000" stop="20260430T235900 +0000" channel="Teleamazonas.ec">
-    <title>Cierre de transmisión</title>
-  </programme>
-  <programme start="20260501T060000 +0000" stop="20260501T090000 +0000" channel="Teleamazonas.ec">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20260501T090000 +0000" stop="20260501T120000 +0000" channel="Teleamazonas.ec">
-    <title>Magazine</title>
-  </programme>
-  <programme start="20260501T120000 +0000" stop="20260501T150000 +0000" channel="Teleamazonas.ec">
-    <title>Series</title>
-  </programme>
-  <programme start="20260501T150000 +0000" stop="20260501T180000 +0000" channel="Teleamazonas.ec">
-    <title>Películas</title>
-  </programme>
-  <programme start="20260501T180000 +0000" stop="20260501T210000 +0000" channel="Teleamazonas.ec">
-    <title>Noticias Estelar</title>
-  </programme>
-  <programme start="20260501T210000 +0000" stop="20260501T235900 +0000" channel="Teleamazonas.ec">
-    <title>Prime Time</title>
-  </programme>
-  <programme start="20260501T235900 +0000" stop="20260501T235900 +0000" channel="Teleamazonas.ec">
-    <title>Cierre de transmisión</title>
-  </programme>
-  <programme start="20260502T060000 +0000" stop="20260502T090000 +0000" channel="Teleamazonas.ec">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20260502T090000 +0000" stop="20260502T120000 +0000" channel="Teleamazonas.ec">
-    <title>Magazine</title>
-  </programme>
-  <programme start="20260502T120000 +0000" stop="20260502T150000 +0000" channel="Teleamazonas.ec">
-    <title>Series</title>
-  </programme>
-  <programme start="20260502T150000 +0000" stop="20260502T180000 +0000" channel="Teleamazonas.ec">
-    <title>Películas</title>
-  </programme>
-  <programme start="20260502T180000 +0000" stop="20260502T210000 +0000" channel="Teleamazonas.ec">
-    <title>Noticias Estelar</title>
-  </programme>
-  <programme start="20260502T210000 +0000" stop="20260502T235900 +0000" channel="Teleamazonas.ec">
-    <title>Prime Time</title>
-  </programme>
-  <programme start="20260502T235900 +0000" stop="20260502T235900 +0000" channel="Teleamazonas.ec">
-    <title>Cierre de transmisión</title>
-  </programme>
-  <programme start="20260503T060000 +0000" stop="20260503T090000 +0000" channel="Teleamazonas.ec">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20260503T090000 +0000" stop="20260503T120000 +0000" channel="Teleamazonas.ec">
-    <title>Magazine</title>
-  </programme>
-  <programme start="20260503T120000 +0000" stop="20260503T150000 +0000" channel="Teleamazonas.ec">
-    <title>Series</title>
-  </programme>
-  <programme start="20260503T150000 +0000" stop="20260503T180000 +0000" channel="Teleamazonas.ec">
-    <title>Películas</title>
-  </programme>
-  <programme start="20260503T180000 +0000" stop="20260503T210000 +0000" channel="Teleamazonas.ec">
-    <title>Noticias Estelar</title>
-  </programme>
-  <programme start="20260503T210000 +0000" stop="20260503T235900 +0000" channel="Teleamazonas.ec">
-    <title>Prime Time</title>
-  </programme>
-  <programme start="20260503T235900 +0000" stop="20260503T235900 +0000" channel="Teleamazonas.ec">
-    <title>Cierre de transmisión</title>
-  </programme>
-  <programme start="20260504T060000 +0000" stop="20260504T090000 +0000" channel="Teleamazonas.ec">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20260504T090000 +0000" stop="20260504T120000 +0000" channel="Teleamazonas.ec">
-    <title>Magazine</title>
-  </programme>
-  <programme start="20260504T120000 +0000" stop="20260504T150000 +0000" channel="Teleamazonas.ec">
-    <title>Series</title>
-  </programme>
-  <programme start="20260504T150000 +0000" stop="20260504T180000 +0000" channel="Teleamazonas.ec">
-    <title>Películas</title>
-  </programme>
-  <programme start="20260504T180000 +0000" stop="20260504T210000 +0000" channel="Teleamazonas.ec">
-    <title>Noticias Estelar</title>
-  </programme>
-  <programme start="20260504T210000 +0000" stop="20260504T235900 +0000" channel="Teleamazonas.ec">
-    <title>Prime Time</title>
-  </programme>
-  <programme start="20260504T235900 +0000" stop="20260504T235900 +0000" channel="Teleamazonas.ec">
-    <title>Cierre de transmisión</title>
-  </programme>
-  <programme start="20260430T060000 +0000" stop="20260430T090000 +0000" channel="RTS.ec">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20260430T090000 +0000" stop="20260430T120000 +0000" channel="RTS.ec">
-    <title>Magazine</title>
-  </programme>
-  <programme start="20260430T120000 +0000" stop="20260430T150000 +0000" channel="RTS.ec">
-    <title>Series</title>
-  </programme>
-  <programme start="20260430T150000 +0000" stop="20260430T180000 +0000" channel="RTS.ec">
-    <title>Películas</title>
-  </programme>
-  <programme start="20260430T180000 +0000" stop="20260430T210000 +0000" channel="RTS.ec">
-    <title>Noticias Estelar</title>
-  </programme>
-  <programme start="20260430T210000 +0000" stop="20260430T235900 +0000" channel="RTS.ec">
-    <title>Prime Time</title>
-  </programme>
-  <programme start="20260430T235900 +0000" stop="20260430T235900 +0000" channel="RTS.ec">
-    <title>Cierre de transmisión</title>
-  </programme>
-  <programme start="20260501T060000 +0000" stop="20260501T090000 +0000" channel="RTS.ec">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20260501T090000 +0000" stop="20260501T120000 +0000" channel="RTS.ec">
-    <title>Magazine</title>
-  </programme>
-  <programme start="20260501T120000 +0000" stop="20260501T150000 +0000" channel="RTS.ec">
-    <title>Series</title>
-  </programme>
-  <programme start="20260501T150000 +0000" stop="20260501T180000 +0000" channel="RTS.ec">
-    <title>Películas</title>
-  </programme>
-  <programme start="20260501T180000 +0000" stop="20260501T210000 +0000" channel="RTS.ec">
-    <title>Noticias Estelar</title>
-  </programme>
-  <programme start="20260501T210000 +0000" stop="20260501T235900 +0000" channel="RTS.ec">
-    <title>Prime Time</title>
-  </programme>
-  <programme start="20260501T235900 +0000" stop="20260501T235900 +0000" channel="RTS.ec">
-    <title>Cierre de transmisión</title>
-  </programme>
-  <programme start="20260502T060000 +0000" stop="20260502T090000 +0000" channel="RTS.ec">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20260502T090000 +0000" stop="20260502T120000 +0000" channel="RTS.ec">
-    <title>Magazine</title>
-  </programme>
-  <programme start="20260502T120000 +0000" stop="20260502T150000 +0000" channel="RTS.ec">
-    <title>Series</title>
-  </programme>
-  <programme start="20260502T150000 +0000" stop="20260502T180000 +0000" channel="RTS.ec">
-    <title>Películas</title>
-  </programme>
-  <programme start="20260502T180000 +0000" stop="20260502T210000 +0000" channel="RTS.ec">
-    <title>Noticias Estelar</title>
-  </programme>
-  <programme start="20260502T210000 +0000" stop="20260502T235900 +0000" channel="RTS.ec">
-    <title>Prime Time</title>
-  </programme>
-  <programme start="20260502T235900 +0000" stop="20260502T235900 +0000" channel="RTS.ec">
-    <title>Cierre de transmisión</title>
-  </programme>
-  <programme start="20260503T060000 +0000" stop="20260503T090000 +0000" channel="RTS.ec">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20260503T090000 +0000" stop="20260503T120000 +0000" channel="RTS.ec">
-    <title>Magazine</title>
-  </programme>
-  <programme start="20260503T120000 +0000" stop="20260503T150000 +0000" channel="RTS.ec">
-    <title>Series</title>
-  </programme>
-  <programme start="20260503T150000 +0000" stop="20260503T180000 +0000" channel="RTS.ec">
-    <title>Películas</title>
-  </programme>
-  <programme start="20260503T180000 +0000" stop="20260503T210000 +0000" channel="RTS.ec">
-    <title>Noticias Estelar</title>
-  </programme>
-  <programme start="20260503T210000 +0000" stop="20260503T235900 +0000" channel="RTS.ec">
-    <title>Prime Time</title>
-  </programme>
-  <programme start="20260503T235900 +0000" stop="20260503T235900 +0000" channel="RTS.ec">
-    <title>Cierre de transmisión</title>
-  </programme>
-  <programme start="20260504T060000 +0000" stop="20260504T090000 +0000" channel="RTS.ec">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20260504T090000 +0000" stop="20260504T120000 +0000" channel="RTS.ec">
-    <title>Magazine</title>
-  </programme>
-  <programme start="20260504T120000 +0000" stop="20260504T150000 +0000" channel="RTS.ec">
-    <title>Series</title>
-  </programme>
-  <programme start="20260504T150000 +0000" stop="20260504T180000 +0000" channel="RTS.ec">
-    <title>Películas</title>
-  </programme>
-  <programme start="20260504T180000 +0000" stop="20260504T210000 +0000" channel="RTS.ec">
-    <title>Noticias Estelar</title>
-  </programme>
-  <programme start="20260504T210000 +0000" stop="20260504T235900 +0000" channel="RTS.ec">
-    <title>Prime Time</title>
-  </programme>
-  <programme start="20260504T235900 +0000" stop="20260504T235900 +0000" channel="RTS.ec">
-    <title>Cierre de transmisión</title>
-  </programme>
-  <programme start="20260430T060000 +0000" stop="20260430T090000 +0000" channel="TCTelevision.ec">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20260430T090000 +0000" stop="20260430T120000 +0000" channel="TCTelevision.ec">
-    <title>Magazine</title>
-  </programme>
-  <programme start="20260430T120000 +0000" stop="20260430T150000 +0000" channel="TCTelevision.ec">
-    <title>Series</title>
-  </programme>
-  <programme start="20260430T150000 +0000" stop="20260430T180000 +0000" channel="TCTelevision.ec">
-    <title>Películas</title>
-  </programme>
-  <programme start="20260430T180000 +0000" stop="20260430T210000 +0000" channel="TCTelevision.ec">
-    <title>Noticias Estelar</title>
-  </programme>
-  <programme start="20260430T210000 +0000" stop="20260430T235900 +0000" channel="TCTelevision.ec">
-    <title>Prime Time</title>
-  </programme>
-  <programme start="20260430T235900 +0000" stop="20260430T235900 +0000" channel="TCTelevision.ec">
-    <title>Cierre de transmisión</title>
-  </programme>
-  <programme start="20260501T060000 +0000" stop="20260501T090000 +0000" channel="TCTelevision.ec">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20260501T090000 +0000" stop="20260501T120000 +0000" channel="TCTelevision.ec">
-    <title>Magazine</title>
-  </programme>
-  <programme start="20260501T120000 +0000" stop="20260501T150000 +0000" channel="TCTelevision.ec">
-    <title>Series</title>
-  </programme>
-  <programme start="20260501T150000 +0000" stop="20260501T180000 +0000" channel="TCTelevision.ec">
-    <title>Películas</title>
-  </programme>
-  <programme start="20260501T180000 +0000" stop="20260501T210000 +0000" channel="TCTelevision.ec">
-    <title>Noticias Estelar</title>
-  </programme>
-  <programme start="20260501T210000 +0000" stop="20260501T235900 +0000" channel="TCTelevision.ec">
-    <title>Prime Time</title>
-  </programme>
-  <programme start="20260501T235900 +0000" stop="20260501T235900 +0000" channel="TCTelevision.ec">
-    <title>Cierre de transmisión</title>
-  </programme>
-  <programme start="20260502T060000 +0000" stop="20260502T090000 +0000" channel="TCTelevision.ec">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20260502T090000 +0000" stop="20260502T120000 +0000" channel="TCTelevision.ec">
-    <title>Magazine</title>
-  </programme>
-  <programme start="20260502T120000 +0000" stop="20260502T150000 +0000" channel="TCTelevision.ec">
-    <title>Series</title>
-  </programme>
-  <programme start="20260502T150000 +0000" stop="20260502T180000 +0000" channel="TCTelevision.ec">
-    <title>Películas</title>
-  </programme>
-  <programme start="20260502T180000 +0000" stop="20260502T210000 +0000" channel="TCTelevision.ec">
-    <title>Noticias Estelar</title>
-  </programme>
-  <programme start="20260502T210000 +0000" stop="20260502T235900 +0000" channel="TCTelevision.ec">
-    <title>Prime Time</title>
-  </programme>
-  <programme start="20260502T235900 +0000" stop="20260502T235900 +0000" channel="TCTelevision.ec">
-    <title>Cierre de transmisión</title>
-  </programme>
-  <programme start="20260503T060000 +0000" stop="20260503T090000 +0000" channel="TCTelevision.ec">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20260503T090000 +0000" stop="20260503T120000 +0000" channel="TCTelevision.ec">
-    <title>Magazine</title>
-  </programme>
-  <programme start="20260503T120000 +0000" stop="20260503T150000 +0000" channel="TCTelevision.ec">
-    <title>Series</title>
-  </programme>
-  <programme start="20260503T150000 +0000" stop="20260503T180000 +0000" channel="TCTelevision.ec">
-    <title>Películas</title>
-  </programme>
-  <programme start="20260503T180000 +0000" stop="20260503T210000 +0000" channel="TCTelevision.ec">
-    <title>Noticias Estelar</title>
-  </programme>
-  <programme start="20260503T210000 +0000" stop="20260503T235900 +0000" channel="TCTelevision.ec">
-    <title>Prime Time</title>
-  </programme>
-  <programme start="20260503T235900 +0000" stop="20260503T235900 +0000" channel="TCTelevision.ec">
-    <title>Cierre de transmisión</title>
-  </programme>
-  <programme start="20260504T060000 +0000" stop="20260504T090000 +0000" channel="TCTelevision.ec">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20260504T090000 +0000" stop="20260504T120000 +0000" channel="TCTelevision.ec">
-    <title>Magazine</title>
-  </programme>
-  <programme start="20260504T120000 +0000" stop="20260504T150000 +0000" channel="TCTelevision.ec">
-    <title>Series</title>
-  </programme>
-  <programme start="20260504T150000 +0000" stop="20260504T180000 +0000" channel="TCTelevision.ec">
-    <title>Películas</title>
-  </programme>
-  <programme start="20260504T180000 +0000" stop="20260504T210000 +0000" channel="TCTelevision.ec">
-    <title>Noticias Estelar</title>
-  </programme>
-  <programme start="20260504T210000 +0000" stop="20260504T235900 +0000" channel="TCTelevision.ec">
-    <title>Prime Time</title>
-  </programme>
-  <programme start="20260504T235900 +0000" stop="20260504T235900 +0000" channel="TCTelevision.ec">
-    <title>Cierre de transmisión</title>
+  <channel id="Sports.ec">
+    <display-name>Canal Deportes</display-name>
+  </channel>
+  <channel id="Movies.ec">
+    <display-name>Canal Películas</display-name>
+  </channel>
+  <programme start="20260501T015012 +0000" stop="20260501T035012 +0000" channel="Ecuavisa.ec">
+    <title>Revista en Vivo</title>
+    <desc>Entretenimiento y entrevistas.</desc>
+    <category>Magazine</category>
+    <icon src="https://i.imgur.com/3ZQ3Z6p.jpg" />
+  </programme>
+  <programme start="20260501T035012 +0000" stop="20260501T055012 +0000" channel="Ecuavisa.ec">
+    <title>Revista en Vivo</title>
+    <desc>Entretenimiento y entrevistas.</desc>
+    <category>Magazine</category>
+    <icon src="https://i.imgur.com/3ZQ3Z6p.jpg" />
+  </programme>
+  <programme start="20260501T055012 +0000" stop="20260501T075012 +0000" channel="Ecuavisa.ec">
+    <title>Revista en Vivo</title>
+    <desc>Entretenimiento y entrevistas.</desc>
+    <category>Magazine</category>
+    <icon src="https://i.imgur.com/3ZQ3Z6p.jpg" />
+  </programme>
+  <programme start="20260501T075012 +0000" stop="20260501T095012 +0000" channel="Ecuavisa.ec">
+    <title>Revista en Vivo</title>
+    <desc>Entretenimiento y entrevistas.</desc>
+    <category>Magazine</category>
+    <icon src="https://i.imgur.com/3ZQ3Z6p.jpg" />
+  </programme>
+  <programme start="20260501T095012 +0000" stop="20260501T115012 +0000" channel="Ecuavisa.ec">
+    <title>Telenovela</title>
+    <desc>Historias dramáticas para toda la familia.</desc>
+    <category>Drama</category>
+    <icon src="https://i.imgur.com/5KX6K9G.jpg" />
+  </programme>
+  <programme start="20260501T115012 +0000" stop="20260501T135012 +0000" channel="Ecuavisa.ec">
+    <title>Revista en Vivo</title>
+    <desc>Entretenimiento y entrevistas.</desc>
+    <category>Magazine</category>
+    <icon src="https://i.imgur.com/3ZQ3Z6p.jpg" />
+  </programme>
+  <programme start="20260501T135012 +0000" stop="20260501T155012 +0000" channel="Ecuavisa.ec">
+    <title>Revista en Vivo</title>
+    <desc>Entretenimiento y entrevistas.</desc>
+    <category>Magazine</category>
+    <icon src="https://i.imgur.com/3ZQ3Z6p.jpg" />
+  </programme>
+  <programme start="20260501T155012 +0000" stop="20260501T175012 +0000" channel="Ecuavisa.ec">
+    <title>Noticias de la Mañana</title>
+    <desc>Actualidad nacional e internacional.</desc>
+    <category>Noticias</category>
+    <icon src="https://i.imgur.com/0rZ4G6Q.jpg" />
+  </programme>
+  <programme start="20260501T175012 +0000" stop="20260501T195012 +0000" channel="Ecuavisa.ec">
+    <title>Telenovela</title>
+    <desc>Historias dramáticas para toda la familia.</desc>
+    <category>Drama</category>
+    <icon src="https://i.imgur.com/5KX6K9G.jpg" />
+  </programme>
+  <programme start="20260501T195012 +0000" stop="20260501T215012 +0000" channel="Ecuavisa.ec">
+    <title>Telenovela</title>
+    <desc>Historias dramáticas para toda la familia.</desc>
+    <category>Drama</category>
+    <icon src="https://i.imgur.com/5KX6K9G.jpg" />
+  </programme>
+  <programme start="20260501T215012 +0000" stop="20260501T235012 +0000" channel="Ecuavisa.ec">
+    <title>Telenovela</title>
+    <desc>Historias dramáticas para toda la familia.</desc>
+    <category>Drama</category>
+    <icon src="https://i.imgur.com/5KX6K9G.jpg" />
+  </programme>
+  <programme start="20260501T235012 +0000" stop="20260502T015012 +0000" channel="Ecuavisa.ec">
+    <title>Noticias de la Mañana</title>
+    <desc>Actualidad nacional e internacional.</desc>
+    <category>Noticias</category>
+    <icon src="https://i.imgur.com/0rZ4G6Q.jpg" />
+  </programme>
+  <programme start="20260501T015012 +0000" stop="20260501T035012 +0000" channel="Teleamazonas.ec">
+    <title>Revista en Vivo</title>
+    <desc>Entretenimiento y entrevistas.</desc>
+    <category>Magazine</category>
+    <icon src="https://i.imgur.com/3ZQ3Z6p.jpg" />
+  </programme>
+  <programme start="20260501T035012 +0000" stop="20260501T055012 +0000" channel="Teleamazonas.ec">
+    <title>Noticias de la Mañana</title>
+    <desc>Actualidad nacional e internacional.</desc>
+    <category>Noticias</category>
+    <icon src="https://i.imgur.com/0rZ4G6Q.jpg" />
+  </programme>
+  <programme start="20260501T055012 +0000" stop="20260501T075012 +0000" channel="Teleamazonas.ec">
+    <title>Revista en Vivo</title>
+    <desc>Entretenimiento y entrevistas.</desc>
+    <category>Magazine</category>
+    <icon src="https://i.imgur.com/3ZQ3Z6p.jpg" />
+  </programme>
+  <programme start="20260501T075012 +0000" stop="20260501T095012 +0000" channel="Teleamazonas.ec">
+    <title>Telenovela</title>
+    <desc>Historias dramáticas para toda la familia.</desc>
+    <category>Drama</category>
+    <icon src="https://i.imgur.com/5KX6K9G.jpg" />
+  </programme>
+  <programme start="20260501T095012 +0000" stop="20260501T115012 +0000" channel="Teleamazonas.ec">
+    <title>Telenovela</title>
+    <desc>Historias dramáticas para toda la familia.</desc>
+    <category>Drama</category>
+    <icon src="https://i.imgur.com/5KX6K9G.jpg" />
+  </programme>
+  <programme start="20260501T115012 +0000" stop="20260501T135012 +0000" channel="Teleamazonas.ec">
+    <title>Noticias de la Mañana</title>
+    <desc>Actualidad nacional e internacional.</desc>
+    <category>Noticias</category>
+    <icon src="https://i.imgur.com/0rZ4G6Q.jpg" />
+  </programme>
+  <programme start="20260501T135012 +0000" stop="20260501T155012 +0000" channel="Teleamazonas.ec">
+    <title>Telenovela</title>
+    <desc>Historias dramáticas para toda la familia.</desc>
+    <category>Drama</category>
+    <icon src="https://i.imgur.com/5KX6K9G.jpg" />
+  </programme>
+  <programme start="20260501T155012 +0000" stop="20260501T175012 +0000" channel="Teleamazonas.ec">
+    <title>Revista en Vivo</title>
+    <desc>Entretenimiento y entrevistas.</desc>
+    <category>Magazine</category>
+    <icon src="https://i.imgur.com/3ZQ3Z6p.jpg" />
+  </programme>
+  <programme start="20260501T175012 +0000" stop="20260501T195012 +0000" channel="Teleamazonas.ec">
+    <title>Noticias de la Mañana</title>
+    <desc>Actualidad nacional e internacional.</desc>
+    <category>Noticias</category>
+    <icon src="https://i.imgur.com/0rZ4G6Q.jpg" />
+  </programme>
+  <programme start="20260501T195012 +0000" stop="20260501T215012 +0000" channel="Teleamazonas.ec">
+    <title>Noticias de la Mañana</title>
+    <desc>Actualidad nacional e internacional.</desc>
+    <category>Noticias</category>
+    <icon src="https://i.imgur.com/0rZ4G6Q.jpg" />
+  </programme>
+  <programme start="20260501T215012 +0000" stop="20260501T235012 +0000" channel="Teleamazonas.ec">
+    <title>Telenovela</title>
+    <desc>Historias dramáticas para toda la familia.</desc>
+    <category>Drama</category>
+    <icon src="https://i.imgur.com/5KX6K9G.jpg" />
+  </programme>
+  <programme start="20260501T235012 +0000" stop="20260502T015012 +0000" channel="Teleamazonas.ec">
+    <title>Revista en Vivo</title>
+    <desc>Entretenimiento y entrevistas.</desc>
+    <category>Magazine</category>
+    <icon src="https://i.imgur.com/3ZQ3Z6p.jpg" />
+  </programme>
+  <programme start="20260501T015012 +0000" stop="20260501T035012 +0000" channel="RTS.ec">
+    <title>Telenovela</title>
+    <desc>Historias dramáticas para toda la familia.</desc>
+    <category>Drama</category>
+    <icon src="https://i.imgur.com/5KX6K9G.jpg" />
+  </programme>
+  <programme start="20260501T035012 +0000" stop="20260501T055012 +0000" channel="RTS.ec">
+    <title>Revista en Vivo</title>
+    <desc>Entretenimiento y entrevistas.</desc>
+    <category>Magazine</category>
+    <icon src="https://i.imgur.com/3ZQ3Z6p.jpg" />
+  </programme>
+  <programme start="20260501T055012 +0000" stop="20260501T075012 +0000" channel="RTS.ec">
+    <title>Noticias de la Mañana</title>
+    <desc>Actualidad nacional e internacional.</desc>
+    <category>Noticias</category>
+    <icon src="https://i.imgur.com/0rZ4G6Q.jpg" />
+  </programme>
+  <programme start="20260501T075012 +0000" stop="20260501T095012 +0000" channel="RTS.ec">
+    <title>Revista en Vivo</title>
+    <desc>Entretenimiento y entrevistas.</desc>
+    <category>Magazine</category>
+    <icon src="https://i.imgur.com/3ZQ3Z6p.jpg" />
+  </programme>
+  <programme start="20260501T095012 +0000" stop="20260501T115012 +0000" channel="RTS.ec">
+    <title>Revista en Vivo</title>
+    <desc>Entretenimiento y entrevistas.</desc>
+    <category>Magazine</category>
+    <icon src="https://i.imgur.com/3ZQ3Z6p.jpg" />
+  </programme>
+  <programme start="20260501T115012 +0000" stop="20260501T135012 +0000" channel="RTS.ec">
+    <title>Noticias de la Mañana</title>
+    <desc>Actualidad nacional e internacional.</desc>
+    <category>Noticias</category>
+    <icon src="https://i.imgur.com/0rZ4G6Q.jpg" />
+  </programme>
+  <programme start="20260501T135012 +0000" stop="20260501T155012 +0000" channel="RTS.ec">
+    <title>Noticias de la Mañana</title>
+    <desc>Actualidad nacional e internacional.</desc>
+    <category>Noticias</category>
+    <icon src="https://i.imgur.com/0rZ4G6Q.jpg" />
+  </programme>
+  <programme start="20260501T155012 +0000" stop="20260501T175012 +0000" channel="RTS.ec">
+    <title>Revista en Vivo</title>
+    <desc>Entretenimiento y entrevistas.</desc>
+    <category>Magazine</category>
+    <icon src="https://i.imgur.com/3ZQ3Z6p.jpg" />
+  </programme>
+  <programme start="20260501T175012 +0000" stop="20260501T195012 +0000" channel="RTS.ec">
+    <title>Telenovela</title>
+    <desc>Historias dramáticas para toda la familia.</desc>
+    <category>Drama</category>
+    <icon src="https://i.imgur.com/5KX6K9G.jpg" />
+  </programme>
+  <programme start="20260501T195012 +0000" stop="20260501T215012 +0000" channel="RTS.ec">
+    <title>Telenovela</title>
+    <desc>Historias dramáticas para toda la familia.</desc>
+    <category>Drama</category>
+    <icon src="https://i.imgur.com/5KX6K9G.jpg" />
+  </programme>
+  <programme start="20260501T215012 +0000" stop="20260501T235012 +0000" channel="RTS.ec">
+    <title>Revista en Vivo</title>
+    <desc>Entretenimiento y entrevistas.</desc>
+    <category>Magazine</category>
+    <icon src="https://i.imgur.com/3ZQ3Z6p.jpg" />
+  </programme>
+  <programme start="20260501T235012 +0000" stop="20260502T015012 +0000" channel="RTS.ec">
+    <title>Revista en Vivo</title>
+    <desc>Entretenimiento y entrevistas.</desc>
+    <category>Magazine</category>
+    <icon src="https://i.imgur.com/3ZQ3Z6p.jpg" />
+  </programme>
+  <programme start="20260501T015012 +0000" stop="20260501T035012 +0000" channel="TCTelevision.ec">
+    <title>Noticias de la Mañana</title>
+    <desc>Actualidad nacional e internacional.</desc>
+    <category>Noticias</category>
+    <icon src="https://i.imgur.com/0rZ4G6Q.jpg" />
+  </programme>
+  <programme start="20260501T035012 +0000" stop="20260501T055012 +0000" channel="TCTelevision.ec">
+    <title>Noticias de la Mañana</title>
+    <desc>Actualidad nacional e internacional.</desc>
+    <category>Noticias</category>
+    <icon src="https://i.imgur.com/0rZ4G6Q.jpg" />
+  </programme>
+  <programme start="20260501T055012 +0000" stop="20260501T075012 +0000" channel="TCTelevision.ec">
+    <title>Revista en Vivo</title>
+    <desc>Entretenimiento y entrevistas.</desc>
+    <category>Magazine</category>
+    <icon src="https://i.imgur.com/3ZQ3Z6p.jpg" />
+  </programme>
+  <programme start="20260501T075012 +0000" stop="20260501T095012 +0000" channel="TCTelevision.ec">
+    <title>Noticias de la Mañana</title>
+    <desc>Actualidad nacional e internacional.</desc>
+    <category>Noticias</category>
+    <icon src="https://i.imgur.com/0rZ4G6Q.jpg" />
+  </programme>
+  <programme start="20260501T095012 +0000" stop="20260501T115012 +0000" channel="TCTelevision.ec">
+    <title>Noticias de la Mañana</title>
+    <desc>Actualidad nacional e internacional.</desc>
+    <category>Noticias</category>
+    <icon src="https://i.imgur.com/0rZ4G6Q.jpg" />
+  </programme>
+  <programme start="20260501T115012 +0000" stop="20260501T135012 +0000" channel="TCTelevision.ec">
+    <title>Revista en Vivo</title>
+    <desc>Entretenimiento y entrevistas.</desc>
+    <category>Magazine</category>
+    <icon src="https://i.imgur.com/3ZQ3Z6p.jpg" />
+  </programme>
+  <programme start="20260501T135012 +0000" stop="20260501T155012 +0000" channel="TCTelevision.ec">
+    <title>Noticias de la Mañana</title>
+    <desc>Actualidad nacional e internacional.</desc>
+    <category>Noticias</category>
+    <icon src="https://i.imgur.com/0rZ4G6Q.jpg" />
+  </programme>
+  <programme start="20260501T155012 +0000" stop="20260501T175012 +0000" channel="TCTelevision.ec">
+    <title>Noticias de la Mañana</title>
+    <desc>Actualidad nacional e internacional.</desc>
+    <category>Noticias</category>
+    <icon src="https://i.imgur.com/0rZ4G6Q.jpg" />
+  </programme>
+  <programme start="20260501T175012 +0000" stop="20260501T195012 +0000" channel="TCTelevision.ec">
+    <title>Revista en Vivo</title>
+    <desc>Entretenimiento y entrevistas.</desc>
+    <category>Magazine</category>
+    <icon src="https://i.imgur.com/3ZQ3Z6p.jpg" />
+  </programme>
+  <programme start="20260501T195012 +0000" stop="20260501T215012 +0000" channel="TCTelevision.ec">
+    <title>Noticias de la Mañana</title>
+    <desc>Actualidad nacional e internacional.</desc>
+    <category>Noticias</category>
+    <icon src="https://i.imgur.com/0rZ4G6Q.jpg" />
+  </programme>
+  <programme start="20260501T215012 +0000" stop="20260501T235012 +0000" channel="TCTelevision.ec">
+    <title>Telenovela</title>
+    <desc>Historias dramáticas para toda la familia.</desc>
+    <category>Drama</category>
+    <icon src="https://i.imgur.com/5KX6K9G.jpg" />
+  </programme>
+  <programme start="20260501T235012 +0000" stop="20260502T015012 +0000" channel="TCTelevision.ec">
+    <title>Telenovela</title>
+    <desc>Historias dramáticas para toda la familia.</desc>
+    <category>Drama</category>
+    <icon src="https://i.imgur.com/5KX6K9G.jpg" />
+  </programme>
+  <programme start="20260501T015012 +0000" stop="20260501T035012 +0000" channel="Sports.ec">
+    <title>Fútbol en Vivo</title>
+    <desc>Partido en directo.</desc>
+    <category>Deportes</category>
+    <icon src="https://i.imgur.com/jK2l8dE.jpg" />
+  </programme>
+  <programme start="20260501T035012 +0000" stop="20260501T055012 +0000" channel="Sports.ec">
+    <title>Fútbol en Vivo</title>
+    <desc>Partido en directo.</desc>
+    <category>Deportes</category>
+    <icon src="https://i.imgur.com/jK2l8dE.jpg" />
+  </programme>
+  <programme start="20260501T055012 +0000" stop="20260501T075012 +0000" channel="Sports.ec">
+    <title>Fútbol en Vivo</title>
+    <desc>Partido en directo.</desc>
+    <category>Deportes</category>
+    <icon src="https://i.imgur.com/jK2l8dE.jpg" />
+  </programme>
+  <programme start="20260501T075012 +0000" stop="20260501T095012 +0000" channel="Sports.ec">
+    <title>Resumen Deportivo</title>
+    <desc>Lo mejor del deporte.</desc>
+    <category>Deportes</category>
+    <icon src="https://i.imgur.com/jK2l8dE.jpg" />
+  </programme>
+  <programme start="20260501T095012 +0000" stop="20260501T115012 +0000" channel="Sports.ec">
+    <title>Resumen Deportivo</title>
+    <desc>Lo mejor del deporte.</desc>
+    <category>Deportes</category>
+    <icon src="https://i.imgur.com/jK2l8dE.jpg" />
+  </programme>
+  <programme start="20260501T115012 +0000" stop="20260501T135012 +0000" channel="Sports.ec">
+    <title>Fútbol en Vivo</title>
+    <desc>Partido en directo.</desc>
+    <category>Deportes</category>
+    <icon src="https://i.imgur.com/jK2l8dE.jpg" />
+  </programme>
+  <programme start="20260501T135012 +0000" stop="20260501T155012 +0000" channel="Sports.ec">
+    <title>Resumen Deportivo</title>
+    <desc>Lo mejor del deporte.</desc>
+    <category>Deportes</category>
+    <icon src="https://i.imgur.com/jK2l8dE.jpg" />
+  </programme>
+  <programme start="20260501T155012 +0000" stop="20260501T175012 +0000" channel="Sports.ec">
+    <title>Resumen Deportivo</title>
+    <desc>Lo mejor del deporte.</desc>
+    <category>Deportes</category>
+    <icon src="https://i.imgur.com/jK2l8dE.jpg" />
+  </programme>
+  <programme start="20260501T175012 +0000" stop="20260501T195012 +0000" channel="Sports.ec">
+    <title>Fútbol en Vivo</title>
+    <desc>Partido en directo.</desc>
+    <category>Deportes</category>
+    <icon src="https://i.imgur.com/jK2l8dE.jpg" />
+  </programme>
+  <programme start="20260501T195012 +0000" stop="20260501T215012 +0000" channel="Sports.ec">
+    <title>Fútbol en Vivo</title>
+    <desc>Partido en directo.</desc>
+    <category>Deportes</category>
+    <icon src="https://i.imgur.com/jK2l8dE.jpg" />
+  </programme>
+  <programme start="20260501T215012 +0000" stop="20260501T235012 +0000" channel="Sports.ec">
+    <title>Resumen Deportivo</title>
+    <desc>Lo mejor del deporte.</desc>
+    <category>Deportes</category>
+    <icon src="https://i.imgur.com/jK2l8dE.jpg" />
+  </programme>
+  <programme start="20260501T235012 +0000" stop="20260502T015012 +0000" channel="Sports.ec">
+    <title>Resumen Deportivo</title>
+    <desc>Lo mejor del deporte.</desc>
+    <category>Deportes</category>
+    <icon src="https://i.imgur.com/jK2l8dE.jpg" />
+  </programme>
+  <programme start="20260501T015012 +0000" stop="20260501T035012 +0000" channel="Movies.ec">
+    <title>Acción Total</title>
+    <desc>Películas de acción.</desc>
+    <category>Acción</category>
+    <icon src="https://i.imgur.com/9O1Iy9od.jpg" />
+  </programme>
+  <programme start="20260501T035012 +0000" stop="20260501T055012 +0000" channel="Movies.ec">
+    <title>Película del Día</title>
+    <desc>Cine destacado.</desc>
+    <category>Películas</category>
+    <icon src="https://i.imgur.com/9XK8Z1Y.jpg" />
+  </programme>
+  <programme start="20260501T055012 +0000" stop="20260501T075012 +0000" channel="Movies.ec">
+    <title>Acción Total</title>
+    <desc>Películas de acción.</desc>
+    <category>Acción</category>
+    <icon src="https://i.imgur.com/9O1Iy9od.jpg" />
+  </programme>
+  <programme start="20260501T075012 +0000" stop="20260501T095012 +0000" channel="Movies.ec">
+    <title>Acción Total</title>
+    <desc>Películas de acción.</desc>
+    <category>Acción</category>
+    <icon src="https://i.imgur.com/9O1Iy9od.jpg" />
+  </programme>
+  <programme start="20260501T095012 +0000" stop="20260501T115012 +0000" channel="Movies.ec">
+    <title>Acción Total</title>
+    <desc>Películas de acción.</desc>
+    <category>Acción</category>
+    <icon src="https://i.imgur.com/9O1Iy9od.jpg" />
+  </programme>
+  <programme start="20260501T115012 +0000" stop="20260501T135012 +0000" channel="Movies.ec">
+    <title>Acción Total</title>
+    <desc>Películas de acción.</desc>
+    <category>Acción</category>
+    <icon src="https://i.imgur.com/9O1Iy9od.jpg" />
+  </programme>
+  <programme start="20260501T135012 +0000" stop="20260501T155012 +0000" channel="Movies.ec">
+    <title>Acción Total</title>
+    <desc>Películas de acción.</desc>
+    <category>Acción</category>
+    <icon src="https://i.imgur.com/9O1Iy9od.jpg" />
+  </programme>
+  <programme start="20260501T155012 +0000" stop="20260501T175012 +0000" channel="Movies.ec">
+    <title>Acción Total</title>
+    <desc>Películas de acción.</desc>
+    <category>Acción</category>
+    <icon src="https://i.imgur.com/9O1Iy9od.jpg" />
+  </programme>
+  <programme start="20260501T175012 +0000" stop="20260501T195012 +0000" channel="Movies.ec">
+    <title>Película del Día</title>
+    <desc>Cine destacado.</desc>
+    <category>Películas</category>
+    <icon src="https://i.imgur.com/9XK8Z1Y.jpg" />
+  </programme>
+  <programme start="20260501T195012 +0000" stop="20260501T215012 +0000" channel="Movies.ec">
+    <title>Acción Total</title>
+    <desc>Películas de acción.</desc>
+    <category>Acción</category>
+    <icon src="https://i.imgur.com/9O1Iy9od.jpg" />
+  </programme>
+  <programme start="20260501T215012 +0000" stop="20260501T235012 +0000" channel="Movies.ec">
+    <title>Acción Total</title>
+    <desc>Películas de acción.</desc>
+    <category>Acción</category>
+    <icon src="https://i.imgur.com/9O1Iy9od.jpg" />
+  </programme>
+  <programme start="20260501T235012 +0000" stop="20260502T015012 +0000" channel="Movies.ec">
+    <title>Acción Total</title>
+    <desc>Películas de acción.</desc>
+    <category>Acción</category>
+    <icon src="https://i.imgur.com/9O1Iy9od.jpg" />
   </programme>
 </tv>
