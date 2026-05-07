@@ -117,6 +117,115 @@ https://nhkworld-tv.akamaized.net/hls/live/2003458/nhkworld-tv/index.m3u8
 https://bloomberg-bloomberg-1-br.samsung.wurl.com/manifest/playlist.m3u8
 
 # ========================
+# 🌍 LISTA COMPLETA - INTERNACIONALES FAST
+# ========================
+
+#EXTINF:-1 tvg-id="" group-title="PROXY",Proxy 01
+http://181.114.57.246:4000/play/qUqJGdarkz5aTfGt/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Mexico",Las Estrellas
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="" group-title="Mexico",Canal de las Estrellas OnlyMex
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="USA / Mexico",Univision
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
+
+#EXTINF:-1 tvg-id="" group-title="Mexico",Telediario Now - Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1ynn&did=3dafe10496907bcf3d5a3415a3135845&ifa_type=sessionid&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&country=mx&country_region=mexico%20city&postal_code=07890&site_page=https%253a%252f%252fwww.canela.tv%252fes%252flinear%252ftelediario-now&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1726015280&id=69276&ip=2806%3A2f0%3Aa2a0%3Afb1d%3A7121%3A79d4%3Ac454%3A16ac&override_expiration=1500&deliveryProfileId=23762&sign=1MztDmTEi0FHwHXT9qSFpZNa08kwr6CgtXl8ZbK0rIs%3D
+
+#EXTINF:-1 tvg-id="" group-title="Mexico",Multimedios 1
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
+
+#EXTINF:-1 tvg-id="" group-title="Mexico",Multimedios 2
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=2i2bzPvKsEJ65OkOU6MbUwS0nQjEAxB7&sid=HN5SEWatl6lcA0kVSszqu3mpk35ney4P&pid=7RwOzwLBfqdEpmIE5PoQHI6Y6Sq2nmni&an=screen&at=web-app&av=v5.2.201&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=300x150&without_cookies=false&dnt=true.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Mexico",Multimedios 3
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?
+
+#EXTINF:-1 tvg-id="" group-title="Mexico",Multimedios 4
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8?
+
+#EXTINF:-1 tvg-id="" group-title="Italia",Italia IGD
+https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Mexico",Aprende.gob.mx
+https://stream.aprende.gob.mx/live/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Mexico",Canal Once Dos
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="" group-title="Mexico",TV4
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Mexico",Teleradio
+https://5ca9af4645e15.streamlock.net:443/teleradio/smil:teleradio.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Internacional",Frequency Studio
+https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PROXY",Proxy 02
+http://181.114.57.246:4000/play/wQWF578wnjn2Lnrz/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PROXY",Proxy 03
+http://181.114.57.246:4000/play/xDmVBDWKHJDg/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PROXY",Proxy 04
+http://181.114.57.246:4000/play/hgRR6HGdf23As/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PROXY",Proxy 05
+http://181.114.57.246:4000/play/s8FgQukj6d9eKmT9/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PROXY",Proxy 06
+http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PROXY",Proxy 07
+http://181.114.57.246:4000/play/Um9B9zJk9LEqj7aA/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PROXY",Proxy 08
+http://181.114.57.246:4000/play/s8HLStQvq2dwPhSk/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PROXY",Proxy 09
+http://181.114.57.246:4000/play/f8jnN96QRRHSLgvE/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PROXY",Proxy 10
+http://181.114.57.246:4000/play/NnnBAHA2yQc4AG82/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PROXY",Proxy 11
+http://181.114.57.246:4000/play/z2Whc6dVUvW6c9BE/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PROXY",Proxy 12
+http://181.114.57.246:4000/play/TR65WqDLpEby8nmy/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PROXY",Proxy 13
+http://181.114.57.246:4000/play/akjWPSp33R6D9dv3/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PROXY",Proxy 14
+http://181.114.57.246:4000/play/36UNSCv2nkjpgZ2Y/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PROXY",Proxy 15
+http://181.114.57.246:4000/play/8Cq8VftfuLDUjBSh/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PROXY",Proxy 16
+http://181.114.57.246:4000/play/ZbNgJUAyX5qQ2Kck/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PROXY",Proxy 17
+http://181.114.57.246:4000/play/ZAtkbM9v9JDDCwCh/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Peru",ATV Perú
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PROXY",Proxy 18
+http://181.114.57.246:4000/play/G5zcc3HYpdc5AjMs/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PROXY",Proxy 19
+http://181.114.57.246:4000/play/h9ZJEvEGVfy9by8W/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PROXY",Proxy 20
+http://181.114.57.246:4000/play/4hrEpujghmYgjET8/index.m3u8
+
+# ========================
 # 🌐 OTROS
 # ========================
 
