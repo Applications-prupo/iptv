@@ -23,7 +23,7 @@ https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
 https://stmv6.voxtvhd.com.br/sonorama/sonorama/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TCTelevision.ec" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="TV Nacional Ecuador",TC Televisión
-https://live2.eu-north-1b.cf.dmcdn.net/cloud/3/x7wijay/s/live-720.m3u8
+http://170.244.209.30:8000/play/a0uc/index.m3u8
 
 #EXTINF:-1 group-title="TV Nacional Ecuador",RTU
 https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
