@@ -25,7 +25,7 @@ https://stmv6.voxtvhd.com.br/sonorama/sonorama/playlist.m3u8
 #EXTINF:-1 tvg-id="TCTelevision.ec" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="TV Nacional Ecuador",TC Televisión
 http://170.244.209.30:8000/play/a0uc/index.m3u8
 
-#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="TV Nacional Ecuador",TC Televisión
+#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="TV Nacional Ecuador",TC LIKETV
 http://205.235.6.29:8000/play/a0ya/index.m3u8?hls
 
 #EXTINF:-1 group-title="TV Nacional Ecuador",RTU
