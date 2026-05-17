@@ -4,10 +4,10 @@
 # TV NACIONAL ECUADOR
 # =====================================================
 
-#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).ec" tvg-logo="https://i.imgur.com/fZbDiZq.jpeg" group-title="TV Nacional Ecuador",Ecuavisa Guayaquil
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/fZbDiZq.jpeg" group-title="TV Nacional Ecuador",Ecuavisa Guayaquil
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).ec" tvg-logo="https://i.imgur.com/vcTH4Iy.jpeg" group-title="TV Nacional Ecuador",Ecuavisa Quito
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/vcTH4Iy.jpeg" group-title="TV Nacional Ecuador",Ecuavisa Quito
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Teleamazonas.ec" tvg-logo="https://iptv-org.github.io/logos/ec/Teleamazonas.png" group-title="TV Nacional Ecuador",Teleamazonas
