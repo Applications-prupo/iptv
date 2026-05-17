@@ -4,7 +4,7 @@ const axios = require("axios");
 const zlib = require("zlib");
 const readline = require("readline");
 
-// 📡 LISTA DE IDs EXACTOS (Sacados de tu escaneo)
+// 📡 LISTA DE IDs EXACTOS
 const TARGET_IDS = [
     "Canal.Ecuavisa.(Ecuador).ec",
     "Canal.TC.TelevisiÃ³n.ec",
@@ -24,54 +24,64 @@ async function generateFinalEPG() {
     const url = "https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz";
     const outputPath = path.join(__dirname, "epg.xml");
     
-    console.log("🚀 Extrayendo programación real para Ecuador...");
+    console.log("🚀 Extrayendo y reparando etiquetas XML para Ecuador...");
 
     try {
         const response = await axios({ method: 'get', url: url, responseType: 'stream' });
         const gunzip = zlib.createGunzip();
         const rl = readline.createInterface({ input: response.data.pipe(gunzip), terminal: false });
 
-        let finalXml = `<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n`;
-        let programmes = "";
+        // Empezamos con la cabecera limpia
+        let channelsPart = "";
+        let programmesPart = "";
         let foundChannels = new Set();
+        let inProg = false;
 
         for await (const line of rl) {
-            // 1. Detectar y guardar información del canal
-            if (line.includes("<channel")) {
-                const match = TARGET_IDS.find(id => line.includes(`id="${id}"`));
+            const cleanLine = line.trim();
+
+            // 1. Manejo de Canales (Aseguramos cierre individual)
+            if (cleanLine.includes("<channel")) {
+                const match = TARGET_IDS.find(id => cleanLine.includes(`id="${id}"`));
                 if (match) {
-                    finalXml += `  ${line}\n`;
+                    // Si la línea no incluye el cierre </channel>, lo forzamos o limpiamos
+                    if (cleanLine.includes("/>") || cleanLine.includes("</channel>")) {
+                        channelsPart += `  ${cleanLine}\n`;
+                    } else {
+                        channelsPart += `  ${cleanLine}</channel>\n`;
+                    }
                     foundChannels.add(match);
                 }
             }
 
-            // 2. Detectar y guardar los programas
-            if (line.includes("<programme")) {
-                const match = TARGET_IDS.find(id => line.includes(`channel="${id}"`));
+            // 2. Manejo de Programas + Ajuste de Hora + Cierre Seguro
+            if (cleanLine.includes("<programme")) {
+                const match = TARGET_IDS.find(id => cleanLine.includes(`channel="${id}"`));
                 if (match) {
-                    let fullProgramme = line + "\n";
-                    // Capturamos el resto del bloque hasta </programme>
-                    inProg = true; 
-                    // Nota: En este modo streaming, los programas suelen venir completos por línea 
-                    // o en bloques continuos. La mayoría de estas fuentes ponen el bloque en pocas líneas.
-                    programmes += `  ${line}\n`;
+                    inProg = true;
+                    // Ajuste de hora a Ecuador (-0500)
+                    let fixedLine = cleanLine.replace(/(\+|\-)\d{4}/g, "-0500");
+                    programmesPart += `  ${fixedLine}\n`;
                 }
-            }
-            
-            // Si la línea es parte de un programa que nos interesa (título, desc, etc.)
-            // Este filtro es simple: si la línea contiene un ID de nuestra lista y es un dato de programa.
-            if ((line.includes("<title") || line.includes("<desc") || line.includes("</programme")) && 
-                TARGET_IDS.some(id => line.includes(id) || inProg)) {
-                programmes += `  ${line}\n`;
-                if (line.includes("</programme>")) inProg = false;
+            } else if (inProg) {
+                programmesPart += `  ${cleanLine}\n`;
+                if (cleanLine.includes("</programme>")) {
+                    inProg = false;
+                }
             }
         }
 
-        finalXml += programmes + `</tv>`;
-        fs.writeFileSync(outputPath, finalXml);
+        // --- CONSTRUCCIÓN FINAL SEGURA ---
+        let finalXml = `<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n`;
+        finalXml += channelsPart;
+        finalXml += programmesPart;
+        finalXml += `</tv>`; // Cierre maestro garantizado
+
+        fs.writeFileSync(outputPath, finalXml, 'utf8');
         
         console.log("---------------------------------------");
-        console.log(`✅ ¡GUÍA LISTA! Canales procesados: ${foundChannels.size}`);
+        console.log(`✅ ¡GUÍA REPARADA!`);
+        console.log(`📺 Canales encontrados: ${foundChannels.size}`);
         console.log(`📂 Archivo: ${outputPath}`);
         console.log("---------------------------------------");
 
@@ -80,5 +90,4 @@ async function generateFinalEPG() {
     }
 }
 
-let inProg = false; // Variable auxiliar para el bucle
 generateFinalEPG();
