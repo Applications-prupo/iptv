@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="Canal.Animal.Planet.(Ecuador).ec"></channel>
   <channel id="Canal.Discovery.Kids.(Ecuador).ec"></channel>
   <channel id="Canal.Disney.Channel.(Ecuador).ec"></channel>
   <channel id="Canal.ESPN.(Ecuador).ec"></channel>
@@ -8,8 +9,224 @@
   <channel id="Canal.Ecuavisa.(Ecuador).ec"></channel>
   <channel id="Canal.Nickelodeon.(Ecuador).ec"></channel>
   <channel id="Canal.RTS.ec"></channel>
+  <channel id="Canal.TLC.(Ecuador).ec"></channel>
   <channel id="Canal.TNT.(Ecuador).ec"></channel>
   <channel id="Canal.Warner.TV.(Ecuador).ec"></channel>
+  <programme start="20260516003200 -0500" stop="20260516011700 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Wild Frank tras la evolución de las especies</title>
+  <sub-title lang="es">Camellos en el interior</sub-title>
+  </programme>
+  <programme start="20260516011700 -0500" stop="20260516020600 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Guaridas con estilo</title>
+  <sub-title lang="es">El palacio del fútbol</sub-title>
+  </programme>
+  <programme start="20260516020600 -0500" stop="20260516025500 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Guardianes de Texas</title>
+  <sub-title lang="es">Trampa para caimanes</sub-title>
+  </programme>
+  <programme start="20260516025500 -0500" stop="20260516034400 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Guardianes de Texas</title>
+  <sub-title lang="es">Operación nocturna</sub-title>
+  </programme>
+  <programme start="20260516034400 -0500" stop="20260516042900 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Wild Frank tras la evolución de las especies</title>
+  <sub-title lang="es">Londres a Australia</sub-title>
+  </programme>
+  <programme start="20260516042900 -0500" stop="20260516051400 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Wild Frank tras la evolución de las especies</title>
+  <sub-title lang="es">Encuentro con un canguro rojo</sub-title>
+  </programme>
+  <programme start="20260516051400 -0500" stop="20260516060000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Wild Frank tras la evolución de las especies</title>
+  <sub-title lang="es">Camellos en el interior</sub-title>
+  </programme>
+  <programme start="20260516060000 -0500" stop="20260516065100 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">El zoológico del Bronx</title>
+  <sub-title lang="es">El tigre en el dentista</sub-title>
+  </programme>
+  <programme start="20260516065100 -0500" stop="20260516074200 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Historias Animales</title>
+  </programme>
+  <programme start="20260516074200 -0500" stop="20260516082900 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Refugio en el granero</title>
+  <sub-title lang="es">Fiebre de Primavera</sub-title>
+  </programme>
+  <programme start="20260516082900 -0500" stop="20260516085400 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Animales y famosos</title>
+  <sub-title lang="es">El enfrentamiento de Whitney Cummings con un coyote</sub-title>
+  </programme>
+  <programme start="20260516085400 -0500" stop="20260516091900 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Animales y famosos</title>
+  <sub-title lang="es">La calamidad de David Arquette</sub-title>
+  </programme>
+  <programme start="20260516091900 -0500" stop="20260516094500 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Pequeños gigantes de la naturaleza</title>
+  <sub-title lang="es">El terminator del desierto</sub-title>
+  </programme>
+  <programme start="20260516094500 -0500" stop="20260516101000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Pequeños gigantes de la naturaleza</title>
+  <sub-title lang="es">Mordedura jurásica</sub-title>
+  </programme>
+  <programme start="20260516101000 -0500" stop="20260516105500 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Viento del Everest</title>
+  <sub-title lang="es">Medicina en la montaña</sub-title>
+  </programme>
+  <programme start="20260516105500 -0500" stop="20260516114700 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Guaridas con estilo</title>
+  <sub-title lang="es">El palacio del fútbol</sub-title>
+  </programme>
+  <programme start="20260516114700 -0500" stop="20260516123800 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Guardianes de Texas</title>
+  <sub-title lang="es">Trampa para caimanes</sub-title>
+  </programme>
+  <programme start="20260516123800 -0500" stop="20260516132900 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Guardianes de Texas</title>
+  <sub-title lang="es">Operación nocturna</sub-title>
+  </programme>
+  <programme start="20260516132900 -0500" stop="20260516141700 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Wild Frank tras la evolución de las especies</title>
+  <sub-title lang="es">Londres a Australia</sub-title>
+  </programme>
+  <programme start="20260516141700 -0500" stop="20260516150500 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Wild Frank tras la evolución de las especies</title>
+  <sub-title lang="es">Encuentro con un canguro rojo</sub-title>
+  </programme>
+  <programme start="20260516150500 -0500" stop="20260516155300 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Wild Frank tras la evolución de las especies</title>
+  <sub-title lang="es">Camellos en el interior</sub-title>
+  </programme>
+  <programme start="20260516155300 -0500" stop="20260516164000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Wild Frank</title>
+  </programme>
+  <programme start="20260516164000 -0500" stop="20260516173100 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Jeff Corwin en acción</title>
+  <sub-title lang="es">En el corazón de la oscuridad</sub-title>
+  </programme>
+  <programme start="20260516173100 -0500" stop="20260516182200 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Jeff Corwin en acción</title>
+  <sub-title lang="es">La vida secreta de Jeff Corwin</sub-title>
+  </programme>
+  <programme start="20260516182200 -0500" stop="20260516191000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Mansiones en los Árboles</title>
+  <sub-title lang="es">Una casa camuflada</sub-title>
+  </programme>
+  <programme start="20260516191000 -0500" stop="20260516200100 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Mascotas revoltosas</title>
+  <sub-title lang="es">Sucios</sub-title>
+  </programme>
+  <programme start="20260516200100 -0500" stop="20260516205200 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">El zoológico del Bronx</title>
+  <sub-title lang="es">El tigre en el dentista</sub-title>
+  </programme>
+  <programme start="20260516205200 -0500" stop="20260516214300 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">El zoológico del Bronx</title>
+  <sub-title lang="es">Un huevo extraño</sub-title>
+  </programme>
+  <programme start="20260516214300 -0500" stop="20260516223400 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Historias Animales</title>
+  </programme>
+  <programme start="20260516223400 -0500" stop="20260516232500 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Refugio en el granero</title>
+  <sub-title lang="es">Estampida de Buttercup</sub-title>
+  </programme>
+  <programme start="20260516232500 -0500" stop="20260517000900 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Viento del Everest</title>
+  <sub-title lang="es">La vida a 5000 metros</sub-title>
+  </programme>
+  <programme start="20260517000900 -0500" stop="20260517010000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Mascotas revoltosas</title>
+  <sub-title lang="es">Sucios</sub-title>
+  </programme>
+  <programme start="20260517010000 -0500" stop="20260517015100 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">El zoológico del Bronx</title>
+  <sub-title lang="es">El tigre en el dentista</sub-title>
+  </programme>
+  <programme start="20260517015100 -0500" stop="20260517024200 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">El zoológico del Bronx</title>
+  <sub-title lang="es">Un huevo extraño</sub-title>
+  </programme>
+  <programme start="20260517024200 -0500" stop="20260517033300 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Historias Animales</title>
+  </programme>
+  <programme start="20260517033300 -0500" stop="20260517042400 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Refugio en el granero</title>
+  <sub-title lang="es">Estampida de Buttercup</sub-title>
+  </programme>
+  <programme start="20260517042400 -0500" stop="20260517060000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Viento del Everest</title>
+  <sub-title lang="es">La vida a 5000 metros</sub-title>
+  </programme>
+  <programme start="20260517060000 -0500" stop="20260517065000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Los Irwin</title>
+  <sub-title lang="es">La primera cita de la tortuga</sub-title>
+  </programme>
+  <programme start="20260517065000 -0500" stop="20260517074000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">El zoológico del Bronx</title>
+  <sub-title lang="es">Cachorros en Queens</sub-title>
+  </programme>
+  <programme start="20260517074000 -0500" stop="20260517083000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">El zoológico del Bronx</title>
+  <sub-title lang="es">Zorro pequeño, corazón grande</sub-title>
+  </programme>
+  <programme start="20260517083000 -0500" stop="20260517085600 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Animales y famosos</title>
+  <sub-title lang="es">El oso de Emily Deschanel</sub-title>
+  </programme>
+  <programme start="20260517085600 -0500" stop="20260517092200 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Animales y famosos</title>
+  <sub-title lang="es">El clima insoportable de Al Roker</sub-title>
+  </programme>
+  <programme start="20260517092200 -0500" stop="20260517094800 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Pequeños gigantes de la naturaleza</title>
+  <sub-title lang="es">Amenaza con cara inocente</sub-title>
+  </programme>
+  <programme start="20260517094800 -0500" stop="20260517101400 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Pequeños gigantes de la naturaleza</title>
+  <sub-title lang="es">El hámster malvado</sub-title>
+  </programme>
+  <programme start="20260517101400 -0500" stop="20260517110600 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">El zoológico del Bronx</title>
+  <sub-title lang="es">Cerdito misterioso</sub-title>
+  </programme>
+  <programme start="20260517110600 -0500" stop="20260517115800 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Mascotas revoltosas</title>
+  <sub-title lang="es">Sucios</sub-title>
+  </programme>
+  <programme start="20260517115800 -0500" stop="20260517125000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">El zoológico del Bronx</title>
+  <sub-title lang="es">El tigre en el dentista</sub-title>
+  </programme>
+  <programme start="20260517125000 -0500" stop="20260517134200 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">El zoológico del Bronx</title>
+  <sub-title lang="es">Un huevo extraño</sub-title>
+  </programme>
+  <programme start="20260517134200 -0500" stop="20260517143400 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Historias Animales</title>
+  </programme>
+  <programme start="20260517143400 -0500" stop="20260517152600 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Refugio en el granero</title>
+  <sub-title lang="es">Estampida de Buttercup</sub-title>
+  </programme>
+  <programme start="20260517152600 -0500" stop="20260517161800 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Viento del Everest</title>
+  <sub-title lang="es">La vida a 5000 metros</sub-title>
+  </programme>
+  <programme start="20260517161800 -0500" stop="20260517171000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Guaridas con estilo</title>
+  <sub-title lang="es">El palacio del fútbol</sub-title>
+  </programme>
+  <programme start="20260517171000 -0500" stop="20260517180200 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Guardianes de Texas</title>
+  <sub-title lang="es">Trampa para caimanes</sub-title>
+  </programme>
+  <programme start="20260517180200 -0500" stop="20260517185400 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Guardianes de Texas</title>
+  <sub-title lang="es">Operación nocturna</sub-title>
+  </programme>
+  <programme start="20260517185400 -0500" stop="20260517194600 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
+  <title lang="es">Mansiones en los Árboles</title>
+  <sub-title lang="es">Una casa mágica y moderna</sub-title>
+  </programme>
   <programme start="20260516001100 -0500" stop="20260516003500 -0500" channel="Canal.Discovery.Kids.(Ecuador).ec">
   <title lang="es">Mini beat power rockers</title>
   <sub-title lang="es">Mi hermano mayor</sub-title>
@@ -7766,6 +7983,210 @@
   </programme>
   <programme start="20260518180000 -0500" stop="20260518190000 -0500" channel="Canal.RTS.ec">
   <title lang="es">Todo por mi familia</title>
+  </programme>
+  <programme start="20260516004100 -0500" stop="20260516012600 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Mi gran boda gitana</title>
+  <sub-title lang="es">¡Doble boda, doble de problemas! ¡Doble boda, doble de problemas</sub-title>
+  </programme>
+  <programme start="20260516012600 -0500" stop="20260516021200 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">4 Esposas, 1 marido</title>
+  <sub-title lang="es">Terapia de parejas estilo Texas</sub-title>
+  </programme>
+  <programme start="20260516021200 -0500" stop="20260516025800 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">4 Esposas, 1 marido</title>
+  <sub-title lang="es">Manteniéndose a flote</sub-title>
+  </programme>
+  <programme start="20260516025800 -0500" stop="20260516034300 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Renovación al desnudo</title>
+  <sub-title lang="es">Una renovación indecente</sub-title>
+  </programme>
+  <programme start="20260516034300 -0500" stop="20260516042900 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">La mansión de las cougars</title>
+  <sub-title lang="es">Mamá, soy un niño grande ahora</sub-title>
+  </programme>
+  <programme start="20260516042900 -0500" stop="20260516051500 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">La mansión de las cougars</title>
+  <sub-title lang="es">Mamá me dijo que no viniera</sub-title>
+  </programme>
+  <programme start="20260516051500 -0500" stop="20260516060000 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">La Familia Plath</title>
+  <sub-title lang="es">Vine a decir adiós</sub-title>
+  </programme>
+  <programme start="20260516060000 -0500" stop="20260516064700 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Mi gran boda gitana</title>
+  <sub-title lang="es">Luego de la lluvia viene el arcoiris</sub-title>
+  </programme>
+  <programme start="20260516064700 -0500" stop="20260516082300 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Los Busby</title>
+  <sub-title lang="es">Los Busby en Nueva York</sub-title>
+  </programme>
+  <programme start="20260516082300 -0500" stop="20260516091100 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Una Gran Familia</title>
+  <sub-title lang="es">Sólo voy dos veces a la semana</sub-title>
+  </programme>
+  <programme start="20260516091100 -0500" stop="20260516095600 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Una Gran Familia</title>
+  <sub-title lang="es">Aventuras en Puerto Rico</sub-title>
+  </programme>
+  <programme start="20260516095600 -0500" stop="20260516104600 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Gran-diosa</title>
+  <sub-title lang="es">Persigue al francés</sub-title>
+  </programme>
+  <programme start="20260516104600 -0500" stop="20260516113600 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">El niño de mamá</title>
+  <sub-title lang="es">Sabemos que no podemos salir el uno con el otro</sub-title>
+  </programme>
+  <programme start="20260516113600 -0500" stop="20260516122500 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">El niño de mamá</title>
+  <sub-title lang="es">No hay problema que una madre no pueda resolver</sub-title>
+  </programme>
+  <programme start="20260516122500 -0500" stop="20260516131500 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">El niño de mamá</title>
+  <sub-title lang="es">El príncipe ha llegado</sub-title>
+  </programme>
+  <programme start="20260516131500 -0500" stop="20260516140400 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">El niño de mamá</title>
+  <sub-title lang="es">¡Yo no me tiro pedos, hago caca</sub-title>
+  </programme>
+  <programme start="20260516140400 -0500" stop="20260516145600 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Amor a distancia</title>
+  <sub-title lang="es">Día de mudanza</sub-title>
+  </programme>
+  <programme start="20260516145600 -0500" stop="20260516155000 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Amor a distancia</title>
+  <sub-title lang="es">Tres es Compañía</sub-title>
+  </programme>
+  <programme start="20260516155000 -0500" stop="20260516163700 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Amor a distancia</title>
+  <sub-title lang="es">Trabajo Sucio</sub-title>
+  </programme>
+  <programme start="20260516163700 -0500" stop="20260516173000 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Amor a distancia</title>
+  <sub-title lang="es">Delicia por la tarde</sub-title>
+  </programme>
+  <programme start="20260516173000 -0500" stop="20260516181500 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Adictas al Matrimonio</title>
+  <sub-title lang="es">Me voy</sub-title>
+  </programme>
+  <programme start="20260516181500 -0500" stop="20260516190600 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Adictas al Matrimonio</title>
+  <sub-title lang="es">Felices por siempre</sub-title>
+  </programme>
+  <programme start="20260516190600 -0500" stop="20260516195800 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Amor extranjero</title>
+  <sub-title lang="es">Que las llaman comiencen</sub-title>
+  </programme>
+  <programme start="20260516195800 -0500" stop="20260516204900 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Amor extranjero</title>
+  <sub-title lang="es">Muy entusiasmados</sub-title>
+  </programme>
+  <programme start="20260516204900 -0500" stop="20260516214200 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Amor extranjero</title>
+  <sub-title lang="es">Muy difícil de controlar</sub-title>
+  </programme>
+  <programme start="20260516214200 -0500" stop="20260516223300 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Amor extranjero</title>
+  <sub-title lang="es">Una combustión lenta</sub-title>
+  </programme>
+  <programme start="20260516223300 -0500" stop="20260516235900 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Todo en 90 días ¿Felices por siempre?</title>
+  <sub-title lang="es">Solo dame una razón</sub-title>
+  </programme>
+  <programme start="20260516235900 -0500" stop="20260517004700 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Todo en 90 días casados en el extranjero</title>
+  <sub-title lang="es">Cuento del crypto</sub-title>
+  </programme>
+  <programme start="20260517004700 -0500" stop="20260517013200 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Mi gran boda gitana</title>
+  <sub-title lang="es">Tradiciones y supersticiones gitanas</sub-title>
+  </programme>
+  <programme start="20260517013200 -0500" stop="20260517021800 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Amor extranjero</title>
+  <sub-title lang="es">Muy difícil de controlar</sub-title>
+  </programme>
+  <programme start="20260517021800 -0500" stop="20260517030400 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Amor extranjero</title>
+  <sub-title lang="es">Una combustión lenta</sub-title>
+  </programme>
+  <programme start="20260517030400 -0500" stop="20260517042900 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Todo en 90 días ¿Felices por siempre?</title>
+  <sub-title lang="es">Solo dame una razón</sub-title>
+  </programme>
+  <programme start="20260517042900 -0500" stop="20260517051400 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Todo en 90 días casados en el extranjero</title>
+  <sub-title lang="es">Cuento del crypto</sub-title>
+  </programme>
+  <programme start="20260517051400 -0500" stop="20260517060000 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">La Familia Plath</title>
+  <sub-title lang="es">¿Cómo estás, amor</sub-title>
+  </programme>
+  <programme start="20260517060000 -0500" stop="20260517065000 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Mi gran boda gitana</title>
+  <sub-title lang="es">Los padres Gorger contraatacan</sub-title>
+  </programme>
+  <programme start="20260517065000 -0500" stop="20260517074000 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Una Gran Familia</title>
+  <sub-title lang="es">Salida de viernes por la noche</sub-title>
+  </programme>
+  <programme start="20260517074000 -0500" stop="20260517083000 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Los Busby</title>
+  <sub-title lang="es">La cena de San Valentín</sub-title>
+  </programme>
+  <programme start="20260517083000 -0500" stop="20260517091500 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Una Gran Familia</title>
+  <sub-title lang="es">Soy un gran bobo</sub-title>
+  </programme>
+  <programme start="20260517091500 -0500" stop="20260517100000 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Una Gran Familia</title>
+  <sub-title lang="es">Citas en patines</sub-title>
+  </programme>
+  <programme start="20260517100000 -0500" stop="20260517104800 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Gran-diosa</title>
+  <sub-title lang="es">Grandiosa decepción</sub-title>
+  </programme>
+  <programme start="20260517104800 -0500" stop="20260517113600 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Mi gran boda gitana</title>
+  <sub-title lang="es">Triángulo de amor gitano-gorger</sub-title>
+  </programme>
+  <programme start="20260517113600 -0500" stop="20260517122400 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Mi gran boda gitana</title>
+  <sub-title lang="es">Contienda gitana</sub-title>
+  </programme>
+  <programme start="20260517122400 -0500" stop="20260517131200 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Mi gran boda gitana</title>
+  <sub-title lang="es">¡Sorpresa! Te casarás</sub-title>
+  </programme>
+  <programme start="20260517131200 -0500" stop="20260517140000 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Mi gran boda gitana</title>
+  <sub-title lang="es">Mi hija no se casará con un convicto</sub-title>
+  </programme>
+  <programme start="20260517140000 -0500" stop="20260517144800 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Mi gran boda gitana</title>
+  <sub-title lang="es">Luego de la lluvia viene el arcoiris</sub-title>
+  </programme>
+  <programme start="20260517144800 -0500" stop="20260517153600 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Mi gran boda gitana</title>
+  <sub-title lang="es">Los padres Gorger contraatacan</sub-title>
+  </programme>
+  <programme start="20260517153600 -0500" stop="20260517162400 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Mi gran boda gitana</title>
+  <sub-title lang="es">Revertir la maldición gitana</sub-title>
+  </programme>
+  <programme start="20260517162400 -0500" stop="20260517171200 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Vestido de novia</title>
+  <sub-title lang="es">No siempre sabemos</sub-title>
+  </programme>
+  <programme start="20260517171200 -0500" stop="20260517180000 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Vestido de novia</title>
+  <sub-title lang="es">Me dejo llevar</sub-title>
+  </programme>
+  <programme start="20260517180000 -0500" stop="20260517184800 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Vestido de novia</title>
+  <sub-title lang="es">Este es mi esposo, este es mi prometido</sub-title>
+  </programme>
+  <programme start="20260517184800 -0500" stop="20260517193600 -0500" channel="Canal.TLC.(Ecuador).ec">
+  <title lang="es">Vestido de novia</title>
+  <sub-title lang="es">La lucha es real</sub-title>
   </programme>
   <programme start="20260516013400 -0500" stop="20260516033900 -0500" channel="Canal.TNT.(Ecuador).ec">
   <title lang="es">El Justiciero 2</title>
