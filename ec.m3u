@@ -35,7 +35,7 @@ https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
 # NOTICIAS ECUADOR
 # =====================================================
 
-#EXTINF:-1 tvg-id="Canal.Ecuador.TV.ec" tvg-logo="https://iptv-org.github.io/logos/ec/EcuadorTV.png" group-title="Noticias Ecuador",Ecuador TV
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-logo="https://iptv-org.github.io/logos/ec/EcuadorTV.png" group-title="Noticias Ecuador",Ecuador TV
 https://samson.streamerr.co:8081/shogun/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Oromar_TV_logo.png" group-title="Noticias Ecuador",Oromar TV
