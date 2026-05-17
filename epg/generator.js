@@ -1,23 +1,17 @@
 const fs = require("fs");
 const path = require("path");
 const axios = require("axios");
-const zlib = require("zlib"); // 👈 Esto ya funciona sin instalar nada
+const zlib = require("zlib");
 const readline = require("readline");
 
-// 📡 LISTA DE IDs (Aquí puedes añadir todos los que quieras de las fuentes)
+// 📡 IDs MÁS COMUNES (He añadido variaciones para asegurar)
 const TARGET_IDS = [
-    "Ecuavisa.ec", "Ecuavisa", "Ecuavisa_HD",
-    "Teleamazonas.ec", "Teleamazonas", "Teleamazonas_HD",
-    "TCTelevision.ec", "TC_Television",
-    "RTS.ec", "RTS",
-    "HBO.us", "HBO",
-    "ESPN.us", "ESPN",
-    "TNT.ar", "TNT"
-];
-
-const SOURCES = [
-    "https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz", // Ecuador específico
-    "http://epg.one/epg2.xml.gz" // Global
+    "Ecuavisa", "Ecuavisa.ec", "Ecuavisa_EC", "EcuavisaHD",
+    "Teleamazonas", "Teleamazonas.ec", "Teleamazonas_HD",
+    "TC", "TCTelevision", "TC_Television",
+    "RTS", "RTS.ec",
+    "HBO", "HBO.us",
+    "ESPN", "ESPN.us"
 ];
 
 async function runGenerator() {
@@ -27,66 +21,57 @@ async function runGenerator() {
 
     outputStream.write(`<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n`);
 
-    console.log("🚀 Iniciando generador de alta velocidad...");
+    console.log("🚀 Iniciando búsqueda flexible...");
+
+    const SOURCES = [
+        "https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz",
+        "http://epg.one/epg2.xml.gz"
+    ];
 
     for (const url of SOURCES) {
         try {
-            console.log(`📥 Procesando fuente: ${url}`);
-            
-            const response = await axios({
-                method: 'get',
-                url: url,
-                responseType: 'stream',
-                timeout: 30000,
-                headers: { 'Accept-Encoding': 'gzip' } // Ayuda a que la descarga sea más fluida
-            });
-
+            console.log(`📥 Escaneando fuente: ${url}`);
+            const response = await axios({ method: 'get', url: url, responseType: 'stream', timeout: 30000 });
             const gunzip = zlib.createGunzip();
-            const rl = readline.createInterface({
-                input: response.data.pipe(gunzip),
-                terminal: false
-            });
+            const rl = readline.createInterface({ input: response.data.pipe(gunzip), terminal: false });
 
             let inProg = false;
             let currentBlock = "";
+            let foundInThisSource = 0;
 
             for await (const line of rl) {
-                // Capturar canales
-                if (line.includes("<channel")) {
-                    if (TARGET_IDS.some(id => line.includes(`id="${id}"`))) {
-                        outputStream.write(line + "\n");
-                    }
+                // Buscamos si la línea contiene alguno de nuestros IDs
+                const match = TARGET_IDS.find(id => line.includes(`id="${id}"`) || line.includes(`channel="${id}"`));
+
+                if (line.includes("<channel") && match) {
+                    outputStream.write(line + "\n");
                 }
 
-                // Capturar programas
-                if (line.includes("<programme")) {
-                    if (TARGET_IDS.some(id => line.includes(`channel="${id}"`))) {
-                        inProg = true;
-                        currentBlock = line + "\n";
-                    }
+                if (line.includes("<programme") && match) {
+                    inProg = true;
+                    currentBlock = line + "\n";
                 } else if (inProg) {
                     currentBlock += line + "\n";
                     if (line.includes("</programme>")) {
                         outputStream.write(currentBlock);
                         inProg = false;
                         currentBlock = "";
+                        foundInThisSource++;
                     }
                 }
             }
+            console.log(`✅ Se extrajeron ${foundInThisSource} programas de esta fuente.`);
         } catch (err) {
-            console.error(`⚠️ Omitiendo fuente por error: ${err.message}`);
+            console.error(`⚠️ Error en fuente: ${err.message}`);
         }
     }
 
     outputStream.write(`</tv>`);
     outputStream.end();
-
     outputStream.on('finish', () => {
         if (fs.existsSync(outputPath)) fs.unlinkSync(outputPath);
         fs.renameSync(tempFile, outputPath);
-        console.log("-----------------------------------------");
-        console.log("✅ ¡GUÍA GENERADA CON ÉXITO!");
-        console.log("-----------------------------------------");
+        console.log("\n🏁 Proceso terminado. ¡Revisa el epg.xml ahora!");
     });
 }
 
