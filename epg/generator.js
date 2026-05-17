@@ -17,7 +17,11 @@ const TARGET_IDS = [
     "Canal.Warner.TV.(Ecuador).ec",
     "Canal.Disney.Channel.(Ecuador).ec",
     "Canal.Discovery.Kids.(Ecuador).ec",
-    "Canal.Nickelodeon.(Ecuador).ec"
+    "Canal.Nickelodeon.(Ecuador).ec",
+    "Canal.Animal.Planet.(Ecuador).ec",
+    "Canal.TLC.(Ecuador).ec",
+    "Canal.Discovery.Science.(LatinoamÃ©rica).ec",
+    "Canal.Discovery.Turbo.(LatinoamÃ©rica).ec"
 ];
 
 async function generateFinalEPG() {
@@ -31,20 +35,18 @@ async function generateFinalEPG() {
         const gunzip = zlib.createGunzip();
         const rl = readline.createInterface({ input: response.data.pipe(gunzip), terminal: false });
 
-        // Empezamos con la cabecera limpia
         let channelsPart = "";
         let programmesPart = "";
         let foundChannels = new Set();
-        let inProg = false;
+        let currentProgChannel = null; // 🧠 Esta es la "memoria" para no mezclar guías
 
         for await (const line of rl) {
             const cleanLine = line.trim();
 
-            // 1. Manejo de Canales (Aseguramos cierre individual)
+            // 1. Manejo de Canales
             if (cleanLine.includes("<channel")) {
                 const match = TARGET_IDS.find(id => cleanLine.includes(`id="${id}"`));
                 if (match) {
-                    // Si la línea no incluye el cierre </channel>, lo forzamos o limpiamos
                     if (cleanLine.includes("/>") || cleanLine.includes("</channel>")) {
                         channelsPart += `  ${cleanLine}\n`;
                     } else {
@@ -54,19 +56,22 @@ async function generateFinalEPG() {
                 }
             }
 
-            // 2. Manejo de Programas + Ajuste de Hora + Cierre Seguro
+            // 2. Manejo de Programas (Filtro Estricto por ID)
             if (cleanLine.includes("<programme")) {
+                // Buscamos a quién le pertenece este programa exactamente
                 const match = TARGET_IDS.find(id => cleanLine.includes(`channel="${id}"`));
                 if (match) {
-                    inProg = true;
-                    // Ajuste de hora a Ecuador (-0500)
+                    currentProgChannel = match; // Marcamos que estamos leyendo programas de ESTE canal
                     let fixedLine = cleanLine.replace(/(\+|\-)\d{4}/g, "-0500");
                     programmesPart += `  ${fixedLine}\n`;
+                } else {
+                    currentProgChannel = null; // Si no está en nuestra lista, lo ignoramos
                 }
-            } else if (inProg) {
+            } else if (currentProgChannel) {
+                // 📝 Solo guardamos líneas si pertenecen al canal que capturamos arriba
                 programmesPart += `  ${cleanLine}\n`;
                 if (cleanLine.includes("</programme>")) {
-                    inProg = false;
+                    currentProgChannel = null; // Limpiamos la memoria al terminar el programa
                 }
             }
         }
@@ -75,12 +80,12 @@ async function generateFinalEPG() {
         let finalXml = `<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n`;
         finalXml += channelsPart;
         finalXml += programmesPart;
-        finalXml += `</tv>`; // Cierre maestro garantizado
+        finalXml += `</tv>`; 
 
         fs.writeFileSync(outputPath, finalXml, 'utf8');
         
         console.log("---------------------------------------");
-        console.log(`✅ ¡GUÍA REPARADA!`);
+        console.log(`✅ ¡GUÍA REPARADA Y DIFERENCIADA!`);
         console.log(`📺 Canales encontrados: ${foundChannels.size}`);
         console.log(`📂 Archivo: ${outputPath}`);
         console.log("---------------------------------------");
