@@ -4,8 +4,11 @@ const axios = require("axios");
 const zlib = require("zlib");
 const readline = require("readline");
 
-// 📡 LISTA DE IDs EXACTOS
+// 📡 LISTA DE IDs COMBINADA (IDs de ambas fuentes para que coincidan con tu M3U)
 const TARGET_IDS = [
+    // IDs Fuente 1 (iptv-epg)
+    "Ecuavisa.ec", "Teleamazonas.ec", "RTS.ec", "TCTelevision.ec", "EcuadorTV.ec", "Gamavision.ec",
+    // IDs Fuente 2 (EPGShare01)
     "Canal.Ecuavisa.(Ecuador).ec",
     "Canal.TC.TelevisiÃ³n.ec",
     "Canal.RTS.ec",
@@ -24,55 +27,67 @@ const TARGET_IDS = [
     "Canal.Discovery.Turbo.(LatinoamÃ©rica).ec"
 ];
 
+// 🔗 FUENTES DE DATOS
+const SOURCES = [
+    "https://iptv-epg.org/files/epg-ec.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz"
+];
+
 async function generateFinalEPG() {
-    const url = "https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz";
     const outputPath = path.join(__dirname, "epg.xml");
     
-    console.log("🚀 Extrayendo y reparando etiquetas XML para Ecuador...");
+    console.log("🚀 Iniciando extracción Multi-Fuente para Ecuador...");
 
     try {
-        const response = await axios({ method: 'get', url: url, responseType: 'stream' });
-        const gunzip = zlib.createGunzip();
-        const rl = readline.createInterface({ input: response.data.pipe(gunzip), terminal: false });
-
         let channelsPart = "";
         let programmesPart = "";
         let foundChannels = new Set();
-        let currentProgChannel = null; // 🧠 Esta es la "memoria" para no mezclar guías
 
-        for await (const line of rl) {
-            const cleanLine = line.trim();
+        for (const url of SOURCES) {
+            console.log(`📥 Procesando: ${url}`);
+            try {
+                const response = await axios({ method: 'get', url: url, responseType: 'stream', timeout: 30000 });
+                const gunzip = zlib.createGunzip();
+                const rl = readline.createInterface({ input: response.data.pipe(gunzip), terminal: false });
 
-            // 1. Manejo de Canales
-            if (cleanLine.includes("<channel")) {
-                const match = TARGET_IDS.find(id => cleanLine.includes(`id="${id}"`));
-                if (match) {
-                    if (cleanLine.includes("/>") || cleanLine.includes("</channel>")) {
-                        channelsPart += `  ${cleanLine}\n`;
-                    } else {
-                        channelsPart += `  ${cleanLine}</channel>\n`;
+                let currentProgChannel = null;
+
+                for await (const line of rl) {
+                    const cleanLine = line.trim();
+
+                    // 1. Manejo de Canales (Evitamos duplicados entre fuentes)
+                    if (cleanLine.includes("<channel")) {
+                        const idMatch = cleanLine.match(/id="([^"]+)"/);
+                        if (idMatch && TARGET_IDS.includes(idMatch[1]) && !foundChannels.has(idMatch[1])) {
+                            if (cleanLine.includes("/>") || cleanLine.includes("</channel>")) {
+                                channelsPart += `  ${cleanLine}\n`;
+                            } else {
+                                channelsPart += `  ${cleanLine}</channel>\n`;
+                            }
+                            foundChannels.add(idMatch[1]);
+                        }
                     }
-                    foundChannels.add(match);
-                }
-            }
 
-            // 2. Manejo de Programas (Filtro Estricto por ID)
-            if (cleanLine.includes("<programme")) {
-                // Buscamos a quién le pertenece este programa exactamente
-                const match = TARGET_IDS.find(id => cleanLine.includes(`channel="${id}"`));
-                if (match) {
-                    currentProgChannel = match; // Marcamos que estamos leyendo programas de ESTE canal
-                    let fixedLine = cleanLine.replace(/(\+|\-)\d{4}/g, "-0500");
-                    programmesPart += `  ${fixedLine}\n`;
-                } else {
-                    currentProgChannel = null; // Si no está en nuestra lista, lo ignoramos
+                    // 2. Manejo de Programas (Filtro por ID y Ajuste de Hora)
+                    if (cleanLine.includes("<programme")) {
+                        const channelMatch = cleanLine.match(/channel="([^"]+)"/);
+                        if (channelMatch && TARGET_IDS.includes(channelMatch[1])) {
+                            currentProgChannel = channelMatch[1];
+                            // Ajuste de hora a Ecuador (-0500)
+                            let fixedLine = cleanLine.replace(/(\+|\-)\d{4}/g, "-0500");
+                            programmesPart += `  ${fixedLine}\n`;
+                        } else {
+                            currentProgChannel = null;
+                        }
+                    } else if (currentProgChannel) {
+                        programmesPart += `  ${cleanLine}\n`;
+                        if (cleanLine.includes("</programme>")) {
+                            currentProgChannel = null;
+                        }
+                    }
                 }
-            } else if (currentProgChannel) {
-                // 📝 Solo guardamos líneas si pertenecen al canal que capturamos arriba
-                programmesPart += `  ${cleanLine}\n`;
-                if (cleanLine.includes("</programme>")) {
-                    currentProgChannel = null; // Limpiamos la memoria al terminar el programa
-                }
+            } catch (sourceError) {
+                console.error(`⚠️ Error en fuente ${url}: ${sourceError.message}`);
             }
         }
 
@@ -85,13 +100,13 @@ async function generateFinalEPG() {
         fs.writeFileSync(outputPath, finalXml, 'utf8');
         
         console.log("---------------------------------------");
-        console.log(`✅ ¡GUÍA REPARADA Y DIFERENCIADA!`);
-        console.log(`📺 Canales encontrados: ${foundChannels.size}`);
-        console.log(`📂 Archivo: ${outputPath}`);
+        console.log(`✅ ¡GUÍA MAESTRA COMPLETADA!`);
+        console.log(`📺 Canales únicos encontrados: ${foundChannels.size}`);
+        console.log(`📂 Archivo generado: ${outputPath}`);
         console.log("---------------------------------------");
 
     } catch (err) {
-        console.error("❌ Error:", err.message);
+        console.error("❌ Error General:", err.message);
     }
 }
 
