@@ -1,93 +1,93 @@
-
 const fs = require("fs");
 const path = require("path");
 const axios = require("axios");
+const zlib = require("zlib"); // 👈 Esto ya funciona sin instalar nada
+const readline = require("readline");
 
-// 📡 LISTA DE CANALES QUE QUIERES "FILTRAR" DE LA FUENTE GLOBAL
-// El ID debe coincidir con el que usa la fuente (usaremos IDs estándar)
-const MY_CHANNELS = [
-    { id: "Ecuavisa.ec", name: "Ecuavisa" },
-    { id: "Teleamazonas.ec", name: "Teleamazonas" },
-    { id: "TCTelevision.ec", name: "TC Televisión" },
-    { id: "RTS.ec", name: "RTS" },
-    { id: "HBO.us", name: "HBO" },
-    { id: "Discovery.us", name: "Discovery Channel" },
-    { id: "ESPN.us", name: "ESPN" }
+// 📡 LISTA DE IDs (Aquí puedes añadir todos los que quieras de las fuentes)
+const TARGET_IDS = [
+    "Ecuavisa.ec", "Ecuavisa", "Ecuavisa_HD",
+    "Teleamazonas.ec", "Teleamazonas", "Teleamazonas_HD",
+    "TCTelevision.ec", "TC_Television",
+    "RTS.ec", "RTS",
+    "HBO.us", "HBO",
+    "ESPN.us", "ESPN",
+    "TNT.ar", "TNT"
 ];
 
-// 🔗 FUENTE CONFIABLE (EPG de código abierto que no bloquea GitHub)
-const EPG_SOURCE = "https://iptv-org.github.io/epg/guides/ec/ecuavisa.ec.epg.xml"; 
-// Nota: Podemos usar fuentes combinadas de iptv-org que es el estándar actual.
+const SOURCES = [
+    "https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz", // Ecuador específico
+    "http://epg.one/epg2.xml.gz" // Global
+];
 
-async function generateWithPlanB() {
-    try {
-        console.log("🚀 Iniciando Plan B: Descargando fuente de datos libre...");
+async function runGenerator() {
+    const outputPath = path.join(__dirname, "epg.xml");
+    const tempFile = path.join(__dirname, "filtrado.tmp");
+    const outputStream = fs.createWriteStream(tempFile);
 
-        // En este ejemplo, para que sea 100% funcional y no dependa de una sola web,
-        // vamos a usar un generador híbrido: 
-        // Si la fuente externa falla, crearemos una programación "Inteligente" 
-        // basada en los bloques horarios reales que ya conocemos.
+    outputStream.write(`<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n`);
 
-        let xml = `<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n`;
+    console.log("🚀 Iniciando generador de alta velocidad...");
 
-        // 1. Crear los canales
-        MY_CHANNELS.forEach(ch => {
-            xml += `  <channel id="${ch.id}">\n    <display-name>${ch.name}</display-name>\n  </channel>\n`;
-        });
+    for (const url of SOURCES) {
+        try {
+            console.log(`📥 Procesando fuente: ${url}`);
+            
+            const response = await axios({
+                method: 'get',
+                url: url,
+                responseType: 'stream',
+                timeout: 30000,
+                headers: { 'Accept-Encoding': 'gzip' } // Ayuda a que la descarga sea más fluida
+            });
 
-        // 2. Generar programación (Simulada pero con horarios reales de Ecuador)
-        // Esto asegura que tu EPG NUNCA esté vacío aunque caiga el internet.
-        MY_CHANNELS.forEach(ch => {
-            const now = new Date();
-            now.setHours(0, 0, 0, 0); // Empezar hoy a las 00:00
+            const gunzip = zlib.createGunzip();
+            const rl = readline.createInterface({
+                input: response.data.pipe(gunzip),
+                terminal: false
+            });
 
-            for (let i = 0; i < 12; i++) { // 12 programas de 2 horas (24h)
-                const start = new Date(now);
-                now.setHours(now.getHours() + 2);
-                const stop = new Date(now);
+            let inProg = false;
+            let currentBlock = "";
 
-                const startTime = formatEPGDate(start);
-                const stopTime = formatEPGDate(stop);
-
-                // Lógica de títulos según el tipo de canal
-                let title = "Programación Especial";
-                let desc = "Disfruta de la mejor señal en vivo.";
-                
-                const hr = start.getHours();
-                if (ch.id.includes(".ec")) { // Canales de Ecuador
-                    if (hr >= 6 && hr < 9) title = "Noticiero Matutino";
-                    else if (hr >= 9 && hr < 12) title = "Revista Familiar";
-                    else if (hr >= 13 && hr < 14) title = "Noticiero Al Mediodía";
-                    else if (hr >= 19 && hr < 21) title = "Noticiero Estelar";
-                    else if (hr >= 21) title = "Show Nocturno / Novela";
-                } else if (ch.id.includes("HBO") || ch.id.includes("Discovery")) {
-                    title = "Película Estreno / Documental";
+            for await (const line of rl) {
+                // Capturar canales
+                if (line.includes("<channel")) {
+                    if (TARGET_IDS.some(id => line.includes(`id="${id}"`))) {
+                        outputStream.write(line + "\n");
+                    }
                 }
 
-                xml += `  <programme start="${startTime}" stop="${stopTime}" channel="${ch.id}">\n`;
-                xml += `    <title lang="es">${title}</title>\n`;
-                xml += `    <desc lang="es">${desc}</desc>\n`;
-                xml += `  </programme>\n`;
+                // Capturar programas
+                if (line.includes("<programme")) {
+                    if (TARGET_IDS.some(id => line.includes(`channel="${id}"`))) {
+                        inProg = true;
+                        currentBlock = line + "\n";
+                    }
+                } else if (inProg) {
+                    currentBlock += line + "\n";
+                    if (line.includes("</programme>")) {
+                        outputStream.write(currentBlock);
+                        inProg = false;
+                        currentBlock = "";
+                    }
+                }
             }
-        });
-
-        xml += `</tv>`;
-
-        const outputPath = path.join(__dirname, "epg.xml");
-        fs.writeFileSync(outputPath, xml);
-        
-        console.log("✅ EPG Generado con éxito usando el Plan B (Híbrido).");
-        console.log("🔗 URL para tu IPTV: https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/epg/epg.xml");
-
-    } catch (error) {
-        console.error("❌ Error en Plan B:", error.message);
+        } catch (err) {
+            console.error(`⚠️ Omitiendo fuente por error: ${err.message}`);
+        }
     }
+
+    outputStream.write(`</tv>`);
+    outputStream.end();
+
+    outputStream.on('finish', () => {
+        if (fs.existsSync(outputPath)) fs.unlinkSync(outputPath);
+        fs.renameSync(tempFile, outputPath);
+        console.log("-----------------------------------------");
+        console.log("✅ ¡GUÍA GENERADA CON ÉXITO!");
+        console.log("-----------------------------------------");
+    });
 }
 
-function formatEPGDate(date) {
-    const pad = n => String(n).padStart(2, "0");
-    return date.getFullYear() + pad(date.getMonth() + 1) + pad(date.getDate()) +
-           pad(date.getHours()) + pad(date.getMinutes()) + "00 -0500";
-}
-
-generateWithPlanB();
+runGenerator();
