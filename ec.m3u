@@ -4,28 +4,28 @@
 # TV NACIONAL ECUADOR
 # =====================================================
 
-#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/fZbDiZq.jpeg" group-title="TV Nacional Ecuador",Ecuavisa Guayaquil
+#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).ec" tvg-logo="https://i.imgur.com/fZbDiZq.jpeg" group-title="TV Nacional Ecuador",Ecuavisa Guayaquil
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 
-#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/vcTH4Iy.jpeg" group-title="TV Nacional Ecuador",Ecuavisa Quito
+#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).ec" tvg-logo="https://i.imgur.com/vcTH4Iy.jpeg" group-title="TV Nacional Ecuador",Ecuavisa Quito
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://iptv-org.github.io/logos/ec/Teleamazonas.png" group-title="TV Nacional Ecuador",Teleamazonas
+#EXTINF:-1 tvg-id="Canal.Teleamazonas.ec" tvg-logo="https://iptv-org.github.io/logos/ec/Teleamazonas.png" group-title="TV Nacional Ecuador",Teleamazonas
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTS.ec" tvg-logo="https://iptv-org.github.io/logos/ec/RTS.png" group-title="TV Nacional Ecuador",RTS
+#EXTINF:-1 tvg-id="Canal.RTS.ec" tvg-logo="https://iptv-org.github.io/logos/ec/RTS.png" group-title="TV Nacional Ecuador",RTS
 https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8
 
-#EXTINF:-1 tvg-id="HechosEcuador.ec" tvg-logo="https://www.hechosecuador.com/rw_common/images/final.gif" group-title="TV Nacional Ecuador",Hechos Ecuador
+#EXTINF:-1 tvg-id="Canal.ESNE.TV.ec" tvg-logo="https://www.hechosecuador.com/rw_common/images/final.gif" group-title="TV Nacional Ecuador",Hechos Ecuador
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/uno_ecuador-mediano.png" group-title="TV Nacional Ecuador",Canal 1
 https://stmv6.voxtvhd.com.br/sonorama/sonorama/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="TV Nacional Ecuador",TC Televisión
+#EXTINF:-1 tvg-id="Canal.TC.TelevisiÃ³n.ec" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="TV Nacional Ecuador",TC Televisión
 http://170.244.209.30:8000/play/a0uc/index.m3u8
 
-#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="TV Nacional Ecuador",TC LIKETV
+#EXTINF:-1 tvg-id="Canal.TC.TelevisiÃ³n.ec" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="TV Nacional Ecuador",TC LIKETV
 http://205.235.6.29:8000/play/a0ya/index.m3u8?hls
 
 #EXTINF:-1 group-title="TV Nacional Ecuador",RTU
@@ -35,7 +35,7 @@ https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
 # NOTICIAS ECUADOR
 # =====================================================
 
-#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-logo="https://iptv-org.github.io/logos/ec/EcuadorTV.png" group-title="Noticias Ecuador",Ecuador TV
+#EXTINF:-1 tvg-id="Canal.Ecuador.TV.ec" tvg-logo="https://iptv-org.github.io/logos/ec/EcuadorTV.png" group-title="Noticias Ecuador",Ecuador TV
 https://samson.streamerr.co:8081/shogun/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Oromar_TV_logo.png" group-title="Noticias Ecuador",Oromar TV
@@ -97,20 +97,20 @@ https://d3d4yli4hf5bmh.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 group-title="Deportes",Olympic Channel
 https://ott-live.olympicchannel.com/out/u/OC1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Espn_2.png" group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(Ecuador).ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Espn_2.png" group-title="Deportes",ESPN 2
 https://gma2.blab.email/espn2.m3u8
 
 # =====================================================
 # INTERNACIONALES
 # =====================================================
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Univision_logo_2020.svg" group-title="Internacionales",Univisión
+#EXTINF:-1 tvg-id="Canal.Univision.(Ecuador).ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Univision_logo_2020.svg" group-title="Internacionales",Univisión
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
-#EXTINF:-1 group-title="Internacionales",Las Estrellas
+#EXTINF:-1 tvg-id="Canal.Las.Estrellas.(Ecuador).ec" group-title="Internacionales",Las Estrellas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Internacionales",Canal de las Estrellas OnlyMex
+#EXTINF:-1 tvg-id="Canal.Las.Estrellas.(Ecuador).ec" group-title="Internacionales",Canal de las Estrellas OnlyMex
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 
 #EXTINF:-1 group-title="Internacionales",Telediario Now
@@ -122,38 +122,38 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 group-title="Internacionales",ATV Perú
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.us" tvg-logo="https://iptv-org.github.io/logos/us/AlJazeeraEnglish.png" group-title="Internacionales",Al Jazeera English
+#EXTINF:-1 tvg-id="Canal.BBC.World.News.ec" tvg-logo="https://iptv-org.github.io/logos/us/AlJazeeraEnglish.png" group-title="Internacionales",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="France24.en" tvg-logo="https://iptv-org.github.io/logos/fr/France24.png" group-title="Internacionales",France 24 English
+#EXTINF:-1 group-title="Internacionales",France 24 English
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-id="DW.es" tvg-logo="https://iptv-org.github.io/logos/de/DW.png" group-title="Internacionales",DW Español
+#EXTINF:-1 tvg-id="Canal.DW.(LatinoamÃ©rica).ec" tvg-logo="https://iptv-org.github.io/logos/de/DW.png" group-title="Internacionales",DW Español
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@124409/master.m3u8
 
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://iptv-org.github.io/logos/jp/NHKWorldJapan.png" group-title="Internacionales",NHK World Japan
+#EXTINF:-1 group-title="Internacionales",NHK World Japan
 https://nhkworld-tv.akamaized.net/hls/live/2003458/nhkworld-tv/index.m3u8
 
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://iptv-org.github.io/logos/us/BloombergTV.png" group-title="Internacionales",Bloomberg TV
+#EXTINF:-1 group-title="Internacionales",Bloomberg TV
 https://bloomberg-bloomberg-1-br.samsung.wurl.com/manifest/playlist.m3u8
 
 # =====================================================
 # DISCOVERY Y DOCUMENTALES
 # =====================================================
 
-#EXTINF:-1 group-title="Discovery y Documentales",Discovery Channel FAST
+#EXTINF:-1 tvg-id="Canal.Discovery.Science.(LatinoamÃ©rica).ec" group-title="Discovery y Documentales",Discovery Channel FAST
 https://fl3.moveonjoy.com/DISCOVERY_CHANNEL/index.m3u8
 
-#EXTINF:-1 group-title="Discovery y Documentales",Animal Planet FAST
+#EXTINF:-1 tvg-id="Canal.Animal.Planet.(Ecuador).ec" group-title="Discovery y Documentales",Animal Planet FAST
 https://fl3.moveonjoy.com/ANIMAL_PLANET/index.m3u8
 
-#EXTINF:-1 group-title="Discovery y Documentales",TLC FAST
+#EXTINF:-1 tvg-id="Canal.TLC.(Ecuador).ec" group-title="Discovery y Documentales",TLC FAST
 https://fl3.moveonjoy.com/TLC/index.m3u8
 
-#EXTINF:-1 group-title="Discovery y Documentales",Discovery Science
+#EXTINF:-1 tvg-id="Canal.Discovery.Science.(LatinoamÃ©rica).ec" group-title="Discovery y Documentales",Discovery Science
 https://fl3.moveonjoy.com/DISCOVERY_SCIENCE/index.m3u8
 
-#EXTINF:-1 group-title="Discovery y Documentales",Discovery Turbo
+#EXTINF:-1 tvg-id="Canal.Discovery.Turbo.(LatinoamÃ©rica).ec" group-title="Discovery y Documentales",Discovery Turbo
 https://fl3.moveonjoy.com/DISCOVERY_TURBO/index.m3u8
 
 # =====================================================
@@ -166,5 +166,5 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:-1 group-title="Peliculas y Series",Pluto TV Cine
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f49c9a0800097ae6c2/master.m3u8
 
-#EXTINF:-1 group-title="Peliculas y Series",Canela Cinema
+#EXTINF:-1 tvg-id="Canal.Cinelatino.ec" group-title="Peliculas y Series",Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
