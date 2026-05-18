@@ -32,7 +32,7 @@ const SOURCES = [
 async function generateFinalEPG() {
     const outputPath = path.join(__dirname, "epg.xml");
     
-    console.log("🚀 Iniciando extracción Multi-Fuente con prioridades...");
+    console.log("🚀 Iniciando extracción Multi-Fuente con prioridades y ajuste horario...");
 
     try {
         let channelsPart = "";
@@ -56,7 +56,6 @@ async function generateFinalEPG() {
                         const idMatch = cleanLine.match(/id="([^"]+)"/);
                         if (idMatch) {
                             const id = idMatch[1];
-                            // Decidimos si este canal debe salir de esta fuente
                             const esValido = (source.type === "NUEVA" && PREFERIDOS_NUEVOS.includes(id)) ||
                                            (source.type === "GENERAL" && OTROS_EPGSHARE.includes(id));
 
@@ -71,18 +70,24 @@ async function generateFinalEPG() {
                         }
                     }
 
-                    // 2. Manejo de Programas (Memoria de canal + Ajuste de Hora)
+                    // 2. Manejo de Programas (Memoria de canal + Ajuste de Hora Selectivo)
                     if (cleanLine.includes("<programme")) {
                         const channelMatch = cleanLine.match(/channel="([^"]+)"/);
                         if (channelMatch) {
                             const chanId = channelMatch[1];
-                            // Solo extraemos el programa si el canal pertenece a esta fuente
                             const esValidoProg = (source.type === "NUEVA" && PREFERIDOS_NUEVOS.includes(chanId)) ||
                                                (source.type === "GENERAL" && OTROS_EPGSHARE.includes(chanId));
 
                             if (esValidoProg) {
                                 currentProgChannel = chanId;
-                                let fixedLine = cleanLine.replace(/(\+|\-)\d{4}/g, "-0500");
+                                
+                                let fixedLine = cleanLine;
+                                // 🕒 SOLO ajustamos la hora si la fuente es GENERAL (EPGShare)
+                                // La fuente NUEVA ya viene correcta para Ecuador.
+                                if (source.type === "GENERAL") {
+                                    fixedLine = cleanLine.replace(/(\+|\-)\d{4}/g, "-0500");
+                                }
+
                                 programmesPart += `  ${fixedLine}\n`;
                             } else {
                                 currentProgChannel = null;
