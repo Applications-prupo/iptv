@@ -13,1032 +13,1032 @@
   <channel id="Canal.TLC.(Ecuador).ec"></channel>
   <channel id="Canal.TNT.(Ecuador).ec"></channel>
   <channel id="Canal.Warner.TV.(Ecuador).ec"></channel>
-  <programme start="20260515070000 -0500" stop="20260515080000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260515070000 +0000" stop="20260515080000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Football</category>
   <category>Sports</category>
   <title lang="es">Fanático</title>
   </programme>
-  <programme start="20260515080000 -0500" stop="20260515093000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260515080000 +0000" stop="20260515093000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Los reyes de tus mañanas</title>
   </programme>
-  <programme start="20260515093000 -0500" stop="20260515100000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260515093000 +0000" stop="20260515100000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Mi propio jefe</title>
   </programme>
-  <programme start="20260515100000 -0500" stop="20260515103000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260515100000 +0000" stop="20260515103000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">El mundo al día</title>
   </programme>
-  <programme start="20260515103000 -0500" stop="20260515110000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260515103000 +0000" stop="20260515110000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Weather</category>
   <title lang="es">Al Volante</title>
   </programme>
-  <programme start="20260515110000 -0500" stop="20260515120000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260515110000 +0000" stop="20260515120000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Infantiles</title>
   </programme>
-  <programme start="20260515120000 -0500" stop="20260515130000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260515120000 +0000" stop="20260515130000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Noticias 7</title>
   </programme>
-  <programme start="20260515130000 -0500" stop="20260515140000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260515130000 +0000" stop="20260515140000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Mundo TV</title>
   </programme>
-  <programme start="20260515140000 -0500" stop="20260515143000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260515140000 +0000" stop="20260515143000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Animados</title>
   </programme>
-  <programme start="20260515143000 -0500" stop="20260515153000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260515143000 +0000" stop="20260515153000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Infantiles</title>
   </programme>
-  <programme start="20260515153000 -0500" stop="20260515170000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260515153000 +0000" stop="20260515170000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Los reyes de tus mañanas</title>
   </programme>
-  <programme start="20260515170000 -0500" stop="20260515173000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260515170000 +0000" stop="20260515173000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Ya era hora</title>
   </programme>
-  <programme start="20260515173000 -0500" stop="20260515180000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260515173000 +0000" stop="20260515180000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Mundo TV</title>
   </programme>
-  <programme start="20260515180000 -0500" stop="20260515183000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260515180000 +0000" stop="20260515183000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Mi propio jefe</title>
   </programme>
-  <programme start="20260515183000 -0500" stop="20260515190000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260515183000 +0000" stop="20260515190000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Weather</category>
   <title lang="es">Al Volante</title>
   </programme>
-  <programme start="20260515190000 -0500" stop="20260515200000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260515190000 +0000" stop="20260515200000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Educa TV</title>
   </programme>
-  <programme start="20260515200000 -0500" stop="20260515205900 -0500" channel="EcuadorTV.ec">
+  <programme start="20260515200000 +0000" stop="20260515205900 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Mundo TV</title>
   </programme>
-  <programme start="20260515205900 -0500" stop="20260515213000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260515205900 +0000" stop="20260515213000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Documentary</category>
   <title lang="es">Detrás del fotógrafo</title>
   </programme>
-  <programme start="20260515213000 -0500" stop="20260515220000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260515213000 +0000" stop="20260515220000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Mundo TV</title>
   </programme>
-  <programme start="20260515220000 -0500" stop="20260515230000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260515220000 +0000" stop="20260515230000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Colores de América Latina</title>
   </programme>
-  <programme start="20260515230000 -0500" stop="20260516000000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260515230000 +0000" stop="20260516000000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">La Vida es Bella</title>
   </programme>
-  <programme start="20260516000000 -0500" stop="20260516010000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516000000 +0000" stop="20260516010000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Noticias 7</title>
   </programme>
-  <programme start="20260516010000 -0500" stop="20260516020000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516010000 +0000" stop="20260516020000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Qatar: El show de los fanáticos</title>
   </programme>
-  <programme start="20260516020000 -0500" stop="20260516030000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516020000 +0000" stop="20260516030000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Ver sin mirar</title>
   </programme>
-  <programme start="20260516030000 -0500" stop="20260516033000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516030000 +0000" stop="20260516033000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Business</category>
   <title lang="es">Al Volante</title>
   </programme>
-  <programme start="20260516033000 -0500" stop="20260516040000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516033000 +0000" stop="20260516040000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">El mundo al día</title>
   </programme>
-  <programme start="20260516040000 -0500" stop="20260516040000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516040000 +0000" stop="20260516040000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Programación pagada</title>
   </programme>
-  <programme start="20260516040000 -0500" stop="20260516060000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516040000 +0000" stop="20260516060000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Programación pagada</title>
   </programme>
-  <programme start="20260516060000 -0500" stop="20260516070000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516060000 +0000" stop="20260516070000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Noticias 7</title>
   </programme>
-  <programme start="20260516070000 -0500" stop="20260516080000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516070000 +0000" stop="20260516080000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Football</category>
   <category>Sports</category>
   <title lang="es">Fanático</title>
   </programme>
-  <programme start="20260516080000 -0500" stop="20260516083000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516080000 +0000" stop="20260516083000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">El mundo al día</title>
   </programme>
-  <programme start="20260516083000 -0500" stop="20260516090000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516083000 +0000" stop="20260516090000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Business</category>
   <title lang="es">Venezuela 360</title>
   </programme>
-  <programme start="20260516090000 -0500" stop="20260516100000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516090000 +0000" stop="20260516100000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Travel</category>
   <title lang="es">593 Ecuador</title>
   </programme>
-  <programme start="20260516100000 -0500" stop="20260516110000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516100000 +0000" stop="20260516110000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Mi propio jefe</title>
   </programme>
-  <programme start="20260516110000 -0500" stop="20260516123000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516110000 +0000" stop="20260516123000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Educational</category>
   <title lang="es">Creciendo juntos</title>
   </programme>
-  <programme start="20260516123000 -0500" stop="20260516140000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516123000 +0000" stop="20260516140000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Children</category>
   <title lang="es">Hero Circle</title>
   </programme>
-  <programme start="20260516140000 -0500" stop="20260516143000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516140000 +0000" stop="20260516143000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Los cuentos de Chaski</title>
   </programme>
-  <programme start="20260516143000 -0500" stop="20260516150000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516143000 +0000" stop="20260516150000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Animados</title>
   </programme>
-  <programme start="20260516150000 -0500" stop="20260516153000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516150000 +0000" stop="20260516153000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Children</category>
   <title lang="es">Chaski, el investigador</title>
   </programme>
-  <programme start="20260516153000 -0500" stop="20260516160000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516153000 +0000" stop="20260516160000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Current</category>
   <title lang="es">Eco Latinoamérica</title>
   </programme>
-  <programme start="20260516160000 -0500" stop="20260516161500 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516160000 +0000" stop="20260516161500 +0000" channel="EcuadorTV.ec">
   <category lang="es">Documentary</category>
   <title lang="es">Los otros cielos</title>
   </programme>
-  <programme start="20260516161500 -0500" stop="20260516163000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516161500 +0000" stop="20260516163000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Economía al Día</title>
   </programme>
-  <programme start="20260516163000 -0500" stop="20260516170000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516163000 +0000" stop="20260516170000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Esto es Ecuador</title>
   </programme>
-  <programme start="20260516170000 -0500" stop="20260516180000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516170000 +0000" stop="20260516180000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Educa TV</title>
   </programme>
-  <programme start="20260516180000 -0500" stop="20260516190000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516180000 +0000" stop="20260516190000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Educational</category>
   <title lang="es">Dr. 7</title>
   </programme>
-  <programme start="20260516190000 -0500" stop="20260516200000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516190000 +0000" stop="20260516200000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Colores de América Latina</title>
   </programme>
-  <programme start="20260516200000 -0500" stop="20260516210000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516200000 +0000" stop="20260516210000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Aduanas</title>
   </programme>
-  <programme start="20260516210000 -0500" stop="20260516220000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516210000 +0000" stop="20260516220000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Travel</category>
   <title lang="es">Historias con alma</title>
   </programme>
-  <programme start="20260516220000 -0500" stop="20260516223000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516220000 +0000" stop="20260516223000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Destino Alemania: El Magacín del Viajero</title>
   </programme>
-  <programme start="20260516223000 -0500" stop="20260516230000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516223000 +0000" stop="20260516230000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Tiempo de vuelta</title>
   </programme>
-  <programme start="20260516230000 -0500" stop="20260517000000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260516230000 +0000" stop="20260517000000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Encuadre latinoamericano</title>
   </programme>
-  <programme start="20260517000000 -0500" stop="20260517010000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517000000 +0000" stop="20260517010000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Biography</category>
   <title lang="es">Luis Barragán: Todas las ventanas dan al cielo</title>
   </programme>
-  <programme start="20260517010000 -0500" stop="20260517020000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517010000 +0000" stop="20260517020000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Football</category>
   <category>Sports</category>
   <title lang="es">Fanático</title>
   </programme>
-  <programme start="20260517020000 -0500" stop="20260517023000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517020000 +0000" stop="20260517023000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Science Fiction</category>
   <title lang="es">Tres cuerpos</title>
   </programme>
-  <programme start="20260517023000 -0500" stop="20260517040000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517023000 +0000" stop="20260517040000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Cuando el mundo cuenta</title>
   </programme>
-  <programme start="20260517040000 -0500" stop="20260517050000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517040000 +0000" stop="20260517050000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Encuadre latinoamericano</title>
   </programme>
-  <programme start="20260517050000 -0500" stop="20260517053000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517050000 +0000" stop="20260517053000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Yo soy free</title>
   </programme>
-  <programme start="20260517053000 -0500" stop="20260517060000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517053000 +0000" stop="20260517060000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Esto es Ecuador</title>
   </programme>
-  <programme start="20260517060000 -0500" stop="20260517070000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517060000 +0000" stop="20260517070000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Aduanas</title>
   </programme>
-  <programme start="20260517070000 -0500" stop="20260517073000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517070000 +0000" stop="20260517073000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Noticiero NCC</title>
   </programme>
-  <programme start="20260517073000 -0500" stop="20260517080000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517073000 +0000" stop="20260517080000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Fuerza latina</title>
   </programme>
-  <programme start="20260517080000 -0500" stop="20260517083000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517080000 +0000" stop="20260517083000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">ECO Latinoamérica</title>
   </programme>
-  <programme start="20260517083000 -0500" stop="20260517090000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517083000 +0000" stop="20260517090000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">¿Cómo te afecta?</title>
   </programme>
-  <programme start="20260517090000 -0500" stop="20260517100000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517090000 +0000" stop="20260517100000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Educational</category>
   <title lang="es">Dr. 7</title>
   </programme>
-  <programme start="20260517100000 -0500" stop="20260517110000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517100000 +0000" stop="20260517110000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Encuadre latinoamericano</title>
   </programme>
-  <programme start="20260517110000 -0500" stop="20260517113000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517110000 +0000" stop="20260517113000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Al volante</title>
   </programme>
-  <programme start="20260517113000 -0500" stop="20260517120000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517113000 +0000" stop="20260517120000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Mundo TV</title>
   </programme>
-  <programme start="20260517120000 -0500" stop="20260517123000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517120000 +0000" stop="20260517123000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Action/Adventure</category>
   <title lang="es">El panda chino</title>
   </programme>
-  <programme start="20260517123000 -0500" stop="20260517124500 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517123000 +0000" stop="20260517124500 +0000" channel="EcuadorTV.ec">
   <category lang="es">Children</category>
   <title lang="es">Casita Bombón</title>
   </programme>
-  <programme start="20260517124500 -0500" stop="20260517130000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517124500 +0000" stop="20260517130000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Action/Adventure</category>
   <title lang="es">Kioka</title>
   </programme>
-  <programme start="20260517130000 -0500" stop="20260517133000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517130000 +0000" stop="20260517133000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Animados</title>
   </programme>
-  <programme start="20260517133000 -0500" stop="20260517140000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517133000 +0000" stop="20260517140000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Foro interamericano</title>
   </programme>
-  <programme start="20260517140000 -0500" stop="20260517143000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517140000 +0000" stop="20260517143000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Mundo TV</title>
   </programme>
-  <programme start="20260517143000 -0500" stop="20260517153000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517143000 +0000" stop="20260517153000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Acústico</title>
   </programme>
-  <programme start="20260517153000 -0500" stop="20260517163000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517153000 +0000" stop="20260517163000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Mundo TV</title>
   </programme>
-  <programme start="20260517163000 -0500" stop="20260517173000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517163000 +0000" stop="20260517173000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Infantiles</title>
   </programme>
-  <programme start="20260517173000 -0500" stop="20260517183000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517173000 +0000" stop="20260517183000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Educa TV</title>
   </programme>
-  <programme start="20260517183000 -0500" stop="20260517190000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517183000 +0000" stop="20260517190000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Fuerza latina</title>
   </programme>
-  <programme start="20260517190000 -0500" stop="20260517210000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517190000 +0000" stop="20260517210000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Mundo TV</title>
   </programme>
-  <programme start="20260517210000 -0500" stop="20260517213000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517210000 +0000" stop="20260517213000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">ECO Latinoamérica</title>
   </programme>
-  <programme start="20260517213000 -0500" stop="20260517220000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517213000 +0000" stop="20260517220000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Ya era hora</title>
   </programme>
-  <programme start="20260517220000 -0500" stop="20260517230000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517220000 +0000" stop="20260517230000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Acústico</title>
   </programme>
-  <programme start="20260517230000 -0500" stop="20260517233000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517230000 +0000" stop="20260517233000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Travel</category>
   <title lang="es">El mundo entra por mi casa</title>
   </programme>
-  <programme start="20260517233000 -0500" stop="20260518000000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260517233000 +0000" stop="20260518000000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Lo que somos</title>
   </programme>
-  <programme start="20260518000000 -0500" stop="20260518003000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518000000 +0000" stop="20260518003000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">El destapabocas</title>
   </programme>
-  <programme start="20260518003000 -0500" stop="20260518010000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518003000 +0000" stop="20260518010000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Foro interamericano</title>
   </programme>
-  <programme start="20260518010000 -0500" stop="20260518013000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518010000 +0000" stop="20260518013000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Educational</category>
   <title lang="es">Madre selva</title>
   </programme>
-  <programme start="20260518013000 -0500" stop="20260518023000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518013000 +0000" stop="20260518023000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Business/Financial</category>
   <title lang="es">Relatos</title>
   </programme>
-  <programme start="20260518023000 -0500" stop="20260518040000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518023000 +0000" stop="20260518040000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Cine del mundo</title>
   </programme>
-  <programme start="20260518040000 -0500" stop="20260518040000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518040000 +0000" stop="20260518040000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Programación pagada</title>
   </programme>
-  <programme start="20260518040000 -0500" stop="20260518060000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518040000 +0000" stop="20260518060000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Programación pagada</title>
   </programme>
-  <programme start="20260518060000 -0500" stop="20260518070000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518060000 +0000" stop="20260518070000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Educa</title>
   </programme>
-  <programme start="20260518070000 -0500" stop="20260518073000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518070000 +0000" stop="20260518073000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Norris viajando</title>
   </programme>
-  <programme start="20260518073000 -0500" stop="20260518080000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518073000 +0000" stop="20260518080000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Fuerza latina</title>
   </programme>
-  <programme start="20260518080000 -0500" stop="20260518093000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518080000 +0000" stop="20260518093000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Los reyes de tus mañanas</title>
   </programme>
-  <programme start="20260518093000 -0500" stop="20260518100000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518093000 +0000" stop="20260518100000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Mi propio jefe</title>
   </programme>
-  <programme start="20260518100000 -0500" stop="20260518103000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518100000 +0000" stop="20260518103000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">El mundo al día</title>
   </programme>
-  <programme start="20260518103000 -0500" stop="20260518110000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518103000 +0000" stop="20260518110000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Global 3000 DW</title>
   </programme>
-  <programme start="20260518110000 -0500" stop="20260518120000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518110000 +0000" stop="20260518120000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Infantiles</title>
   </programme>
-  <programme start="20260518120000 -0500" stop="20260518130000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518120000 +0000" stop="20260518130000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Noticias 7</title>
   </programme>
-  <programme start="20260518130000 -0500" stop="20260518140000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518130000 +0000" stop="20260518140000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Mundo TV</title>
   </programme>
-  <programme start="20260518140000 -0500" stop="20260518143000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518140000 +0000" stop="20260518143000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Animados</title>
   </programme>
-  <programme start="20260518143000 -0500" stop="20260518153000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518143000 +0000" stop="20260518153000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Infantiles</title>
   </programme>
-  <programme start="20260518153000 -0500" stop="20260518170000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518153000 +0000" stop="20260518170000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Los reyes de tus mañanas</title>
   </programme>
-  <programme start="20260518170000 -0500" stop="20260518173000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518170000 +0000" stop="20260518173000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Ya era hora</title>
   </programme>
-  <programme start="20260518173000 -0500" stop="20260518180000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518173000 +0000" stop="20260518180000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Mundo TV</title>
   </programme>
-  <programme start="20260518180000 -0500" stop="20260518183000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518180000 +0000" stop="20260518183000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Mi propio jefe</title>
   </programme>
-  <programme start="20260518183000 -0500" stop="20260518190000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518183000 +0000" stop="20260518190000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Global 3000 DW</title>
   </programme>
-  <programme start="20260518190000 -0500" stop="20260518200000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518190000 +0000" stop="20260518200000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Educa TV</title>
   </programme>
-  <programme start="20260518200000 -0500" stop="20260518210000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518200000 +0000" stop="20260518210000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Mundo TV</title>
   </programme>
-  <programme start="20260518210000 -0500" stop="20260518213000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518210000 +0000" stop="20260518213000 +0000" channel="EcuadorTV.ec">
   <category lang="es">Documentary</category>
   <title lang="es">Detrás del fotógrafo</title>
   </programme>
-  <programme start="20260518213000 -0500" stop="20260518220000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518213000 +0000" stop="20260518220000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Mundo TV</title>
   </programme>
-  <programme start="20260518220000 -0500" stop="20260518230000 -0500" channel="EcuadorTV.ec">
+  <programme start="20260518220000 +0000" stop="20260518230000 +0000" channel="EcuadorTV.ec">
   <category lang="es">default</category>
   <title lang="es">Colores de América Latina</title>
   </programme>
-  <programme start="20260515100000 -0500" stop="20260515105000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260515100000 +0000" stop="20260515105000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Novela</title>
   </programme>
-  <programme start="20260515105000 -0500" stop="20260515115500 -0500" channel="Ecuavisa.ec">
+  <programme start="20260515105000 +0000" stop="20260515115500 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Televistazo en la comunidad</title>
   </programme>
-  <programme start="20260515115500 -0500" stop="20260515123000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260515115500 +0000" stop="20260515123000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Contacto directo</title>
   </programme>
-  <programme start="20260515123000 -0500" stop="20260515140000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260515123000 +0000" stop="20260515140000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Televistazo en la comunidad</title>
   </programme>
-  <programme start="20260515140000 -0500" stop="20260515150000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260515140000 +0000" stop="20260515150000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Soap Opera</category>
   <title lang="es">Lazos de amor</title>
   </programme>
-  <programme start="20260515150000 -0500" stop="20260515180000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260515150000 +0000" stop="20260515180000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">En contacto</title>
   </programme>
-  <programme start="20260515180000 -0500" stop="20260515190000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260515180000 +0000" stop="20260515190000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Talk</category>
   <title lang="es">Televistazo</title>
   </programme>
-  <programme start="20260515190000 -0500" stop="20260515203000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260515190000 +0000" stop="20260515203000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Los hackers de la farándula</title>
   </programme>
-  <programme start="20260515203000 -0500" stop="20260515213000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260515203000 +0000" stop="20260515213000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Drama</category>
   <title lang="es">Dr. Milagro</title>
   </programme>
-  <programme start="20260515213000 -0500" stop="20260515223000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260515213000 +0000" stop="20260515223000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Engañada</title>
   </programme>
-  <programme start="20260515223000 -0500" stop="20260516000000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260515223000 +0000" stop="20260516000000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Drama</category>
   <title lang="es">Destilando amor</title>
   </programme>
-  <programme start="20260516000000 -0500" stop="20260516020000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260516000000 +0000" stop="20260516020000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Televistazo estelar</title>
   </programme>
-  <programme start="20260516020000 -0500" stop="20260516030000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260516020000 +0000" stop="20260516030000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Drama</category>
   <title lang="es">Cholito forever</title>
   </programme>
-  <programme start="20260516030000 -0500" stop="20260516040000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260516030000 +0000" stop="20260516040000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Drama</category>
   <title lang="es">Cholito forever</title>
   </programme>
-  <programme start="20260516040000 -0500" stop="20260516050000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260516040000 +0000" stop="20260516050000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Piso 17</title>
   </programme>
-  <programme start="20260516050000 -0500" stop="20260516100000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260516050000 +0000" stop="20260516100000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Novela</title>
   </programme>
-  <programme start="20260516100000 -0500" stop="20260516120000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260516100000 +0000" stop="20260516120000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Comedy</category>
   <title lang="es">Como dice el dicho</title>
   </programme>
-  <programme start="20260516120000 -0500" stop="20260516130000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260516120000 +0000" stop="20260516130000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Mundo TV</title>
   </programme>
-  <programme start="20260516130000 -0500" stop="20260516140000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260516130000 +0000" stop="20260516140000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Tventas</title>
   </programme>
-  <programme start="20260516140000 -0500" stop="20260516143000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260516140000 +0000" stop="20260516143000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">El pan nuestro</title>
   </programme>
-  <programme start="20260516143000 -0500" stop="20260516153000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260516143000 +0000" stop="20260516153000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Biography</category>
   <title lang="es">Sí se puede</title>
   </programme>
-  <programme start="20260516153000 -0500" stop="20260516163000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260516153000 +0000" stop="20260516163000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Religion</category>
   <title lang="es">Historias de la Virgen morena</title>
   </programme>
-  <programme start="20260516163000 -0500" stop="20260516193000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260516163000 +0000" stop="20260516193000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Más sabe el diablo</title>
   </programme>
-  <programme start="20260516193000 -0500" stop="20260516220000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260516193000 +0000" stop="20260516220000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Drama</category>
   <title lang="es">Carita de ángel</title>
   </programme>
-  <programme start="20260516220000 -0500" stop="20260517000000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260516220000 +0000" stop="20260517000000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Película</title>
   </programme>
-  <programme start="20260517000000 -0500" stop="20260517003000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260517000000 +0000" stop="20260517003000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Talk</category>
   <title lang="es">Televistazo</title>
   </programme>
-  <programme start="20260517003000 -0500" stop="20260517023000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260517003000 +0000" stop="20260517023000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Action/Adventure</category>
   <title lang="es">El tirador</title>
   </programme>
-  <programme start="20260517023000 -0500" stop="20260517043000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260517023000 +0000" stop="20260517043000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Action/Adventure</category>
   <title lang="es">Sniper: El fin del asesino</title>
   </programme>
-  <programme start="20260517043000 -0500" stop="20260517043000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260517043000 +0000" stop="20260517043000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Action/Adventure</category>
   <title lang="es">El Auto Fantástico del 2010</title>
   </programme>
-  <programme start="20260517043000 -0500" stop="20260517060000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260517043000 +0000" stop="20260517060000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Action/Adventure</category>
   <title lang="es">El Auto Fantástico del 2010</title>
   </programme>
-  <programme start="20260517060000 -0500" stop="20260517100000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260517060000 +0000" stop="20260517100000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">El combo amarillo</title>
   </programme>
-  <programme start="20260517100000 -0500" stop="20260517110000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260517100000 +0000" stop="20260517110000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Fantasy</category>
   <title lang="es">El Hombre Increíble</title>
   </programme>
-  <programme start="20260517110000 -0500" stop="20260517113000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260517110000 +0000" stop="20260517113000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Health/Medicine</category>
   <title lang="es">Vive verde y rebelde</title>
   </programme>
-  <programme start="20260517113000 -0500" stop="20260517123000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260517113000 +0000" stop="20260517123000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Health/Medicine</category>
   <title lang="es">Ser</title>
   </programme>
-  <programme start="20260517123000 -0500" stop="20260517133000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260517123000 +0000" stop="20260517133000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Mundo TV</title>
   </programme>
-  <programme start="20260517133000 -0500" stop="20260517143000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260517133000 +0000" stop="20260517143000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Educational</category>
   <title lang="es">Hacia un nuevo estilo de vida</title>
   </programme>
-  <programme start="20260517143000 -0500" stop="20260517153000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260517143000 +0000" stop="20260517153000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Panorama internacional</title>
   </programme>
-  <programme start="20260517153000 -0500" stop="20260517163000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260517153000 +0000" stop="20260517163000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Políticamente correcto</title>
   </programme>
-  <programme start="20260517163000 -0500" stop="20260517173000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260517163000 +0000" stop="20260517173000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Esta semana</title>
   </programme>
-  <programme start="20260517173000 -0500" stop="20260517180000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260517173000 +0000" stop="20260517180000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Entre flashes</title>
   </programme>
-  <programme start="20260517180000 -0500" stop="20260517203000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260517180000 +0000" stop="20260517203000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Action/Adventure</category>
   <title lang="es">La supremacía Bourne</title>
   </programme>
-  <programme start="20260517203000 -0500" stop="20260517223000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260517203000 +0000" stop="20260517223000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Action/Adventure</category>
   <title lang="es">Duro de matar</title>
   </programme>
-  <programme start="20260517223000 -0500" stop="20260517230000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260517223000 +0000" stop="20260517230000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Soccer</category>
   <category>Sports</category>
   <title lang="es">Fútbol: Previa</title>
   </programme>
-  <programme start="20260517230000 -0500" stop="20260518010000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260517230000 +0000" stop="20260518010000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Soccer</category>
   <category>Sports</category>
   <title lang="es">Manta vs. C.S. Emelec</title>
   </programme>
-  <programme start="20260518010000 -0500" stop="20260518020000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260518010000 +0000" stop="20260518020000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Televistazo domingo</title>
   </programme>
-  <programme start="20260518020000 -0500" stop="20260518040000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260518020000 +0000" stop="20260518040000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Action/Adventure</category>
   <title lang="es">Jurassic World: El reino caído</title>
   </programme>
-  <programme start="20260518040000 -0500" stop="20260518040000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260518040000 +0000" stop="20260518040000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Action/Adventure</category>
   <title lang="es">Escuadrón suicida</title>
   </programme>
-  <programme start="20260518040000 -0500" stop="20260518060000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260518040000 +0000" stop="20260518060000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Action/Adventure</category>
   <title lang="es">Escuadrón suicida</title>
   </programme>
-  <programme start="20260518060000 -0500" stop="20260518100000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260518060000 +0000" stop="20260518100000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Novela</title>
   </programme>
-  <programme start="20260518100000 -0500" stop="20260518105000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260518100000 +0000" stop="20260518105000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Novela</title>
   </programme>
-  <programme start="20260518105000 -0500" stop="20260518115500 -0500" channel="Ecuavisa.ec">
+  <programme start="20260518105000 +0000" stop="20260518115500 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Televistazo en la comunidad</title>
   </programme>
-  <programme start="20260518115500 -0500" stop="20260518123000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260518115500 +0000" stop="20260518123000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Contacto directo</title>
   </programme>
-  <programme start="20260518123000 -0500" stop="20260518140000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260518123000 +0000" stop="20260518140000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Televistazo en la comunidad</title>
   </programme>
-  <programme start="20260518140000 -0500" stop="20260518150000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260518140000 +0000" stop="20260518150000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Soap Opera</category>
   <title lang="es">Lazos de amor</title>
   </programme>
-  <programme start="20260518150000 -0500" stop="20260518180000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260518150000 +0000" stop="20260518180000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">En contacto</title>
   </programme>
-  <programme start="20260518180000 -0500" stop="20260518190000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260518180000 +0000" stop="20260518190000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Talk</category>
   <title lang="es">Televistazo</title>
   </programme>
-  <programme start="20260518190000 -0500" stop="20260518203000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260518190000 +0000" stop="20260518203000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">Los hackers de la farándula</title>
   </programme>
-  <programme start="20260518203000 -0500" stop="20260518213000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260518203000 +0000" stop="20260518213000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Drama</category>
   <title lang="es">Dr. Milagro</title>
   </programme>
-  <programme start="20260518213000 -0500" stop="20260518223000 -0500" channel="Ecuavisa.ec">
+  <programme start="20260518213000 +0000" stop="20260518223000 +0000" channel="Ecuavisa.ec">
   <category lang="es">default</category>
   <title lang="es">El amor más grande</title>
   </programme>
-  <programme start="20260515103000 -0500" stop="20260515110000 -0500" channel="Gamavision.ec">
+  <programme start="20260515103000 +0000" stop="20260515110000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Programación reprise</title>
   </programme>
-  <programme start="20260515110000 -0500" stop="20260515113000 -0500" channel="Gamavision.ec">
+  <programme start="20260515110000 +0000" stop="20260515113000 +0000" channel="Gamavision.ec">
   <category lang="es">Documentary</category>
   <title lang="es">El encanto de Japón, el país del sol naciente</title>
   </programme>
-  <programme start="20260515113000 -0500" stop="20260515120000 -0500" channel="Gamavision.ec">
+  <programme start="20260515113000 +0000" stop="20260515120000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">NCC Iberoamérica en órbita</title>
   </programme>
-  <programme start="20260515120000 -0500" stop="20260515130000 -0500" channel="Gamavision.ec">
+  <programme start="20260515120000 +0000" stop="20260515130000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">A fondo</title>
   </programme>
-  <programme start="20260515130000 -0500" stop="20260515140000 -0500" channel="Gamavision.ec">
+  <programme start="20260515130000 +0000" stop="20260515140000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Educa</title>
   </programme>
-  <programme start="20260515140000 -0500" stop="20260515143000 -0500" channel="Gamavision.ec">
+  <programme start="20260515140000 +0000" stop="20260515143000 +0000" channel="Gamavision.ec">
   <category lang="es">Travel</category>
   <title lang="es">¡Escápate! - La guía del viajero</title>
   </programme>
-  <programme start="20260515143000 -0500" stop="20260515150000 -0500" channel="Gamavision.ec">
+  <programme start="20260515143000 +0000" stop="20260515150000 +0000" channel="Gamavision.ec">
   <category lang="es">Cooking</category>
   <title lang="es">Ruta latitud</title>
   </programme>
-  <programme start="20260515150000 -0500" stop="20260515160000 -0500" channel="Gamavision.ec">
+  <programme start="20260515150000 +0000" stop="20260515160000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Esta es mi canción</title>
   </programme>
-  <programme start="20260515160000 -0500" stop="20260515163000 -0500" channel="Gamavision.ec">
+  <programme start="20260515160000 +0000" stop="20260515163000 +0000" channel="Gamavision.ec">
   <category lang="es">Current</category>
   <title lang="es">Enlaces: Ventana abierta al mundo digital</title>
   </programme>
-  <programme start="20260515163000 -0500" stop="20260515170000 -0500" channel="Gamavision.ec">
+  <programme start="20260515163000 +0000" stop="20260515170000 +0000" channel="Gamavision.ec">
   <category lang="es">Cooking</category>
   <title lang="es">Con sabor y saber</title>
   </programme>
-  <programme start="20260515170000 -0500" stop="20260515180000 -0500" channel="Gamavision.ec">
+  <programme start="20260515170000 +0000" stop="20260515180000 +0000" channel="Gamavision.ec">
   <category lang="es">Cooking</category>
   <title lang="es">A la conquista del sabor</title>
   </programme>
-  <programme start="20260515180000 -0500" stop="20260515183000 -0500" channel="Gamavision.ec">
+  <programme start="20260515180000 +0000" stop="20260515183000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Gamanoticias: Edición central</title>
   </programme>
-  <programme start="20260515183000 -0500" stop="20260515190000 -0500" channel="Gamavision.ec">
+  <programme start="20260515183000 +0000" stop="20260515190000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">DW Noticias</title>
   </programme>
-  <programme start="20260515190000 -0500" stop="20260515193000 -0500" channel="Gamavision.ec">
+  <programme start="20260515190000 +0000" stop="20260515193000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Los protagonistas</title>
   </programme>
-  <programme start="20260515193000 -0500" stop="20260515203000 -0500" channel="Gamavision.ec">
+  <programme start="20260515193000 +0000" stop="20260515203000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Puro Teatro</title>
   </programme>
-  <programme start="20260515203000 -0500" stop="20260515210000 -0500" channel="Gamavision.ec">
+  <programme start="20260515203000 +0000" stop="20260515210000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Entramarnos</title>
   </programme>
-  <programme start="20260515210000 -0500" stop="20260515213000 -0500" channel="Gamavision.ec">
+  <programme start="20260515210000 +0000" stop="20260515213000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Habla por todas</title>
   </programme>
-  <programme start="20260515213000 -0500" stop="20260515223000 -0500" channel="Gamavision.ec">
+  <programme start="20260515213000 +0000" stop="20260515223000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Puro Teatro</title>
   </programme>
-  <programme start="20260515223000 -0500" stop="20260515230000 -0500" channel="Gamavision.ec">
+  <programme start="20260515223000 +0000" stop="20260515230000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Minuto 15</title>
   </programme>
-  <programme start="20260515230000 -0500" stop="20260515233000 -0500" channel="Gamavision.ec">
+  <programme start="20260515230000 +0000" stop="20260515233000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Centinelas de la salud</title>
   </programme>
-  <programme start="20260515233000 -0500" stop="20260516000000 -0500" channel="Gamavision.ec">
+  <programme start="20260515233000 +0000" stop="20260516000000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Viviendo sin límites</title>
   </programme>
-  <programme start="20260516000000 -0500" stop="20260516010000 -0500" channel="Gamavision.ec">
+  <programme start="20260516000000 +0000" stop="20260516010000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Gamanoticias estelar</title>
   </programme>
-  <programme start="20260516010000 -0500" stop="20260516020000 -0500" channel="Gamavision.ec">
+  <programme start="20260516010000 +0000" stop="20260516020000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">La Virgencita Ecuador</title>
   </programme>
-  <programme start="20260516020000 -0500" stop="20260516023000 -0500" channel="Gamavision.ec">
+  <programme start="20260516020000 +0000" stop="20260516023000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Encuentro con la historia</title>
   </programme>
-  <programme start="20260516023000 -0500" stop="20260516030000 -0500" channel="Gamavision.ec">
+  <programme start="20260516023000 +0000" stop="20260516030000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Madre selva</title>
   </programme>
-  <programme start="20260516030000 -0500" stop="20260516040000 -0500" channel="Gamavision.ec">
+  <programme start="20260516030000 +0000" stop="20260516040000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Verdades o mentiras</title>
   </programme>
-  <programme start="20260516040000 -0500" stop="20260516043000 -0500" channel="Gamavision.ec">
+  <programme start="20260516040000 +0000" stop="20260516043000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Los protagonistas</title>
   </programme>
-  <programme start="20260516043000 -0500" stop="20260516050000 -0500" channel="Gamavision.ec">
+  <programme start="20260516043000 +0000" stop="20260516050000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Esta es mi canción</title>
   </programme>
-  <programme start="20260516050000 -0500" stop="20260516103000 -0500" channel="Gamavision.ec">
+  <programme start="20260516050000 +0000" stop="20260516103000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Programación reprise</title>
   </programme>
-  <programme start="20260516103000 -0500" stop="20260516110000 -0500" channel="Gamavision.ec">
+  <programme start="20260516103000 +0000" stop="20260516110000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Programación reprise</title>
   </programme>
-  <programme start="20260516110000 -0500" stop="20260516120000 -0500" channel="Gamavision.ec">
+  <programme start="20260516110000 +0000" stop="20260516120000 +0000" channel="Gamavision.ec">
   <category lang="es">Documentary</category>
   <title lang="es">El encanto de Japón, el país del sol naciente</title>
   </programme>
-  <programme start="20260516120000 -0500" stop="20260516123000 -0500" channel="Gamavision.ec">
+  <programme start="20260516120000 +0000" stop="20260516123000 +0000" channel="Gamavision.ec">
   <category lang="es">Game Show</category>
   <title lang="es">La matraca</title>
   </programme>
-  <programme start="20260516123000 -0500" stop="20260516130000 -0500" channel="Gamavision.ec">
+  <programme start="20260516123000 +0000" stop="20260516130000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Rompecabezas</title>
   </programme>
-  <programme start="20260516130000 -0500" stop="20260516140000 -0500" channel="Gamavision.ec">
+  <programme start="20260516130000 +0000" stop="20260516140000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Educa</title>
   </programme>
-  <programme start="20260516140000 -0500" stop="20260516173000 -0500" channel="Gamavision.ec">
+  <programme start="20260516140000 +0000" stop="20260516173000 +0000" channel="Gamavision.ec">
   <category lang="es">Cooking</category>
   <title lang="es">A la conquista del sabor</title>
   </programme>
-  <programme start="20260516173000 -0500" stop="20260516180000 -0500" channel="Gamavision.ec">
+  <programme start="20260516173000 +0000" stop="20260516180000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Revoluciones por minuto</title>
   </programme>
-  <programme start="20260516180000 -0500" stop="20260516193000 -0500" channel="Gamavision.ec">
+  <programme start="20260516180000 +0000" stop="20260516193000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Centinelas de la salud</title>
   </programme>
-  <programme start="20260516193000 -0500" stop="20260516210000 -0500" channel="Gamavision.ec">
+  <programme start="20260516193000 +0000" stop="20260516210000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Centinelas de la salud</title>
   </programme>
-  <programme start="20260516210000 -0500" stop="20260516233000 -0500" channel="Gamavision.ec">
+  <programme start="20260516210000 +0000" stop="20260516233000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Entramarnos</title>
   </programme>
-  <programme start="20260516233000 -0500" stop="20260517000000 -0500" channel="Gamavision.ec">
+  <programme start="20260516233000 +0000" stop="20260517000000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Reporter</title>
   </programme>
-  <programme start="20260517000000 -0500" stop="20260517010000 -0500" channel="Gamavision.ec">
+  <programme start="20260517000000 +0000" stop="20260517010000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Esta es mi canción</title>
   </programme>
-  <programme start="20260517010000 -0500" stop="20260517020000 -0500" channel="Gamavision.ec">
+  <programme start="20260517010000 +0000" stop="20260517020000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Puro Teatro</title>
   </programme>
-  <programme start="20260517020000 -0500" stop="20260517023000 -0500" channel="Gamavision.ec">
+  <programme start="20260517020000 +0000" stop="20260517023000 +0000" channel="Gamavision.ec">
   <category lang="es">Educational</category>
   <title lang="es">El gabinete de curiosidades del Dr. Zagal</title>
   </programme>
-  <programme start="20260517023000 -0500" stop="20260517040000 -0500" channel="Gamavision.ec">
+  <programme start="20260517023000 +0000" stop="20260517040000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Verdades o mentiras</title>
   </programme>
-  <programme start="20260517040000 -0500" stop="20260517050000 -0500" channel="Gamavision.ec">
+  <programme start="20260517040000 +0000" stop="20260517050000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Master music</title>
   </programme>
-  <programme start="20260517050000 -0500" stop="20260517103000 -0500" channel="Gamavision.ec">
+  <programme start="20260517050000 +0000" stop="20260517103000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Programación reprise</title>
   </programme>
-  <programme start="20260517103000 -0500" stop="20260517110000 -0500" channel="Gamavision.ec">
+  <programme start="20260517103000 +0000" stop="20260517110000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Programación reprise</title>
   </programme>
-  <programme start="20260517110000 -0500" stop="20260517123000 -0500" channel="Gamavision.ec">
+  <programme start="20260517110000 +0000" stop="20260517123000 +0000" channel="Gamavision.ec">
   <category lang="es">Documentary</category>
   <title lang="es">El encanto de Japón, el país del sol naciente</title>
   </programme>
-  <programme start="20260517123000 -0500" stop="20260517153000 -0500" channel="Gamavision.ec">
+  <programme start="20260517123000 +0000" stop="20260517153000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Programación pagada</title>
   </programme>
-  <programme start="20260517153000 -0500" stop="20260517163000 -0500" channel="Gamavision.ec">
+  <programme start="20260517153000 +0000" stop="20260517163000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Educa</title>
   </programme>
-  <programme start="20260517163000 -0500" stop="20260517173000 -0500" channel="Gamavision.ec">
+  <programme start="20260517163000 +0000" stop="20260517173000 +0000" channel="Gamavision.ec">
   <category lang="es">Documentary</category>
   <title lang="es">Catadores</title>
   </programme>
-  <programme start="20260517173000 -0500" stop="20260517180000 -0500" channel="Gamavision.ec">
+  <programme start="20260517173000 +0000" stop="20260517180000 +0000" channel="Gamavision.ec">
   <category lang="es">Travel</category>
   <title lang="es">¡Escápate! - La guía del viajero</title>
   </programme>
-  <programme start="20260517180000 -0500" stop="20260517183000 -0500" channel="Gamavision.ec">
+  <programme start="20260517180000 +0000" stop="20260517183000 +0000" channel="Gamavision.ec">
   <category lang="es">Game Show</category>
   <title lang="es">La matraca</title>
   </programme>
-  <programme start="20260517183000 -0500" stop="20260517200000 -0500" channel="Gamavision.ec">
+  <programme start="20260517183000 +0000" stop="20260517200000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Minuto 15</title>
   </programme>
-  <programme start="20260517200000 -0500" stop="20260517210000 -0500" channel="Gamavision.ec">
+  <programme start="20260517200000 +0000" stop="20260517210000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Master music</title>
   </programme>
-  <programme start="20260517210000 -0500" stop="20260517230000 -0500" channel="Gamavision.ec">
+  <programme start="20260517210000 +0000" stop="20260517230000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Habla por todas</title>
   </programme>
-  <programme start="20260517230000 -0500" stop="20260517233000 -0500" channel="Gamavision.ec">
+  <programme start="20260517230000 +0000" stop="20260517233000 +0000" channel="Gamavision.ec">
   <category lang="es">Business</category>
   <title lang="es">Enlaces: Ventana abierta al mundo digital</title>
   </programme>
-  <programme start="20260517233000 -0500" stop="20260518000000 -0500" channel="Gamavision.ec">
+  <programme start="20260517233000 +0000" stop="20260518000000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Los protagonistas</title>
   </programme>
-  <programme start="20260518000000 -0500" stop="20260518003000 -0500" channel="Gamavision.ec">
+  <programme start="20260518000000 +0000" stop="20260518003000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Noticiero científico y cultural iberoamericano</title>
   </programme>
-  <programme start="20260518003000 -0500" stop="20260518013000 -0500" channel="Gamavision.ec">
+  <programme start="20260518003000 +0000" stop="20260518013000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Memorias</title>
   </programme>
-  <programme start="20260518013000 -0500" stop="20260518030000 -0500" channel="Gamavision.ec">
+  <programme start="20260518013000 +0000" stop="20260518030000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Verdades o mentiras</title>
   </programme>
-  <programme start="20260518030000 -0500" stop="20260518040000 -0500" channel="Gamavision.ec">
+  <programme start="20260518030000 +0000" stop="20260518040000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Memorias</title>
   </programme>
-  <programme start="20260518040000 -0500" stop="20260518050000 -0500" channel="Gamavision.ec">
+  <programme start="20260518040000 +0000" stop="20260518050000 +0000" channel="Gamavision.ec">
   <category lang="es">Documentary</category>
   <title lang="es">El encanto de Japón, el país del sol naciente</title>
   </programme>
-  <programme start="20260518050000 -0500" stop="20260518103000 -0500" channel="Gamavision.ec">
+  <programme start="20260518050000 +0000" stop="20260518103000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Programación reprise</title>
   </programme>
-  <programme start="20260518103000 -0500" stop="20260518110000 -0500" channel="Gamavision.ec">
+  <programme start="20260518103000 +0000" stop="20260518110000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Programación reprise</title>
   </programme>
-  <programme start="20260518110000 -0500" stop="20260518113000 -0500" channel="Gamavision.ec">
+  <programme start="20260518110000 +0000" stop="20260518113000 +0000" channel="Gamavision.ec">
   <category lang="es">Documentary</category>
   <title lang="es">El encanto de Japón, el país del sol naciente</title>
   </programme>
-  <programme start="20260518113000 -0500" stop="20260518120000 -0500" channel="Gamavision.ec">
+  <programme start="20260518113000 +0000" stop="20260518120000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Noticiero científico y cultural iberoamericano</title>
   </programme>
-  <programme start="20260518120000 -0500" stop="20260518130000 -0500" channel="Gamavision.ec">
+  <programme start="20260518120000 +0000" stop="20260518130000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">A fondo</title>
   </programme>
-  <programme start="20260518130000 -0500" stop="20260518140000 -0500" channel="Gamavision.ec">
+  <programme start="20260518130000 +0000" stop="20260518140000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Educa</title>
   </programme>
-  <programme start="20260518140000 -0500" stop="20260518143000 -0500" channel="Gamavision.ec">
+  <programme start="20260518140000 +0000" stop="20260518143000 +0000" channel="Gamavision.ec">
   <category lang="es">Travel</category>
   <title lang="es">¡Escápate! - La guía del viajero</title>
   </programme>
-  <programme start="20260518143000 -0500" stop="20260518150000 -0500" channel="Gamavision.ec">
+  <programme start="20260518143000 +0000" stop="20260518150000 +0000" channel="Gamavision.ec">
   <category lang="es">Cooking</category>
   <title lang="es">Ruta latitud</title>
   </programme>
-  <programme start="20260518150000 -0500" stop="20260518160000 -0500" channel="Gamavision.ec">
+  <programme start="20260518150000 +0000" stop="20260518160000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Esta es mi canción</title>
   </programme>
-  <programme start="20260518160000 -0500" stop="20260518163000 -0500" channel="Gamavision.ec">
+  <programme start="20260518160000 +0000" stop="20260518163000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Fuerza latina</title>
   </programme>
-  <programme start="20260518163000 -0500" stop="20260518170000 -0500" channel="Gamavision.ec">
+  <programme start="20260518163000 +0000" stop="20260518170000 +0000" channel="Gamavision.ec">
   <category lang="es">Cooking</category>
   <title lang="es">Con sabor y saber</title>
   </programme>
-  <programme start="20260518170000 -0500" stop="20260518180000 -0500" channel="Gamavision.ec">
+  <programme start="20260518170000 +0000" stop="20260518180000 +0000" channel="Gamavision.ec">
   <category lang="es">Cooking</category>
   <title lang="es">A la conquista del sabor</title>
   </programme>
-  <programme start="20260518180000 -0500" stop="20260518183000 -0500" channel="Gamavision.ec">
+  <programme start="20260518180000 +0000" stop="20260518183000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Gamanoticias: Edición central</title>
   </programme>
-  <programme start="20260518183000 -0500" stop="20260518190000 -0500" channel="Gamavision.ec">
+  <programme start="20260518183000 +0000" stop="20260518190000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">DW Noticias</title>
   </programme>
-  <programme start="20260518190000 -0500" stop="20260518193000 -0500" channel="Gamavision.ec">
+  <programme start="20260518190000 +0000" stop="20260518193000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Los protagonistas</title>
   </programme>
-  <programme start="20260518193000 -0500" stop="20260518203000 -0500" channel="Gamavision.ec">
+  <programme start="20260518193000 +0000" stop="20260518203000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Puro Teatro</title>
   </programme>
-  <programme start="20260518203000 -0500" stop="20260518210000 -0500" channel="Gamavision.ec">
+  <programme start="20260518203000 +0000" stop="20260518210000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Entramarnos</title>
   </programme>
-  <programme start="20260518210000 -0500" stop="20260518213000 -0500" channel="Gamavision.ec">
+  <programme start="20260518210000 +0000" stop="20260518213000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Habla por todas</title>
   </programme>
-  <programme start="20260518213000 -0500" stop="20260518223000 -0500" channel="Gamavision.ec">
+  <programme start="20260518213000 +0000" stop="20260518223000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Puro Teatro</title>
   </programme>
-  <programme start="20260518223000 -0500" stop="20260518230000 -0500" channel="Gamavision.ec">
+  <programme start="20260518223000 +0000" stop="20260518230000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Minuto 15</title>
   </programme>
-  <programme start="20260518230000 -0500" stop="20260518233000 -0500" channel="Gamavision.ec">
+  <programme start="20260518230000 +0000" stop="20260518233000 +0000" channel="Gamavision.ec">
   <category lang="es">default</category>
   <title lang="es">Centinelas de la salud</title>
   </programme>
