@@ -17,6 +17,7 @@ const TARGET_IDS = [
     "Canal.TC.TelevisiÃ³n.ec",
     "Canal.RTS.ec",
     "Canal.Ecuador.TV.ec",
+    "Canal.Ecuavisa.(Ecuador).ec",
     "Canal.ESPN.(Ecuador).ec",
     "Canal.ESPN.2.(Ecuador).ec",
     "Canal.TNT.(Ecuador).ec",
