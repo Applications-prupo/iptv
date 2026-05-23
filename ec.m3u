@@ -7,7 +7,7 @@
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/fZbDiZq.jpeg" group-title="TV Nacional Ecuador",Ecuavisa Guayaquil
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 
-#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/vcTH4Iy.jpeg" group-title="TV Nacional Ecuador",Ecuavisa Quito
+#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).ec" tvg-logo="https://i.imgur.com/vcTH4Iy.jpeg" group-title="TV Nacional Ecuador",Ecuavisa Quito
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/2NRiRGF63ZCx5buMuYgYX0ghIoh7TinuYZ7sDe4QufcB5mSDEhdpq21WZF1Y6PAjJdkiKBAPWt8ZsQmzAyyv1HT64hHE14CpK7V36V3ysJeCS1dHFeQ" tvg-id="Teleamazonas.ec" group-title="TV Nacional Ecuador",Teleamazonas
