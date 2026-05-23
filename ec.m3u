@@ -10,16 +10,16 @@ https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 #EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).ec" tvg-logo="https://i.imgur.com/vcTH4Iy.jpeg" group-title="TV Nacional Ecuador",Ecuavisa Quito
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://iptv-org.github.io/logos/ec/Teleamazonas.png" group-title="TV Nacional Ecuador",Teleamazonas
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="" group-title="TV Nacional Ecuador",Teleamazonas
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal.RTS.ec" tvg-logo="https://iptv-org.github.io/logos/ec/RTS.png" group-title="TV Nacional Ecuador",RTS
+#EXTINF:-1 tvg-id="Canal.RTS.ec" tvg-logo="" group-title="TV Nacional Ecuador",RTS
 https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8
 
 #EXTINF:-1 tvg-id="Canal.ESNE.TV.ec" tvg-logo="https://www.hechosecuador.com/rw_common/images/final.gif" group-title="TV Nacional Ecuador",Hechos Ecuador
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/uno_ecuador-mediano.png" group-title="TV Nacional Ecuador",Canal 1
+#EXTINF:-1 tvg-logo="" group-title="TV Nacional Ecuador",Canal 1
 https://stmv6.voxtvhd.com.br/sonorama/sonorama/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal.TC.TelevisiÃ³n.ec" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="TV Nacional Ecuador",TC Televisión
@@ -35,10 +35,10 @@ https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
 # 📰 🎙️ NOTICIAS ECUADOR
 # ═════════════════════════════════════════════════════
 
-#EXTINF:-1 tvg-id="Canal.Ecuador.TV.ec" tvg-logo="https://iptv-org.github.io/logos/ec/EcuadorTV.png" group-title="Noticias Ecuador",Ecuador TV
+#EXTINF:-1 tvg-id="Canal.Ecuador.TV.ec" tvg-logo="" group-title="Noticias Ecuador",Ecuador TV
 https://samson.streamerr.co:8081/shogun/index.m3u8
 
-#EXTINF:-1 tvg-id="OromarTV.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Oromar_TV_logo.png" group-title="Noticias Ecuador",Oromar TV
+#EXTINF:-1 tvg-id="OromarTV.ec" tvg-logo="" group-title="Noticias Ecuador",Oromar TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-1 group-title="Noticias Ecuador",Canal Sur
