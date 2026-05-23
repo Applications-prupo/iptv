@@ -26,7 +26,7 @@ const SOURCE_LOGOS = "https://iptv-epg.org/files/epg-ec.xml.gz";
 const SOURCE_PROG = "https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz";
 
 async function generatePremiumIPTV() {
-    const inputM3UPath = path.join(__dirname, "lista_origen.m3u"); // Tu lista base
+    const inputM3UPath = path.join(__dirname, "..", "ec.m3u"); // Busca 'ec.m3u' una carpeta hacia afuera
     const outputM3UPath = path.join(__dirname, "lista_perfecta.m3u"); // La lista automática con logos
     const outputXMLPath = path.join(__dirname, "epg.xml"); // Tu guía premium
     
