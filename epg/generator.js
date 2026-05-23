@@ -4,7 +4,7 @@ const axios = require("axios");
 const zlib = require("zlib");
 const readline = require("readline");
 
-// 📡 LISTA DE IDs EXACTOS DE TU M3U
+// 📡 LISTA DE IDs EXACTOS PARA EL FILTRADO
 const TARGET_IDS = [
     "Ecuavisa.ec", 
     "Teleamazonas.ec", 
@@ -13,7 +13,6 @@ const TARGET_IDS = [
     "Canal.TC.TelevisiÃ³n.ec",
     "RTU.ec",
     "Canal.Ecuador.TV.ec",
-    "Canal.Ecuavisa.(Ecuador).ec",
     "OromarTV.ec",
     "Canal.ESPN.2.(Ecuador).ec",
     "Canal.DW.(LatinoamÃ©rica).ec",
@@ -23,67 +22,90 @@ const TARGET_IDS = [
     "Canal.TLC.(Ecuador).ec"
 ];
 
-// 🔗 FUENTES DE DATOS
 const SOURCE_LOGOS = "https://iptv-epg.org/files/epg-ec.xml.gz";
 const SOURCE_PROG = "https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz";
 
-async function generateFinalEPG() {
-    const outputPath = path.join(__dirname, "epg.xml");
-    console.log("🚀 Iniciando Extractor Inteligente (Fusión Perfecta de Logos + Programación)...");
+async function generatePremiumIPTV() {
+    const inputM3UPath = path.join(__dirname, "lista_origen.m3u"); // Tu lista base
+    const outputM3UPath = path.join(__dirname, "lista_perfecta.m3u"); // La lista automática con logos
+    const outputXMLPath = path.join(__dirname, "epg.xml"); // Tu guía premium
+    
+    console.log("🚀 Iniciando Sistema Auto-Inyector M3U + EPG Premium...");
+
+    if (!fs.existsSync(inputM3UPath)) {
+        console.error(`❌ ERROR: No encontré el archivo 'lista_origen.m3u' en esta carpeta.`);
+        console.error(`👉 Por favor, guarda tu lista actual con ese nombre exacto aquí.`);
+        return;
+    }
 
     try {
-        let logoMap = new Map(); // Guardará ID -> URL del Logo
-        let channelNames = new Map(); // Guardará ID -> Nombre del canal
+        let logoMap = new Map();
+        let channelNames = new Map();
 
-        // 🛠️ PASO 1: EXTRAER LOGOS DE LA FUENTE "IPTV-EPG"
-        console.log(`📥 1/2 Buscando logos en: ${SOURCE_LOGOS}`);
-        try {
-            const response = await axios({ method: 'get', url: SOURCE_LOGOS, responseType: 'stream', timeout: 30000 });
-            const gunzip = zlib.createGunzip();
-            const rl = readline.createInterface({ input: response.data.pipe(gunzip), terminal: false });
+        // 🛠️ PASO 1: MAPEAR LOGOS DESDE IPTV-EPG
+        console.log(`📥 1/3 Extrayendo base de datos de logos de: ${SOURCE_LOGOS}`);
+        const response = await axios({ method: 'get', url: SOURCE_LOGOS, responseType: 'stream', timeout: 30000 });
+        const gunzip = zlib.createGunzip();
+        const rl = readline.createInterface({ input: response.data.pipe(gunzip), terminal: false });
 
-            let currentId = null;
-            let currentName = "";
+        let currentId = null;
+        let currentName = "";
 
-            for await (const line of rl) {
-                const cleanLine = line.trim();
-                
-                if (cleanLine.includes("<channel")) {
-                    const idMatch = cleanLine.match(/id="([^"]+)"/);
-                    currentId = idMatch ? idMatch[1] : null;
+        for await (const line of rl) {
+            const cleanLine = line.trim();
+            if (cleanLine.includes("<channel")) {
+                const idMatch = cleanLine.match(/id="([^"]+)"/);
+                currentId = idMatch ? idMatch[1] : null;
+            }
+            if (currentId && TARGET_IDS.includes(currentId)) {
+                if (cleanLine.includes("<display-name")) {
+                    const nameMatch = cleanLine.match(/>([^<]+)</);
+                    if (nameMatch) currentName = nameMatch[1];
                 }
-                
-                if (currentId && TARGET_IDS.includes(currentId)) {
-                    if (cleanLine.includes("<display-name")) {
-                        const nameMatch = cleanLine.match(/>([^<]+)</);
-                        if (nameMatch) currentName = nameMatch[1];
+                if (cleanLine.includes("<icon")) {
+                    const logoMatch = cleanLine.match(/src="([^"]+)"/);
+                    if (logoMatch) {
+                        logoMap.set(currentId, logoMatch[1]);
+                        if (currentName) channelNames.set(currentId, currentName);
                     }
-                    if (cleanLine.includes("<icon")) {
-                        const logoMatch = cleanLine.match(/src="([^"]+)"/);
-                        if (logoMatch) {
-                            logoMap.set(currentId, logoMatch[1]);
-                            if (currentName) channelNames.set(currentId, currentName);
+                }
+            }
+            if (cleanLine.includes("</channel>")) { currentId = null; currentName = ""; }
+        }
+
+        // 🛠️ PASO 2: INYECTAR LOGOS AUTOMÁTICAMENTE EN TU LISTA M3U
+        console.log(`✍️ 2/3 Procesando M3U e inyectando logos automáticos...`);
+        const m3uContent = fs.readFileSync(inputM3UPath, "utf8");
+        const m3uLines = m3uContent.split(/\r?\n/);
+        let finalM3ULines = [];
+
+        for (let i = 0; i < m3uLines.length; i++) {
+            let line = m3uLines[i];
+
+            if (line.startsWith("#EXTINF:")) {
+                const idMatch = line.match(/tvg-id="([^"]+)"/);
+                if (idMatch) {
+                    const tvgId = idMatch[1];
+                    
+                    // Si el canal tiene un logo premium asignado y NO es uno de tus Ecuavisa manuales
+                    if (logoMap.has(tvgId) && !line.includes('tvg-logo="https://i.imgur.com/')) {
+                        const logoUrl = logoMap.get(tvgId);
+                        
+                        // Si ya tenía la etiqueta tvg-logo vieja, la reemplazamos. Si no, la agregamos.
+                        if (line.includes("tvg-logo=")) {
+                            line = line.replace(/tvg-logo="[^"]*"/, `tvg-logo="${logoUrl}"`);
+                        } else {
+                            line = line.replace(/tvg-id=/, `tvg-logo="${logoUrl}" tvg-id=`);
                         }
                     }
                 }
-
-                if (cleanLine.includes("</channel>")) {
-                    currentId = null;
-                    currentName = "";
-                }
             }
-        } catch (e) {
-            console.error("⚠️ Nota: Hubo un problema temporal leyendo los logos, se usarán datos básicos.", e.message);
+            finalM3ULines.push(line);
         }
+        fs.writeFileSync(outputM3UPath, finalM3ULines.join("\n"), "utf8");
 
-        // Asegurar nombres mínimos por si acaso
-        TARGET_IDS.forEach(id => {
-            if (!channelNames.has(id)) channelNames.set(id, id.replace(".ec", ""));
-        });
-
-        // 🛠️ PASO 2: EXTRAER PROGRAMACIÓN DE "EPGSHARE" Y ARMAR EL XML
-        console.log(`📥 2/2 Extrayendo programación y aplicando -0500 de: ${SOURCE_PROG}`);
-        
+        // 🛠️ PASO 3: EXTRAER PROGRAMACIÓN (EPG)
+        console.log(`📥 3/3 Sincronizando programación horaria real (-0500)...`);
         let channelsPart = "";
         let programmesPart = "";
 
@@ -95,53 +117,39 @@ async function generateFinalEPG() {
 
         for await (const line of rlProg) {
             const cleanLine = line.trim();
-
-            // Capturar bloques de programas
             if (cleanLine.includes("<programme")) {
                 const channelMatch = cleanLine.match(/channel="([^"]+)"/);
                 if (channelMatch && TARGET_IDS.includes(channelMatch[1])) {
                     currentProgChannel = channelMatch[1];
                     let fixedLine = cleanLine.replace(/(\+|\-)\d{4}/g, "-0500");
                     programmesPart += `  ${fixedLine}\n`;
-                } else {
-                    currentProgChannel = null;
-                }
+                } else { currentProgChannel = null; }
             } else if (currentProgChannel) {
                 programmesPart += `  ${cleanLine}\n`;
-                if (cleanLine.includes("</programme>")) {
-                    currentProgChannel = null;
-                }
+                if (cleanLine.includes("</programme>")) { currentProgChannel = null; }
             }
         }
 
-        // 🛠️ PASO 3: CONSTRUIR LA SECCIÓN DE CANALES CON LOS LOGOS INYECTADOS TRAS EL FILTRADO
+        // Estructurar Canales XML
         TARGET_IDS.forEach(id => {
-            channelsPart += `  <channel id="${id}">\n`;
-            channelsPart += `    <display-name>${channelNames.get(id)}</display-name>\n`;
-            if (logoMap.has(id)) {
-                channelsPart += `    <icon src="${logoMap.get(id)}" />\n`;
-            }
+            const name = channelNames.has(id) ? channelNames.get(id) : id.replace(".ec", "");
+            channelsPart += `  <channel id="${id}">\n    <display-name>${name}</display-name>\n`;
+            if (logoMap.has(id)) channelsPart += `    <icon src="${logoMap.get(id)}" />\n`;
             channelsPart += `  </channel>\n`;
         });
 
-        // Generación final del archivo
-        let finalXml = `<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n`;
-        finalXml += channelsPart;
-        finalXml += programmesPart;
-        finalXml += `</tv>`;
+        let finalXml = `<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n${channelsPart}${programmesPart}</tv>`;
+        fs.writeFileSync(outputXMLPath, finalXml, 'utf8');
 
-        fs.writeFileSync(outputPath, finalXml, 'utf8');
-
-        console.log("---------------------------------------");
-        console.log(`✅ ¡EPG MAESTRO GENERADO CORRECTAMENTE!`);
-        console.log(`📺 Canales procesados con éxito: ${TARGET_IDS.length}`);
-        console.log(`🖼️ Logos inyectados desde la otra fuente: ${logoMap.size}`);
-        console.log(`📂 Guardado listo en: ${outputPath}`);
-        console.log("---------------------------------------");
+        console.log("═══════════════════════════════════════════════");
+        console.log("✅ ¡PROCESO DE LUJO COMPLETADO!");
+        console.log(`📂 M3U Actualizado: 'lista_perfecta.m3u' (Súbelo a tu GitHub)`);
+        console.log(`📂 EPG Actualizado: 'epg.xml' (Súbelo a tu GitHub)`);
+        console.log("═══════════════════════════════════════════════");
 
     } catch (err) {
-        console.error("❌ Error Crítico General:", err.message);
+        console.error("❌ Error General en el Proceso:", err.message);
     }
 }
 
-generateFinalEPG();
+generatePremiumIPTV();
