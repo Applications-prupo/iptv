@@ -4,132 +4,139 @@ const axios = require("axios");
 const zlib = require("zlib");
 const readline = require("readline");
 
-// 📡 LISTA COMPLETA DE IDs QUE SE USARÁN PARA FILTRAR
+// 📡 LISTA DE IDs EXACTOS DE TU M3U
 const TARGET_IDS = [
     "Ecuavisa.ec", 
-    "EcuadorTV.ec", 
-    "Gamavision.ec", 
     "Teleamazonas.ec", 
-    "RTS.ec", 
-    "TCTelevision.ec", 
-    "OromarTV.ec", 
-    "RTU.ec",
-    "Canal.TC.TelevisiÃ³n.ec",
     "Canal.RTS.ec",
+    "Canal.ESNE.TV.ec",
+    "Canal.TC.TelevisiÃ³n.ec",
+    "RTU.ec",
     "Canal.Ecuador.TV.ec",
     "Canal.Ecuavisa.(Ecuador).ec",
-    "Canal.ESPN.(Ecuador).ec",
+    "OromarTV.ec",
     "Canal.ESPN.2.(Ecuador).ec",
-    "Canal.TNT.(Ecuador).ec",
-    "Canal.Warner.TV.(Ecuador).ec",
-    "Canal.Disney.Channel.(Ecuador).ec",
-    "Canal.Discovery.Kids.(Ecuador).ec",
-    "Canal.Nickelodeon.(Ecuador).ec",
-    "Canal.Animal.Planet.(Ecuador).ec",
-    "Canal.TLC.(Ecuador).ec",
+    "Canal.DW.(LatinoamÃ©rica).ec",
     "Canal.Discovery.Science.(LatinoamÃ©rica).ec",
-    "Canal.Discovery.Turbo.(LatinoamÃ©rica).ec"
+    "Canal.Discovery.Turbo.(LatinoamÃ©rica).ec",
+    "Canal.Animal.Planet.(Ecuador).ec",
+    "Canal.TLC.(Ecuador).ec"
 ];
 
 // 🔗 FUENTES DE DATOS
-const SOURCES = [
-    { url: "https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz", type: "EPGSHARE" },
-    { url: "https://iptv-epg.org/files/epg-ec.xml.gz", type: "NUEVA" }
-];
+const SOURCE_LOGOS = "https://iptv-epg.org/files/epg-ec.xml.gz";
+const SOURCE_PROG = "https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz";
 
 async function generateFinalEPG() {
     const outputPath = path.join(__dirname, "epg.xml");
-    
-    console.log("🚀 Extrayendo EPG Premium (Horarios + Logos + Descripciones + Clasificación)...");
+    console.log("🚀 Iniciando Extractor Inteligente (Fusión Perfecta de Logos + Programación)...");
 
     try {
-        let channelsPart = "";
-        let programmesPart = "";
-        let foundChannels = new Set();
+        let logoMap = new Map(); // Guardará ID -> URL del Logo
+        let channelNames = new Map(); // Guardará ID -> Nombre del canal
 
-        for (const source of SOURCES) {
-            console.log(`📥 Procesando: ${source.url}`);
-            try {
-                const response = await axios({ method: 'get', url: source.url, responseType: 'stream', timeout: 30000 });
-                const gunzip = zlib.createGunzip();
-                const rl = readline.createInterface({ input: response.data.pipe(gunzip), terminal: false });
+        // 🛠️ PASO 1: EXTRAER LOGOS DE LA FUENTE "IPTV-EPG"
+        console.log(`📥 1/2 Buscando logos en: ${SOURCE_LOGOS}`);
+        try {
+            const response = await axios({ method: 'get', url: SOURCE_LOGOS, responseType: 'stream', timeout: 30000 });
+            const gunzip = zlib.createGunzip();
+            const rl = readline.createInterface({ input: response.data.pipe(gunzip), terminal: false });
 
-                let currentProgChannel = null;
-                let currentChannelData = "";
-                let capturingChannel = false;
+            let currentId = null;
+            let currentName = "";
 
-                for await (const line of rl) {
-                    const cleanLine = line.trim();
-
-                    // --- 1. MANEJO DE CANALES Y LOGOS ---
-                    if (cleanLine.includes("<channel")) {
-                        const idMatch = cleanLine.match(/id="([^"]+)"/);
-                        if (idMatch) {
-                            const id = idMatch[1];
-
-                            if (TARGET_IDS.includes(id)) {
-                                capturingChannel = true;
-                                currentChannelData = `  ${cleanLine}\n`;
-                                
-                                if (cleanLine.includes("</channel>") || cleanLine.includes("/>")) {
-                                    if (!foundChannels.has(id)) {
-                                        channelsPart += currentChannelData;
-                                        foundChannels.add(id);
-                                    }
-                                    capturingChannel = false;
-                                }
-                            }
-                        }
-                    } else if (capturingChannel) {
-                        currentChannelData += `    ${cleanLine}\n`;
-                        if (cleanLine.includes("</channel>")) {
-                            const idMatch = currentChannelData.match(/id="([^"]+)"/);
-                            if (idMatch && !foundChannels.has(idMatch[1])) {
-                                channelsPart += currentChannelData;
-                                foundChannels.add(idMatch[1]);
-                            }
-                            capturingChannel = false;
-                        }
+            for await (const line of rl) {
+                const cleanLine = line.trim();
+                
+                if (cleanLine.includes("<channel")) {
+                    const idMatch = cleanLine.match(/id="([^"]+)"/);
+                    currentId = idMatch ? idMatch[1] : null;
+                }
+                
+                if (currentId && TARGET_IDS.includes(currentId)) {
+                    if (cleanLine.includes("<display-name")) {
+                        const nameMatch = cleanLine.match(/>([^<]+)</);
+                        if (nameMatch) currentName = nameMatch[1];
                     }
-
-                    // --- 2. MANEJO DE PROGRAMACIÓN PREMIUM (Hora, Sinopsis y Rating) ---
-                    if (source.type === "EPGSHARE" && cleanLine.includes("<programme")) {
-                        const channelMatch = cleanLine.match(/channel="([^"]+)"/);
-                        if (channelMatch && TARGET_IDS.includes(channelMatch[1])) {
-                            currentProgChannel = channelMatch[1];
-                            
-                            // 🕒 Corrección horaria estricta de -0500 para Ecuador
-                            let fixedLine = cleanLine.replace(/(\+|\-)\d{4}/g, "-0500");
-                            programmesPart += `  ${fixedLine}\n`;
-                        } else {
-                            currentProgChannel = null;
-                        }
-                    } else if (source.type === "EPGSHARE" && currentProgChannel) {
-                        // Dejamos pasar todo lo que esté dentro de <programme> (título, descripción, rating, etc.)
-                        programmesPart += `  ${cleanLine}\n`;
-                        if (cleanLine.includes("</programme>")) {
-                            currentProgChannel = null;
+                    if (cleanLine.includes("<icon")) {
+                        const logoMatch = cleanLine.match(/src="([^"]+)"/);
+                        if (logoMatch) {
+                            logoMap.set(currentId, logoMatch[1]);
+                            if (currentName) channelNames.set(currentId, currentName);
                         }
                     }
                 }
-            } catch (sourceError) {
-                console.error(`⚠️ Nota: No se pudo leer por completo la fuente: ${source.url}`);
+
+                if (cleanLine.includes("</channel>")) {
+                    currentId = null;
+                    currentName = "";
+                }
+            }
+        } catch (e) {
+            console.error("⚠️ Nota: Hubo un problema temporal leyendo los logos, se usarán datos básicos.", e.message);
+        }
+
+        // Asegurar nombres mínimos por si acaso
+        TARGET_IDS.forEach(id => {
+            if (!channelNames.has(id)) channelNames.set(id, id.replace(".ec", ""));
+        });
+
+        // 🛠️ PASO 2: EXTRAER PROGRAMACIÓN DE "EPGSHARE" Y ARMAR EL XML
+        console.log(`📥 2/2 Extrayendo programación y aplicando -0500 de: ${SOURCE_PROG}`);
+        
+        let channelsPart = "";
+        let programmesPart = "";
+
+        const responseProg = await axios({ method: 'get', url: SOURCE_PROG, responseType: 'stream', timeout: 30000 });
+        const gunzipProg = zlib.createGunzip();
+        const rlProg = readline.createInterface({ input: responseProg.data.pipe(gunzipProg), terminal: false });
+
+        let currentProgChannel = null;
+
+        for await (const line of rlProg) {
+            const cleanLine = line.trim();
+
+            // Capturar bloques de programas
+            if (cleanLine.includes("<programme")) {
+                const channelMatch = cleanLine.match(/channel="([^"]+)"/);
+                if (channelMatch && TARGET_IDS.includes(channelMatch[1])) {
+                    currentProgChannel = channelMatch[1];
+                    let fixedLine = cleanLine.replace(/(\+|\-)\d{4}/g, "-0500");
+                    programmesPart += `  ${fixedLine}\n`;
+                } else {
+                    currentProgChannel = null;
+                }
+            } else if (currentProgChannel) {
+                programmesPart += `  ${cleanLine}\n`;
+                if (cleanLine.includes("</programme>")) {
+                    currentProgChannel = null;
+                }
             }
         }
 
-        // --- CONSTRUCCIÓN DEL XML MAESTRO ---
+        // 🛠️ PASO 3: CONSTRUIR LA SECCIÓN DE CANALES CON LOS LOGOS INYECTADOS TRAS EL FILTRADO
+        TARGET_IDS.forEach(id => {
+            channelsPart += `  <channel id="${id}">\n`;
+            channelsPart += `    <display-name>${channelNames.get(id)}</display-name>\n`;
+            if (logoMap.has(id)) {
+                channelsPart += `    <icon src="${logoMap.get(id)}" />\n`;
+            }
+            channelsPart += `  </channel>\n`;
+        });
+
+        // Generación final del archivo
         let finalXml = `<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n`;
         finalXml += channelsPart;
         finalXml += programmesPart;
-        finalXml += `</tv>`; 
+        finalXml += `</tv>`;
 
         fs.writeFileSync(outputPath, finalXml, 'utf8');
-        
+
         console.log("---------------------------------------");
-        console.log(`✅ ¡GUÍA PREMIUM GENERADA CON ÉXITO!`);
-        console.log(`📺 Canales listos: ${foundChannels.size}`);
-        console.log(`✨ Incluye: Logos, Descripciones y Clasificación de edad`);
-        console.log(`📂 Guardado en: ${outputPath}`);
+        console.log(`✅ ¡EPG MAESTRO GENERADO CORRECTAMENTE!`);
+        console.log(`📺 Canales procesados con éxito: ${TARGET_IDS.length}`);
+        console.log(`🖼️ Logos inyectados desde la otra fuente: ${logoMap.size}`);
+        console.log(`📂 Guardado listo en: ${outputPath}`);
         console.log("---------------------------------------");
 
     } catch (err) {
