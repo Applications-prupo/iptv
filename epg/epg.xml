@@ -8,2161 +8,1308 @@
     <display-name>EC - Teleamazonas</display-name>
     <icon src="https://iptv-epg.org/images/2NRiRGF63ZCx5buMuYgYX0ghIoh7TinuYZ7sDe4QufcB5mSDEhdpq21WZF1Y6PAjJdkiKBAPWt8ZsQmzAyyv1HT64hHE14CpK7V36V3ysJeCS1dHFeQ" />
   </channel>
-  <channel id="Canal.RTS.ec">
-    <display-name>Canal.RTS</display-name>
+  <channel id="RTS.ec">
+    <display-name>EC - RTS Red Telesistema</display-name>
+    <icon src="https://iptv-epg.org/images/746CR1BLmBkbov1b-yWJGN2k7RC6l0KGmy6mj6lYFsSzGwsiPaeBKvjG1zI7T3TTiTcCj8exZcrJMZ9WEn5FwpCwEoCLUv21qdq5Jdk" />
   </channel>
   <channel id="Canal.ESNE.TV.ec">
-    <display-name>Canal.ESNE.TV</display-name>
+    <display-name>ESNE.TV</display-name>
   </channel>
   <channel id="Canal.TC.TelevisiÃ³n.ec">
-    <display-name>Canal.TC.TelevisiÃ³n</display-name>
+    <display-name>TC.TelevisiÃ³n</display-name>
   </channel>
   <channel id="RTU.ec">
     <display-name>EC - RTU</display-name>
     <icon src="https://iptv-epg.org/images/Hc_mThZrJj_aM6hauqoov1hCujM3NstUvPtFHSnrHsSxIRJrqsYySXMIP9d3Fx5MhoIDqGCM6uoJ03ceZjAcxGGSwnOo4_Qwj8DFAY0" />
   </channel>
   <channel id="Canal.Ecuador.TV.ec">
-    <display-name>Canal.Ecuador.TV</display-name>
+    <display-name>Ecuador.TV</display-name>
   </channel>
   <channel id="Canal.Ecuavisa.(Ecuador).ec">
-    <display-name>Canal.Ecuavisa.(Ecuador)</display-name>
+    <display-name>Ecuavisa.(Ecuador)</display-name>
   </channel>
   <channel id="OromarTV.ec">
     <display-name>EC - Oromar Televisión</display-name>
     <icon src="https://iptv-epg.org/images/1fjVkPdWULQ8bg_XKkRlJ0eEcfZxn6rVBbEwUOi3lhg_m5bvdHjhYWRo3UkA9Jc_0OjF3hxDP08Wnji7X6mtgEuQ9LF9u-WLkaSmZFwasH1pFw" />
   </channel>
   <channel id="Canal.ESPN.2.(Ecuador).ec">
-    <display-name>Canal.ESPN.2.(Ecuador)</display-name>
+    <display-name>ESPN.2.(Ecuador)</display-name>
   </channel>
   <channel id="Canal.DW.(LatinoamÃ©rica).ec">
-    <display-name>Canal.DW.(LatinoamÃ©rica)</display-name>
+    <display-name>DW.(LatinoamÃ©rica)</display-name>
   </channel>
   <channel id="Canal.Discovery.Science.(LatinoamÃ©rica).ec">
-    <display-name>Canal.Discovery.Science.(LatinoamÃ©rica)</display-name>
+    <display-name>Discovery.Science.(LatinoamÃ©rica)</display-name>
   </channel>
   <channel id="Canal.Discovery.Turbo.(LatinoamÃ©rica).ec">
-    <display-name>Canal.Discovery.Turbo.(LatinoamÃ©rica)</display-name>
+    <display-name>Discovery.Turbo.(LatinoamÃ©rica)</display-name>
   </channel>
   <channel id="Canal.Animal.Planet.(Ecuador).ec">
-    <display-name>Canal.Animal.Planet.(Ecuador)</display-name>
+    <display-name>Animal.Planet.(Ecuador)</display-name>
   </channel>
   <channel id="Canal.TLC.(Ecuador).ec">
-    <display-name>Canal.TLC.(Ecuador)</display-name>
+    <display-name>TLC.(Ecuador)</display-name>
   </channel>
-  <programme start="20260522000600 -0500" stop="20260522005800 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Refugio en el granero</title>
-  <sub-title lang="es">Cerdos problemas</sub-title>
-  </programme>
-  <programme start="20260522005800 -0500" stop="20260522014800 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Wild Frank</title>
-  </programme>
-  <programme start="20260522014800 -0500" stop="20260522023900 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Jeff Corwin en acción</title>
-  <sub-title lang="es">La vida secreta de Jeff Corwin</sub-title>
-  </programme>
-  <programme start="20260522023900 -0500" stop="20260522033000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Jeff Corwin en acción</title>
-  <sub-title lang="es">África</sub-title>
-  </programme>
-  <programme start="20260522033000 -0500" stop="20260522042000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Refugio en el granero</title>
-  <sub-title lang="es">Los bebés</sub-title>
-  </programme>
-  <programme start="20260522042000 -0500" stop="20260522051000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Perdido entre gorilas</title>
-  <sub-title lang="es">S.O.S. Gorilas</sub-title>
-  </programme>
-  <programme start="20260522051000 -0500" stop="20260522060000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Refugio en el granero</title>
-  <sub-title lang="es">Cerdos problemas</sub-title>
-  </programme>
-  <programme start="20260522060000 -0500" stop="20260522065000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Guardianes de Texas</title>
-  <sub-title lang="es">Operación nocturna</sub-title>
-  </programme>
-  <programme start="20260522065000 -0500" stop="20260522074000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Wild Frank: Tras la evolución de las especies</title>
-  <sub-title lang="es">Londres a Australia</sub-title>
-  </programme>
-  <programme start="20260522074000 -0500" stop="20260522083000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Wild Frank: Tras la evolución de las especies</title>
-  <sub-title lang="es">Encuentro con un canguro rojo</sub-title>
-  </programme>
-  <programme start="20260522083000 -0500" stop="20260522085600 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Los secretos del reino animal</title>
-  <sub-title lang="es">Canciones de ballenas y canes fríos</sub-title>
-  </programme>
-  <programme start="20260522085600 -0500" stop="20260522092200 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Los secretos del reino animal</title>
-  <sub-title lang="es">Superperezosos y maratones de avestruces</sub-title>
-  </programme>
-  <programme start="20260522092200 -0500" stop="20260522094800 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Coyote Peterson aventuras salvajes</title>
-  <sub-title lang="es">Pesadillas de aracnofobia</sub-title>
-  </programme>
-  <programme start="20260522094800 -0500" stop="20260522101400 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Coyote Peterson aventuras salvajes</title>
-  <sub-title lang="es">Locura marsupial</sub-title>
-  </programme>
-  <programme start="20260522101400 -0500" stop="20260522110600 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Wild Frank: Tras la evolución de las especies</title>
-  <sub-title lang="es">Camellos en el interior</sub-title>
-  </programme>
-  <programme start="20260522110600 -0500" stop="20260522115800 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Wild Frank</title>
-  </programme>
-  <programme start="20260522115800 -0500" stop="20260522125000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Jeff Corwin en acción</title>
-  <sub-title lang="es">La vida secreta de Jeff Corwin</sub-title>
-  </programme>
-  <programme start="20260522125000 -0500" stop="20260522134200 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Jeff Corwin en acción</title>
-  <sub-title lang="es">África</sub-title>
-  </programme>
-  <programme start="20260522134200 -0500" stop="20260522143400 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Refugio en el granero</title>
-  <sub-title lang="es">Los bebés</sub-title>
-  </programme>
-  <programme start="20260522143400 -0500" stop="20260522152600 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Perdido entre gorilas</title>
-  <sub-title lang="es">S.O.S. Gorilas</sub-title>
-  </programme>
-  <programme start="20260522152600 -0500" stop="20260522161800 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Refugio en el granero</title>
-  <sub-title lang="es">Cerdos problemas</sub-title>
-  </programme>
-  <programme start="20260522161800 -0500" stop="20260522171000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Veterinarios de Texas</title>
-  <sub-title lang="es">La cabra de yoga</sub-title>
-  </programme>
-  <programme start="20260522171000 -0500" stop="20260522180200 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Dr. Jeff, veterinario</title>
-  <sub-title lang="es">Perro escapista</sub-title>
-  </programme>
-  <programme start="20260522180200 -0500" stop="20260522185400 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Dr. Jeff, veterinario</title>
-  <sub-title lang="es">La historia del tigre</sub-title>
-  </programme>
-  <programme start="20260522185400 -0500" stop="20260522194600 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Mi gato endemoniado</title>
-  <sub-title lang="es">Lucifer, el gato</sub-title>
-  </programme>
-  <programme start="20260522194600 -0500" stop="20260522203800 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Guaridas con estilo</title>
-  <sub-title lang="es">Refugio animal</sub-title>
-  </programme>
-  <programme start="20260522203800 -0500" stop="20260522213000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Guardianes de Texas</title>
-  <sub-title lang="es">Operación nocturna</sub-title>
-  </programme>
-  <programme start="20260522213000 -0500" stop="20260522222200 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Guardianes de Texas</title>
-  <sub-title lang="es">Caimanes contra perros</sub-title>
-  </programme>
-  <programme start="20260522222200 -0500" stop="20260522231400 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Wild Frank: Tras la evolución de las especies</title>
-  <sub-title lang="es">Oasis del interior</sub-title>
-  </programme>
-  <programme start="20260522231400 -0500" stop="20260523000600 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Wild Frank: Tras la evolución de las especies</title>
-  <sub-title lang="es">Placas tectónicas y evolución</sub-title>
-  </programme>
-  <programme start="20260523000600 -0500" stop="20260523005800 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Wild Frank: Tras la evolución de las especies</title>
-  <sub-title lang="es">Encuentros con marsupiales</sub-title>
-  </programme>
-  <programme start="20260523005800 -0500" stop="20260523015000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Guaridas con estilo</title>
-  <sub-title lang="es">Refugio animal</sub-title>
-  </programme>
-  <programme start="20260523015000 -0500" stop="20260523024000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Guardianes de Texas</title>
-  <sub-title lang="es">Operación nocturna</sub-title>
-  </programme>
-  <programme start="20260523024000 -0500" stop="20260523033000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Guardianes de Texas</title>
-  <sub-title lang="es">Caimanes contra perros</sub-title>
-  </programme>
-  <programme start="20260523033000 -0500" stop="20260523042000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Wild Frank: Tras la evolución de las especies</title>
-  <sub-title lang="es">Oasis del interior</sub-title>
-  </programme>
-  <programme start="20260523042000 -0500" stop="20260523051000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Wild Frank: Tras la evolución de las especies</title>
-  <sub-title lang="es">Placas tectónicas y evolución</sub-title>
-  </programme>
-  <programme start="20260523051000 -0500" stop="20260523060000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Wild Frank: Tras la evolución de las especies</title>
-  <sub-title lang="es">Encuentros con marsupiales</sub-title>
-  </programme>
-  <programme start="20260523060000 -0500" stop="20260523065000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">El zoológico del Bronx</title>
-  <sub-title lang="es">Un huevo extraño</sub-title>
-  </programme>
-  <programme start="20260523065000 -0500" stop="20260523074000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Historias Animales</title>
-  </programme>
-  <programme start="20260523074000 -0500" stop="20260523083000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Refugio en el granero</title>
-  <sub-title lang="es">Estampida de Buttercup</sub-title>
-  </programme>
-  <programme start="20260523083000 -0500" stop="20260523085600 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Animales y famosos</title>
-  <sub-title lang="es">El ganado de Von Miller</sub-title>
-  </programme>
-  <programme start="20260523085600 -0500" stop="20260523092200 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Animales y famosos</title>
-  <sub-title lang="es">La reserva de Michael Madsen</sub-title>
-  </programme>
-  <programme start="20260523092200 -0500" stop="20260523094800 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Pequeños gigantes de la naturaleza</title>
-  <sub-title lang="es">Silencioso y fatal</sub-title>
-  </programme>
-  <programme start="20260523094800 -0500" stop="20260523101400 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Pequeños gigantes de la naturaleza</title>
-  <sub-title lang="es">El ninja de la selva</sub-title>
-  </programme>
-  <programme start="20260523101400 -0500" stop="20260523110600 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Viento del Everest</title>
-  <sub-title lang="es">La vida a 5000 metros</sub-title>
-  </programme>
-  <programme start="20260523110600 -0500" stop="20260523115800 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Guaridas con estilo</title>
-  <sub-title lang="es">Refugio animal</sub-title>
-  </programme>
-  <programme start="20260523115800 -0500" stop="20260523125000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Guardianes de Texas</title>
-  <sub-title lang="es">Operación nocturna</sub-title>
-  </programme>
-  <programme start="20260523125000 -0500" stop="20260523134200 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Guardianes de Texas</title>
-  <sub-title lang="es">Caimanes contra perros</sub-title>
-  </programme>
-  <programme start="20260523134200 -0500" stop="20260523143400 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Wild Frank: Tras la evolución de las especies</title>
-  <sub-title lang="es">Oasis del interior</sub-title>
-  </programme>
-  <programme start="20260523143400 -0500" stop="20260523152600 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Wild Frank: Tras la evolución de las especies</title>
-  <sub-title lang="es">Placas tectónicas y evolución</sub-title>
-  </programme>
-  <programme start="20260523152600 -0500" stop="20260523161800 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Wild Frank: Tras la evolución de las especies</title>
-  <sub-title lang="es">Encuentros con marsupiales</sub-title>
-  </programme>
-  <programme start="20260523161800 -0500" stop="20260523171000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Wild Frank</title>
-  </programme>
-  <programme start="20260523171000 -0500" stop="20260523180200 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Jeff Corwin en acción</title>
-  <sub-title lang="es">La vida secreta de Jeff Corwin</sub-title>
-  </programme>
-  <programme start="20260523180200 -0500" stop="20260523185400 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Jeff Corwin en acción</title>
-  <sub-title lang="es">África</sub-title>
-  </programme>
-  <programme start="20260523185400 -0500" stop="20260523194600 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Mansiones en los Árboles</title>
-  <sub-title lang="es">Una casa para la aventura</sub-title>
-  </programme>
-  <programme start="20260523194600 -0500" stop="20260523203800 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Mascotas revoltosas</title>
-  <sub-title lang="es">Dobles problemas</sub-title>
-  </programme>
-  <programme start="20260523203800 -0500" stop="20260523213000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">El zoológico del Bronx</title>
-  <sub-title lang="es">Un huevo extraño</sub-title>
-  </programme>
-  <programme start="20260523213000 -0500" stop="20260523222200 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">El zoológico del Bronx</title>
-  <sub-title lang="es">El rescate de las crías</sub-title>
-  </programme>
-  <programme start="20260523222200 -0500" stop="20260523231400 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Historias Animales</title>
-  </programme>
-  <programme start="20260523231400 -0500" stop="20260524000600 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Refugio en el granero</title>
-  <sub-title lang="es">Rescate en un incendio</sub-title>
-  </programme>
-  <programme start="20260524000600 -0500" stop="20260524005800 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Viento del Everest</title>
-  <sub-title lang="es">Congelarse en la zona de muertes</sub-title>
-  </programme>
-  <programme start="20260524005800 -0500" stop="20260524015000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Mascotas revoltosas</title>
-  <sub-title lang="es">Dobles problemas</sub-title>
-  </programme>
-  <programme start="20260524015000 -0500" stop="20260524024000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">El zoológico del Bronx</title>
-  <sub-title lang="es">Un huevo extraño</sub-title>
-  </programme>
-  <programme start="20260524024000 -0500" stop="20260524033000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">El zoológico del Bronx</title>
-  <sub-title lang="es">El rescate de las crías</sub-title>
-  </programme>
-  <programme start="20260524033000 -0500" stop="20260524042000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Historias Animales</title>
-  </programme>
-  <programme start="20260524042000 -0500" stop="20260524051000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Refugio en el granero</title>
-  <sub-title lang="es">Rescate en un incendio</sub-title>
-  </programme>
-  <programme start="20260524051000 -0500" stop="20260524060000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Viento del Everest</title>
-  <sub-title lang="es">Congelarse en la zona de muertes</sub-title>
-  </programme>
-  <programme start="20260524060000 -0500" stop="20260524065000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Los Irwin</title>
-  <sub-title lang="es">Nadar con mantarrayas</sub-title>
-  </programme>
-  <programme start="20260524065000 -0500" stop="20260524074000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">El zoológico del Bronx</title>
-  <sub-title lang="es">Cerdito misterioso</sub-title>
-  </programme>
-  <programme start="20260524074000 -0500" stop="20260524083000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">El zoológico del Bronx</title>
-  <sub-title lang="es">La danza de la jirafa</sub-title>
-  </programme>
-  <programme start="20260524083000 -0500" stop="20260524085600 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Animales y famosos</title>
-  <sub-title lang="es">El encuentro con el orangután de Ed Begley Jr</sub-title>
-  </programme>
-  <programme start="20260524085600 -0500" stop="20260524092200 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Animales y famosos</title>
-  <sub-title lang="es">Los bichos locos de CeeLo</sub-title>
-  </programme>
-  <programme start="20260524092200 -0500" stop="20260524094800 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Pequeños gigantes de la naturaleza</title>
-  <sub-title lang="es">Espinas</sub-title>
-  </programme>
-  <programme start="20260524094800 -0500" stop="20260524101400 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Pequeños gigantes de la naturaleza</title>
-  <sub-title lang="es">Animal medieval</sub-title>
-  </programme>
-  <programme start="20260524101400 -0500" stop="20260524110600 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">El zoológico del Bronx</title>
-  <sub-title lang="es">Cerdo hermoso</sub-title>
-  </programme>
-  <programme start="20260524110600 -0500" stop="20260524115800 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Mascotas revoltosas</title>
-  <sub-title lang="es">Dobles problemas</sub-title>
-  </programme>
-  <programme start="20260524115800 -0500" stop="20260524125000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">El zoológico del Bronx</title>
-  <sub-title lang="es">Un huevo extraño</sub-title>
-  </programme>
-  <programme start="20260524125000 -0500" stop="20260524134200 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">El zoológico del Bronx</title>
-  <sub-title lang="es">El rescate de las crías</sub-title>
-  </programme>
-  <programme start="20260524134200 -0500" stop="20260524143400 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Historias Animales</title>
-  </programme>
-  <programme start="20260524143400 -0500" stop="20260524152600 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Refugio en el granero</title>
-  <sub-title lang="es">Rescate en un incendio</sub-title>
-  </programme>
-  <programme start="20260524152600 -0500" stop="20260524161800 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Viento del Everest</title>
-  <sub-title lang="es">Congelarse en la zona de muertes</sub-title>
-  </programme>
-  <programme start="20260524161800 -0500" stop="20260524171000 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Guaridas con estilo</title>
-  <sub-title lang="es">Refugio animal</sub-title>
-  </programme>
-  <programme start="20260524171000 -0500" stop="20260524180200 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Guardianes de Texas</title>
-  <sub-title lang="es">Operación nocturna</sub-title>
-  </programme>
-  <programme start="20260524180200 -0500" stop="20260524185400 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Guardianes de Texas</title>
-  <sub-title lang="es">Caimanes contra perros</sub-title>
-  </programme>
-  <programme start="20260524185400 -0500" stop="20260524194600 -0500" channel="Canal.Animal.Planet.(Ecuador).ec">
-  <title lang="es">Mansiones en los Árboles</title>
-  <sub-title lang="es">Cena en las alturas</sub-title>
-  </programme>
-  <programme start="20260522010000 -0500" stop="20260522020000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Jesús está vivo hoy</title>
-  </programme>
-  <programme start="20260522020000 -0500" stop="20260522030000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Palabras Que Edifican</title>
-  </programme>
-  <programme start="20260522030000 -0500" stop="20260522033000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Santo Rosario - Las comunicadoras eucarísticas del Padre Celestial</title>
-  </programme>
-  <programme start="20260522033000 -0500" stop="20260522043000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Conciertos Católicos</title>
-  </programme>
-  <programme start="20260522043000 -0500" stop="20260522050000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">El Tesoro de la Fe</title>
-  </programme>
-  <programme start="20260522050000 -0500" stop="20260522053000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">La Coronilla de la Divina Misericordia Cantada</title>
-  </programme>
-  <programme start="20260522053000 -0500" stop="20260522060000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Donde Dios llora</title>
-  </programme>
-  <programme start="20260522060000 -0500" stop="20260522070000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Congresos Católicos</title>
-  </programme>
-  <programme start="20260522070000 -0500" stop="20260522073000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">En El Corazón De Jesús</title>
-  </programme>
-  <programme start="20260522073000 -0500" stop="20260522080000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Santo Rosario - Las comunicadoras eucarísticas del Padre Celestial</title>
-  </programme>
-  <programme start="20260522080000 -0500" stop="20260522090000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Siempre Alegres</title>
-  </programme>
-  <programme start="20260522090000 -0500" stop="20260522100000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Palabras Que Edifican</title>
-  </programme>
-  <programme start="20260522100000 -0500" stop="20260522110000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Enamórate</title>
-  </programme>
-  <programme start="20260522110000 -0500" stop="20260522120000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Santa Misa desde Capilla San Juan Pablo II</title>
-  </programme>
-  <programme start="20260522120000 -0500" stop="20260522130000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Documentales</title>
-  </programme>
-  <programme start="20260522130000 -0500" stop="20260522140000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Mujeres de encuentro</title>
-  </programme>
-  <programme start="20260522140000 -0500" stop="20260522150000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Jesús está vivo hoy</title>
-  </programme>
-  <programme start="20260522150000 -0500" stop="20260522160000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Tiempo para Tí</title>
-  </programme>
-  <programme start="20260522160000 -0500" stop="20260522170000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Congresos Católicos</title>
-  </programme>
-  <programme start="20260522170000 -0500" stop="20260522183000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Yo soy el 73</title>
-  </programme>
-  <programme start="20260522183000 -0500" stop="20260522190000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Santo Rosario de Guadalajara</title>
-  </programme>
-  <programme start="20260522190000 -0500" stop="20260522200000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Santa Misa desde Capilla San Juan Pablo II</title>
-  </programme>
-  <programme start="20260522200000 -0500" stop="20260522210000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Palabras Que Edifican</title>
-  </programme>
-  <programme start="20260522210000 -0500" stop="20260522213000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Sanando el corazón herido</title>
-  </programme>
-  <programme start="20260522213000 -0500" stop="20260522220000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">En El Corazón De Jesús</title>
-  </programme>
-  <programme start="20260522220000 -0500" stop="20260522230000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Congresos Católicos</title>
-  </programme>
-  <programme start="20260522230000 -0500" stop="20260523000000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Enamórate</title>
-  </programme>
-  <programme start="20260523000000 -0500" stop="20260523003000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">CDJ - Podcast</title>
-  </programme>
-  <programme start="20260523003000 -0500" stop="20260523010000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Podcast real y verdadero</title>
-  </programme>
-  <programme start="20260523010000 -0500" stop="20260523020000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Jesús está vivo hoy</title>
-  </programme>
-  <programme start="20260523020000 -0500" stop="20260523030000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Palabras Que Edifican</title>
-  </programme>
-  <programme start="20260523030000 -0500" stop="20260523033000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Santo Rosario - Las comunicadoras eucarísticas del Padre Celestial</title>
-  </programme>
-  <programme start="20260523033000 -0500" stop="20260523043000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Vidas Ejemplares</title>
-  </programme>
-  <programme start="20260523043000 -0500" stop="20260523050000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Videos musicales</title>
-  </programme>
-  <programme start="20260523050000 -0500" stop="20260523053000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">La Coronilla de la Divina Misericordia Cantada</title>
-  </programme>
-  <programme start="20260523053000 -0500" stop="20260523060000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Mensaje Universal</title>
-  </programme>
-  <programme start="20260523060000 -0500" stop="20260523070000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Congresos Católicos</title>
-  </programme>
-  <programme start="20260523070000 -0500" stop="20260523073000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Valores de Acero</title>
-  </programme>
-  <programme start="20260523073000 -0500" stop="20260523080000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Santo Rosario - Las comunicadoras eucarísticas del Padre Celestial</title>
-  </programme>
-  <programme start="20260523080000 -0500" stop="20260523093000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Películas para niños</title>
-  </programme>
-  <programme start="20260523093000 -0500" stop="20260523100000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Programa Infantil</title>
-  </programme>
-  <programme start="20260523100000 -0500" stop="20260523103000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Videos musicales</title>
-  </programme>
-  <programme start="20260523103000 -0500" stop="20260523110000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Un corazón que escucha</title>
-  </programme>
-  <programme start="20260523110000 -0500" stop="20260523120000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Santa Misa</title>
-  </programme>
-  <programme start="20260523120000 -0500" stop="20260523130000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Jesús, en ti confío</title>
-  </programme>
-  <programme start="20260523130000 -0500" stop="20260523140000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Palabras Que Edifican</title>
-  </programme>
-  <programme start="20260523140000 -0500" stop="20260523150000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Jesús está vivo hoy</title>
-  </programme>
-  <programme start="20260523150000 -0500" stop="20260523153000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Audiencia del Papa Leon XIV</title>
-  </programme>
-  <programme start="20260523153000 -0500" stop="20260523160000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Acompañándote</title>
-  </programme>
-  <programme start="20260523160000 -0500" stop="20260523170000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Abriendo Horizontes</title>
-  </programme>
-  <programme start="20260523170000 -0500" stop="20260523173000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Coronilla</title>
-  </programme>
-  <programme start="20260523173000 -0500" stop="20260523180000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Santo Rosario de Lourdes</title>
-  </programme>
-  <programme start="20260523180000 -0500" stop="20260523190000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Congresos Católicos</title>
-  </programme>
-  <programme start="20260523190000 -0500" stop="20260523200000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Santa Misa</title>
-  </programme>
-  <programme start="20260523200000 -0500" stop="20260523203000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">CDJ - Podcast</title>
-  </programme>
-  <programme start="20260523203000 -0500" stop="20260523210000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Podcast real y verdadero</title>
-  </programme>
-  <programme start="20260523210000 -0500" stop="20260523220000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Conversaciones</title>
-  </programme>
-  <programme start="20260523220000 -0500" stop="20260523230000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Yo soy el 73</title>
-  </programme>
-  <programme start="20260523230000 -0500" stop="20260524000000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Conciertos Católicos</title>
-  </programme>
-  <programme start="20260524000000 -0500" stop="20260524003000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Donde Dios llora</title>
-  </programme>
-  <programme start="20260524003000 -0500" stop="20260524010000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Videos musicales</title>
-  </programme>
-  <programme start="20260524010000 -0500" stop="20260524020000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Jesús está vivo hoy</title>
-  </programme>
-  <programme start="20260524020000 -0500" stop="20260524030000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Palabras Que Edifican</title>
-  </programme>
-  <programme start="20260524030000 -0500" stop="20260524033000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Santo Rosario - Las comunicadoras eucarísticas del Padre Celestial</title>
-  </programme>
-  <programme start="20260524033000 -0500" stop="20260524043000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Vidas Ejemplares</title>
-  </programme>
-  <programme start="20260524043000 -0500" stop="20260524050000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Videos musicales</title>
-  </programme>
-  <programme start="20260524050000 -0500" stop="20260524053000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">La Coronilla de la Divina Misericordia Cantada</title>
-  </programme>
-  <programme start="20260524053000 -0500" stop="20260524060000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Mensaje Universal</title>
-  </programme>
-  <programme start="20260524060000 -0500" stop="20260524070000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Congresos Católicos</title>
-  </programme>
-  <programme start="20260524070000 -0500" stop="20260524073000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Ecclesia on line</title>
-  </programme>
-  <programme start="20260524073000 -0500" stop="20260524080000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Santo Rosario - Las comunicadoras eucarísticas del Padre Celestial</title>
-  </programme>
-  <programme start="20260524080000 -0500" stop="20260524083000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Programa Infantil</title>
-  </programme>
-  <programme start="20260524083000 -0500" stop="20260524100000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Documentales</title>
-  </programme>
-  <programme start="20260524100000 -0500" stop="20260524103000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Educación y Conciencia</title>
-  </programme>
-  <programme start="20260524103000 -0500" stop="20260524110000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Videos musicales</title>
-  </programme>
-  <programme start="20260524110000 -0500" stop="20260524120000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Santa Misa</title>
-  </programme>
-  <programme start="20260524120000 -0500" stop="20260524133000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">La hora del encuentro</title>
-  </programme>
-  <programme start="20260524133000 -0500" stop="20260524140000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Programa Infantil</title>
-  </programme>
-  <programme start="20260524140000 -0500" stop="20260524141500 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Angelus desde el vaticano</title>
-  </programme>
-  <programme start="20260524141500 -0500" stop="20260524150000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Jesús está vivo</title>
-  </programme>
-  <programme start="20260524150000 -0500" stop="20260524153000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Conciertos Católicos</title>
-  </programme>
-  <programme start="20260524153000 -0500" stop="20260524160000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Donde Dios llora</title>
-  </programme>
-  <programme start="20260524160000 -0500" stop="20260524170000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Conversaciones</title>
-  </programme>
-  <programme start="20260524170000 -0500" stop="20260524173000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Coronilla</title>
-  </programme>
-  <programme start="20260524173000 -0500" stop="20260524180000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Santo Rosario de Lourdes</title>
-  </programme>
-  <programme start="20260524180000 -0500" stop="20260524190000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Congresos Católicos</title>
-  </programme>
-  <programme start="20260524190000 -0500" stop="20260524200000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Santa Misa</title>
-  </programme>
-  <programme start="20260524200000 -0500" stop="20260524210000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Lámpara para mis pasos</title>
-  </programme>
-  <programme start="20260524210000 -0500" stop="20260524213000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">El Tesoro de la Fe</title>
-  </programme>
-  <programme start="20260524213000 -0500" stop="20260524220000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">El secreto de la felicidad</title>
-  </programme>
-  <programme start="20260524220000 -0500" stop="20260524230000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Palabras Que Edifican</title>
-  </programme>
-  <programme start="20260524230000 -0500" stop="20260525000000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Tiempo para Tí</title>
-  </programme>
-  <programme start="20260525000000 -0500" stop="20260525010000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Documentales</title>
-  </programme>
-  <programme start="20260525010000 -0500" stop="20260525020000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Jesús está vivo</title>
-  </programme>
-  <programme start="20260525020000 -0500" stop="20260525030000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Palabras Que Edifican</title>
-  </programme>
-  <programme start="20260525030000 -0500" stop="20260525033000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Santo Rosario - Las comunicadoras eucarísticas del Padre Celestial</title>
-  </programme>
-  <programme start="20260525033000 -0500" stop="20260525043000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Conciertos Católicos</title>
-  </programme>
-  <programme start="20260525043000 -0500" stop="20260525050000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Un corazón que escucha</title>
-  </programme>
-  <programme start="20260525050000 -0500" stop="20260525053000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">La Coronilla de la Divina Misericordia Cantada</title>
-  </programme>
-  <programme start="20260525053000 -0500" stop="20260525060000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Desde el Corazón del Papa</title>
-  </programme>
-  <programme start="20260525060000 -0500" stop="20260525070000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Congresos Católicos</title>
-  </programme>
-  <programme start="20260525070000 -0500" stop="20260525073000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">En El Corazón De Jesús</title>
-  </programme>
-  <programme start="20260525073000 -0500" stop="20260525080000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Santo Rosario - Las comunicadoras eucarísticas del Padre Celestial</title>
-  </programme>
-  <programme start="20260525080000 -0500" stop="20260525090000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Siempre Alegres</title>
-  </programme>
-  <programme start="20260525090000 -0500" stop="20260525100000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Palabras Que Edifican</title>
-  </programme>
-  <programme start="20260525100000 -0500" stop="20260525110000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Enamórate</title>
-  </programme>
-  <programme start="20260525110000 -0500" stop="20260525120000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Santa Misa desde Capilla San Juan Pablo II</title>
-  </programme>
-  <programme start="20260525120000 -0500" stop="20260525130000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Todo lo Puedo en Cristo</title>
-  </programme>
-  <programme start="20260525130000 -0500" stop="20260525140000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Mujeres de encuentro</title>
-  </programme>
-  <programme start="20260525140000 -0500" stop="20260525150000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Jesús está vivo hoy</title>
-  </programme>
-  <programme start="20260525150000 -0500" stop="20260525153000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Santa maria y los santos</title>
-  </programme>
-  <programme start="20260525153000 -0500" stop="20260525160000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Sanando el corazón herido</title>
-  </programme>
-  <programme start="20260525160000 -0500" stop="20260525170000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Congresos Católicos</title>
-  </programme>
-  <programme start="20260525170000 -0500" stop="20260525180000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Coronilla y Santo Rosario desde Guadalajara Mexico</title>
-  </programme>
-  <programme start="20260525180000 -0500" stop="20260525190000 -0500" channel="Canal.ESNE.TV.ec">
-  <title lang="es">Actualidad y Fé</title>
-  </programme>
-  <programme start="20260522010000 -0500" stop="20260522020000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20260522020000 -0500" stop="20260522040000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">CONMEBOL Copa Sudamericana</title>
-  </programme>
-  <programme start="20260522040000 -0500" stop="20260522050000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20260522050000 -0500" stop="20260522065500 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">CONMEBOL Copa Sudamericana</title>
-  </programme>
-  <programme start="20260522065500 -0500" stop="20260522085500 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">CONMEBOL Copa Sudamericana</title>
-  </programme>
-  <programme start="20260522085500 -0500" stop="20260522100000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">FIA Fórmula 2</title>
-  </programme>
-  <programme start="20260522100000 -0500" stop="20260522112500 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">SportsCenter</title>
-  <desc lang="es">SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
-  <category lang="es">Deporte</category>
-  <category lang="es">Fútbol Americano</category>
-  <category lang="es">Baloncesto</category>
-  <category lang="es">Béisbol</category>
-  <category lang="es">Básquetbol</category>
-  <category lang="es">Fútbol Italiano</category>
-  <category lang="es">Major League Baseball</category>
-  <category lang="es">Fútbol Mexicano</category>
-  <category lang="es">MLB</category>
-  <category lang="es">NBA</category>
-  <category lang="es">Noticias</category>
-  <category lang="es">NFL</category>
-  <category lang="es">Fútbol</category>
-  <category lang="es">UEFA</category>
-  <category lang="es">Fútbol Español</category>
-  <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20260522112500 -0500" stop="20260522123500 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">Automovilismo Fórmula 1</title>
-  </programme>
-  <programme start="20260522123500 -0500" stop="20260522125000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">MotoGP</title>
-  </programme>
-  <programme start="20260522125000 -0500" stop="20260522134000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">FIA Fórmula 2</title>
-  </programme>
-  <programme start="20260522134000 -0500" stop="20260522143000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">SportsCenter</title>
-  <desc lang="es">SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
-  <category lang="es">Deporte</category>
-  <category lang="es">Fútbol Americano</category>
-  <category lang="es">Baloncesto</category>
-  <category lang="es">Béisbol</category>
-  <category lang="es">Básquetbol</category>
-  <category lang="es">Fútbol Italiano</category>
-  <category lang="es">Major League Baseball</category>
-  <category lang="es">Fútbol Mexicano</category>
-  <category lang="es">MLB</category>
-  <category lang="es">NBA</category>
-  <category lang="es">Noticias</category>
-  <category lang="es">NFL</category>
-  <category lang="es">Fútbol</category>
-  <category lang="es">UEFA</category>
-  <category lang="es">Fútbol Español</category>
-  <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20260522143000 -0500" stop="20260522152500 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20260522152500 -0500" stop="20260522162000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">Automovilismo Fórmula 1</title>
-  </programme>
-  <programme start="20260522162000 -0500" stop="20260522183000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">SportsCenter</title>
-  <desc lang="es">SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
-  <category lang="es">Deporte</category>
-  <category lang="es">Fútbol Americano</category>
-  <category lang="es">Baloncesto</category>
-  <category lang="es">Béisbol</category>
-  <category lang="es">Básquetbol</category>
-  <category lang="es">Fútbol Italiano</category>
-  <category lang="es">Major League Baseball</category>
-  <category lang="es">Fútbol Mexicano</category>
-  <category lang="es">MLB</category>
-  <category lang="es">NBA</category>
-  <category lang="es">Noticias</category>
-  <category lang="es">NFL</category>
-  <category lang="es">Fútbol</category>
-  <category lang="es">UEFA</category>
-  <category lang="es">Fútbol Español</category>
-  <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20260522183000 -0500" stop="20260522190000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">UEFA Champions League Weekly</title>
-  </programme>
-  <programme start="20260522190000 -0500" stop="20260522200000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN Knockout</title>
-  </programme>
-  <programme start="20260522200000 -0500" stop="20260522230000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN Knockout</title>
-  </programme>
-  <programme start="20260522230000 -0500" stop="20260522233000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">Premier League Preview</title>
-  </programme>
-  <programme start="20260522233000 -0500" stop="20260523000000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN tenis</title>
-  </programme>
-  <programme start="20260523000000 -0500" stop="20260523020000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">Fútbol UEFA Europa League</title>
-  </programme>
-  <programme start="20260523020000 -0500" stop="20260523040000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">CONMEBOL Copa Sudamericana</title>
-  </programme>
-  <programme start="20260523040000 -0500" stop="20260523060000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN 2 Sur</title>
-  </programme>
-  <programme start="20260523060000 -0500" stop="20260523063000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ATP World Tour Weekly</title>
-  </programme>
-  <programme start="20260523063000 -0500" stop="20260523073000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">Roland-Garros 2026</title>
-  </programme>
-  <programme start="20260523073000 -0500" stop="20260523093000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">Tenis ATP Hamburg Open 2026</title>
-  </programme>
-  <programme start="20260523093000 -0500" stop="20260523120000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN 2 Sur</title>
-  </programme>
-  <programme start="20260523120000 -0500" stop="20260523125500 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">SportsCenter+</title>
-  </programme>
-  <programme start="20260523125500 -0500" stop="20260523141000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">FIA Fórmula 2</title>
-  </programme>
-  <programme start="20260523141000 -0500" stop="20260523145500 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">SportsCenter+</title>
-  </programme>
-  <programme start="20260523145500 -0500" stop="20260523160000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN 2 Sur</title>
-  </programme>
-  <programme start="20260523160000 -0500" stop="20260523161500 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN 2 Sur</title>
-  </programme>
-  <programme start="20260523161500 -0500" stop="20260523164500 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">UEFA Champions League Weekly</title>
-  </programme>
-  <programme start="20260523164500 -0500" stop="20260523170000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">Futbol Internacional</title>
-  </programme>
-  <programme start="20260523170000 -0500" stop="20260523190000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">Fútbol LaLiga</title>
-  </programme>
-  <programme start="20260523190000 -0500" stop="20260523200000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN 2 Sur</title>
-  </programme>
-  <programme start="20260523200000 -0500" stop="20260523213000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN 2 Sur</title>
-  </programme>
-  <programme start="20260523213000 -0500" stop="20260523223000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN tenis</title>
-  </programme>
-  <programme start="20260523223000 -0500" stop="20260523233000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">El Show de la Copa Libertadores</title>
-  </programme>
-  <programme start="20260523233000 -0500" stop="20260524003000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20260524003000 -0500" stop="20260524013000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20260524013000 -0500" stop="20260524020000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">UEFA Champions League Weekly</title>
-  </programme>
-  <programme start="20260524020000 -0500" stop="20260524030000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20260524030000 -0500" stop="20260524040000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN tenis</title>
-  </programme>
-  <programme start="20260524040000 -0500" stop="20260524095000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">Roland-Garros 2026</title>
-  </programme>
-  <programme start="20260524095000 -0500" stop="20260524115500 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">Tit. Original Fútbol Premier League. Soccer Toda la acción de la jornada 38 de la temporada regular 2025-26 de la Premier League. Manchester City se enfrenta al Aston Villa</title>
-  <sub-title lang="es">Fútbol: Premier League</sub-title>
-  </programme>
-  <programme start="20260524115500 -0500" stop="20260524130000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">Roland-Garros 2026</title>
-  </programme>
-  <programme start="20260524130000 -0500" stop="20260524131500 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">Roland-Garros 2026</title>
-  </programme>
-  <programme start="20260524131500 -0500" stop="20260524154500 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN 2 Sur</title>
-  </programme>
-  <programme start="20260524154500 -0500" stop="20260524162500 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">SportsCenter</title>
-  <desc lang="es">SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
-  <category lang="es">Deporte</category>
-  <category lang="es">Fútbol Americano</category>
-  <category lang="es">Baloncesto</category>
-  <category lang="es">Béisbol</category>
-  <category lang="es">Básquetbol</category>
-  <category lang="es">Fútbol Italiano</category>
-  <category lang="es">Major League Baseball</category>
-  <category lang="es">Fútbol Mexicano</category>
-  <category lang="es">MLB</category>
-  <category lang="es">NBA</category>
-  <category lang="es">Noticias</category>
-  <category lang="es">NFL</category>
-  <category lang="es">Fútbol</category>
-  <category lang="es">UEFA</category>
-  <category lang="es">Fútbol Español</category>
-  <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20260524162500 -0500" stop="20260524200000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN 2 Sur</title>
-  </programme>
-  <programme start="20260524200000 -0500" stop="20260524212500 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN 2 Sur</title>
-  </programme>
-  <programme start="20260524212500 -0500" stop="20260524233000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">Automovilismo Fórmula 1</title>
-  </programme>
-  <programme start="20260524233000 -0500" stop="20260525013000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">Fútbol LaLiga</title>
-  </programme>
-  <programme start="20260525013000 -0500" stop="20260525020000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">UEFA Champions League Weekly</title>
-  </programme>
-  <programme start="20260525020000 -0500" stop="20260525030000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20260525030000 -0500" stop="20260525040000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20260525040000 -0500" stop="20260525120000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">Roland-Garros 2026</title>
-  </programme>
-  <programme start="20260525120000 -0500" stop="20260525130000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">Roland-Garros 2026</title>
-  </programme>
-  <programme start="20260525130000 -0500" stop="20260525160000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN 2 Sur</title>
-  </programme>
-  <programme start="20260525160000 -0500" stop="20260525200000 -0500" channel="Canal.ESPN.2.(Ecuador).ec">
-  <title lang="es">ESPN 2 Sur</title>
-  </programme>
-  <programme start="20260522003000 -0500" stop="20260522013000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Telediario</title>
-  </programme>
-  <programme start="20260522013000 -0500" stop="20260522043000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Café TV</title>
-  </programme>
-  <programme start="20260522043000 -0500" stop="20260522053000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Esta es mi canción</title>
-  </programme>
-  <programme start="20260522053000 -0500" stop="20260522060000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Noticiero Quichua Willaykuna</title>
-  </programme>
-  <programme start="20260522060000 -0500" stop="20260522080000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Telediario</title>
-  </programme>
-  <programme start="20260522080000 -0500" stop="20260522100000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Café TV</title>
-  </programme>
-  <programme start="20260522100000 -0500" stop="20260522110000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Rodando Ecuador</title>
-  </programme>
-  <programme start="20260522110000 -0500" stop="20260522120000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Infantiles</title>
-  </programme>
-  <programme start="20260522120000 -0500" stop="20260522123000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Próxima parada</title>
-  </programme>
-  <programme start="20260522123000 -0500" stop="20260522130000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Hola,¿qué hace?</title>
-  </programme>
-  <programme start="20260522130000 -0500" stop="20260522140000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Telediario</title>
-  </programme>
-  <programme start="20260522140000 -0500" stop="20260522145000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Fanático</title>
-  </programme>
-  <programme start="20260522145000 -0500" stop="20260522150000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Tierra y Mar</title>
-  </programme>
-  <programme start="20260522150000 -0500" stop="20260522160000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Educa</title>
-  </programme>
-  <programme start="20260522160000 -0500" stop="20260522163000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Infantiles</title>
-  </programme>
-  <programme start="20260522163000 -0500" stop="20260522183000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Café TV</title>
-  </programme>
-  <programme start="20260522183000 -0500" stop="20260522190000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Fanático</title>
-  </programme>
-  <programme start="20260522190000 -0500" stop="20260522200000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Esta es mi canción</title>
-  </programme>
-  <programme start="20260522200000 -0500" stop="20260522210000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Telediario</title>
-  </programme>
-  <programme start="20260522210000 -0500" stop="20260522220000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Desde Cero</title>
-  </programme>
-  <programme start="20260522220000 -0500" stop="20260522230000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Fanático</title>
-  </programme>
-  <programme start="20260522230000 -0500" stop="20260523000000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Rodando Ecuador</title>
-  </programme>
-  <programme start="20260523000000 -0500" stop="20260523003000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Próxima parada</title>
-  </programme>
-  <programme start="20260523003000 -0500" stop="20260523013000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Telediario</title>
-  </programme>
-  <programme start="20260523013000 -0500" stop="20260523060000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Café TV</title>
-  </programme>
-  <programme start="20260523060000 -0500" stop="20260523063000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Noticiero Quichua Willaykuna</title>
-  </programme>
-  <programme start="20260523063000 -0500" stop="20260523073000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Desde Cero</title>
-  </programme>
-  <programme start="20260523073000 -0500" stop="20260523080000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Próxima parada</title>
-  </programme>
-  <programme start="20260523080000 -0500" stop="20260523083000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Rodando Ecuador</title>
-  </programme>
-  <programme start="20260523083000 -0500" stop="20260523090000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Próxima parada</title>
-  </programme>
-  <programme start="20260523090000 -0500" stop="20260523110000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Telediario</title>
-  </programme>
-  <programme start="20260523110000 -0500" stop="20260523120000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Café TV</title>
-  </programme>
-  <programme start="20260523120000 -0500" stop="20260523130000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Esta es mi canción</title>
-  </programme>
-  <programme start="20260523130000 -0500" stop="20260523140000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Desde Cero</title>
-  </programme>
-  <programme start="20260523140000 -0500" stop="20260523150000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Rodando Ecuador</title>
-  </programme>
-  <programme start="20260523150000 -0500" stop="20260523173000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Educa</title>
-  </programme>
-  <programme start="20260523173000 -0500" stop="20260523183000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Infantiles</title>
-  </programme>
-  <programme start="20260523183000 -0500" stop="20260523190000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Próxima parada</title>
-  </programme>
-  <programme start="20260523190000 -0500" stop="20260523193000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Telediario</title>
-  </programme>
-  <programme start="20260523193000 -0500" stop="20260523200000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Fanático</title>
-  </programme>
-  <programme start="20260523200000 -0500" stop="20260523203000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Próxima parada</title>
-  </programme>
-  <programme start="20260523203000 -0500" stop="20260523213000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Esta es mi canción</title>
-  </programme>
-  <programme start="20260523213000 -0500" stop="20260523223000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Cortometraje</title>
-  </programme>
-  <programme start="20260523223000 -0500" stop="20260523233000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Próxima parada</title>
-  </programme>
-  <programme start="20260523233000 -0500" stop="20260524003000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Telediario</title>
-  </programme>
-  <programme start="20260524003000 -0500" stop="20260524013000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Fanático</title>
-  </programme>
-  <programme start="20260524013000 -0500" stop="20260524033000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Café TV</title>
-  </programme>
-  <programme start="20260524033000 -0500" stop="20260524040000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Próxima parada</title>
-  </programme>
-  <programme start="20260524040000 -0500" stop="20260524060000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Telediario</title>
-  </programme>
-  <programme start="20260524060000 -0500" stop="20260524063000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Noticiero Quichua Willaykuna</title>
-  </programme>
-  <programme start="20260524063000 -0500" stop="20260524073000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Desde Cero</title>
-  </programme>
-  <programme start="20260524073000 -0500" stop="20260524080000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Misa</title>
-  </programme>
-  <programme start="20260524080000 -0500" stop="20260524083000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Rodando Ecuador</title>
-  </programme>
-  <programme start="20260524083000 -0500" stop="20260524090000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Próxima parada</title>
-  </programme>
-  <programme start="20260524090000 -0500" stop="20260524110000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Telediario</title>
-  </programme>
-  <programme start="20260524110000 -0500" stop="20260524120000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Café TV</title>
-  </programme>
-  <programme start="20260524120000 -0500" stop="20260524130000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Esta es mi canción</title>
-  </programme>
-  <programme start="20260524130000 -0500" stop="20260524140000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Desde Cero</title>
-  </programme>
-  <programme start="20260524140000 -0500" stop="20260524150000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Rodando Ecuador</title>
-  </programme>
-  <programme start="20260524150000 -0500" stop="20260524173000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Educa</title>
-  </programme>
-  <programme start="20260524173000 -0500" stop="20260524183000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Infantiles</title>
-  </programme>
-  <programme start="20260524183000 -0500" stop="20260524190000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Próxima parada</title>
-  </programme>
-  <programme start="20260524190000 -0500" stop="20260524200000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Telediario Dominical</title>
-  </programme>
-  <programme start="20260524200000 -0500" stop="20260524210000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Fanático</title>
-  </programme>
-  <programme start="20260524210000 -0500" stop="20260524213000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Próxima parada</title>
-  </programme>
-  <programme start="20260524213000 -0500" stop="20260524220000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">América ahora</title>
-  </programme>
-  <programme start="20260524220000 -0500" stop="20260524233000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Cortometraje</title>
-  </programme>
-  <programme start="20260524233000 -0500" stop="20260525003000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Telediario</title>
-  </programme>
-  <programme start="20260525003000 -0500" stop="20260525013000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Fanático</title>
-  </programme>
-  <programme start="20260525013000 -0500" stop="20260525033000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Café TV</title>
-  </programme>
-  <programme start="20260525033000 -0500" stop="20260525040000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Próxima parada</title>
-  </programme>
-  <programme start="20260525040000 -0500" stop="20260525043000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Telediario</title>
-  </programme>
-  <programme start="20260525043000 -0500" stop="20260525053000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Esta es mi canción</title>
-  </programme>
-  <programme start="20260525053000 -0500" stop="20260525060000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Noticiero Quichua Willaykuna</title>
-  </programme>
-  <programme start="20260525060000 -0500" stop="20260525080000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Telediario</title>
-  </programme>
-  <programme start="20260525080000 -0500" stop="20260525100000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Café TV</title>
-  </programme>
-  <programme start="20260525100000 -0500" stop="20260525110000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Rodando Ecuador</title>
-  </programme>
-  <programme start="20260525110000 -0500" stop="20260525120000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Infantiles</title>
-  </programme>
-  <programme start="20260525120000 -0500" stop="20260525123000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Próxima parada</title>
-  </programme>
-  <programme start="20260525123000 -0500" stop="20260525130000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Hola,¿qué hace?</title>
-  </programme>
-  <programme start="20260525130000 -0500" stop="20260525140000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Telediario</title>
-  </programme>
-  <programme start="20260525140000 -0500" stop="20260525145000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Fanático</title>
-  </programme>
-  <programme start="20260525145000 -0500" stop="20260525150000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Tierra y Mar</title>
-  </programme>
-  <programme start="20260525150000 -0500" stop="20260525160000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Educa</title>
-  </programme>
-  <programme start="20260525160000 -0500" stop="20260525163000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Infantiles</title>
-  </programme>
-  <programme start="20260525163000 -0500" stop="20260525183000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Café TV</title>
-  </programme>
-  <programme start="20260525183000 -0500" stop="20260525190000 -0500" channel="Canal.Ecuador.TV.ec">
-  <title lang="es">Fanático</title>
-  </programme>
-  <programme start="20260522055000 -0500" stop="20260522065500 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Televistazo</title>
-  <sub-title lang="es">en la comunidad</sub-title>
-  </programme>
-  <programme start="20260522065500 -0500" stop="20260522073000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Contacto directo en Televistazo</title>
-  </programme>
-  <programme start="20260522073000 -0500" stop="20260522090000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Televistazo</title>
-  <sub-title lang="es">en la comunidad</sub-title>
-  </programme>
-  <programme start="20260522090000 -0500" stop="20260522100000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Carita de Ángel</title>
-  </programme>
-  <programme start="20260522100000 -0500" stop="20260522130000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">En contacto</title>
-  </programme>
-  <programme start="20260522130000 -0500" stop="20260522140000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Televistazo</title>
-  <sub-title lang="es">- 2da edición</sub-title>
-  </programme>
-  <programme start="20260522140000 -0500" stop="20260522153000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Los hackers del espectáculo</title>
-  </programme>
-  <programme start="20260522153000 -0500" stop="20260522163000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Doctor Milagro</title>
-  </programme>
-  <programme start="20260522163000 -0500" stop="20260522173000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Hermanas</title>
-  </programme>
-  <programme start="20260522173000 -0500" stop="20260522190000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Amores verdaderos</title>
-  </programme>
-  <programme start="20260522190000 -0500" stop="20260522210000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Televistazo</title>
-  <sub-title lang="es">Estelar</sub-title>
-  </programme>
-  <programme start="20260522210000 -0500" stop="20260522220000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Cholito forever</title>
-  </programme>
-  <programme start="20260522220000 -0500" stop="20260522230000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Cholito forever</title>
-  </programme>
-  <programme start="20260522230000 -0500" stop="20260523000000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Piso 17</title>
-  </programme>
-  <programme start="20260523000000 -0500" stop="20260523055000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Telenovela</title>
-  </programme>
-  <programme start="20260523055000 -0500" stop="20260523060000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Combo amarillo</title>
-  </programme>
-  <programme start="20260523060000 -0500" stop="20260523070000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">A-Team</title>
-  </programme>
-  <programme start="20260523070000 -0500" stop="20260523080000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Ventas Mundo TV</title>
-  </programme>
-  <programme start="20260523080000 -0500" stop="20260523090000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Tventas</title>
-  </programme>
-  <programme start="20260523090000 -0500" stop="20260523093000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Pan Nuestro</title>
-  </programme>
-  <programme start="20260523093000 -0500" stop="20260523113000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Si se puede</title>
-  </programme>
-  <programme start="20260523113000 -0500" stop="20260523133000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Más sabe el Diablo</title>
-  </programme>
-  <programme start="20260523133000 -0500" stop="20260523160000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Largometraje</title>
-  </programme>
-  <programme start="20260523160000 -0500" stop="20260523163000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Previa - Liga Ecuabet</title>
-  </programme>
-  <programme start="20260523163000 -0500" stop="20260523183000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Liga Ecuabet</title>
-  </programme>
-  <programme start="20260523183000 -0500" stop="20260523190000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Post - Liga Ecuabet</title>
-  </programme>
-  <programme start="20260523190000 -0500" stop="20260523193000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Televistazo</title>
-  </programme>
-  <programme start="20260523193000 -0500" stop="20260523213000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Largometraje</title>
-  </programme>
-  <programme start="20260523213000 -0500" stop="20260523233000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Largometraje</title>
-  </programme>
-  <programme start="20260523233000 -0500" stop="20260524010000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">El auto fantástico</title>
-  </programme>
-  <programme start="20260524010000 -0500" stop="20260524050000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Combo amarillo</title>
-  </programme>
-  <programme start="20260524050000 -0500" stop="20260524060000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">El Hombre Increíble</title>
-  </programme>
-  <programme start="20260524060000 -0500" stop="20260524063000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Vive verde rebelde</title>
-  </programme>
-  <programme start="20260524063000 -0500" stop="20260524073000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Ser</title>
-  </programme>
-  <programme start="20260524073000 -0500" stop="20260524083000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Ventas Mundo TV</title>
-  </programme>
-  <programme start="20260524083000 -0500" stop="20260524093000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Hacia un Nuevo Estilo de Vida</title>
-  </programme>
-  <programme start="20260524093000 -0500" stop="20260524103000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Panorama internacional</title>
-  </programme>
-  <programme start="20260524103000 -0500" stop="20260524113000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Políticamente correcto</title>
-  </programme>
-  <programme start="20260524113000 -0500" stop="20260524123000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Esta Semana con Pedro Jiménez</title>
-  </programme>
-  <programme start="20260524123000 -0500" stop="20260524130000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
+  <programme start="20260524163000 +0000" stop="20260524173000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Esta semana</title>
+  </programme>
+  <programme start="20260524173000 +0000" stop="20260524180000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
   <title lang="es">Entre flashes</title>
   </programme>
-  <programme start="20260524130000 -0500" stop="20260524150000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">A-Team</title>
+  <programme start="20260524180000 +0000" stop="20260524200000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Brigada A</title>
   </programme>
-  <programme start="20260524150000 -0500" stop="20260524170000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Largometraje</title>
+  <programme start="20260524200000 +0000" stop="20260524220000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">Action/Adventure</category>
+  <title lang="es">Rápido y furioso</title>
   </programme>
-  <programme start="20260524170000 -0500" stop="20260524190000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Largometraje</title>
+  <programme start="20260524220000 +0000" stop="20260525000000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">Action/Adventure</category>
+  <title lang="es">Más rápido más furioso</title>
   </programme>
-  <programme start="20260524190000 -0500" stop="20260524200000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Televistazo</title>
-  <sub-title lang="es">Dominical</sub-title>
+  <programme start="20260525000000 +0000" stop="20260525010000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Televistazo domingo</title>
   </programme>
-  <programme start="20260524200000 -0500" stop="20260524220000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Largometraje</title>
+  <programme start="20260525010000 +0000" stop="20260525031500 +0000" channel="Ecuavisa.ec">
+  <category lang="es">Action/Adventure</category>
+  <title lang="es">The Batman</title>
   </programme>
-  <programme start="20260524220000 -0500" stop="20260525001500 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Largometraje</title>
+  <programme start="20260525031500 +0000" stop="20260525031500 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Guasón</title>
   </programme>
-  <programme start="20260525001500 -0500" stop="20260525055000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Telenovela</title>
+  <programme start="20260525031500 +0000" stop="20260525110000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Guasón</title>
   </programme>
-  <programme start="20260525055000 -0500" stop="20260525065500 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Televistazo</title>
-  <sub-title lang="es">en la comunidad</sub-title>
+  <programme start="20260525110000 +0000" stop="20260525130000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">Comedy</category>
+  <title lang="es">Son como niños 2</title>
   </programme>
-  <programme start="20260525065500 -0500" stop="20260525073000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Contacto directo en Televistazo</title>
+  <programme start="20260525130000 +0000" stop="20260525140000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Mundo TV</title>
   </programme>
-  <programme start="20260525073000 -0500" stop="20260525090000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Televistazo</title>
-  <sub-title lang="es">en la comunidad</sub-title>
+  <programme start="20260525140000 +0000" stop="20260525163000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">El guardaespaldas</title>
   </programme>
-  <programme start="20260525090000 -0500" stop="20260525100000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Carita de Ángel</title>
-  </programme>
-  <programme start="20260525100000 -0500" stop="20260525130000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
+  <programme start="20260525163000 +0000" stop="20260525190000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
   <title lang="es">En contacto</title>
   </programme>
-  <programme start="20260525130000 -0500" stop="20260525140000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Televistazo</title>
-  <sub-title lang="es">- 2da edición</sub-title>
+  <programme start="20260525190000 +0000" stop="20260525203000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Los hackers de la farándula</title>
   </programme>
-  <programme start="20260525140000 -0500" stop="20260525153000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Los hackers del espectáculo</title>
+  <programme start="20260525203000 +0000" stop="20260525213000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Dr. Milagro</title>
   </programme>
-  <programme start="20260525153000 -0500" stop="20260525163000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
-  <title lang="es">Doctor Milagro</title>
-  </programme>
-  <programme start="20260525163000 -0500" stop="20260525173000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
+  <programme start="20260525213000 +0000" stop="20260525223000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
   <title lang="es">Hermanas</title>
   </programme>
-  <programme start="20260525173000 -0500" stop="20260525190000 -0500" channel="Canal.Ecuavisa.(Ecuador).ec">
+  <programme start="20260525223000 +0000" stop="20260526000000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">Drama</category>
   <title lang="es">Amores verdaderos</title>
   </programme>
-  <programme start="20260522001500 -0500" stop="20260522010000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Fear the Walking Dead</title>
-  <desc lang="es">Ambientada en Los Ángeles al comienzo del apocalipsis zombi. Nos transporta a una época en la que el mundo estaba cambiando rápidamente por razones desconocidas, cuando la vida, tal como la conocían todos, dio un vuelco y se alteró de maneras que nadie podría haber imaginado.</desc>
-  <credits>
-  <actor>Kim Dickens</actor>
-  <actor>Cliff Curtis</actor>
-  <actor>Frank Dillane</actor>
-  <actor>Alycia Debnam-Carey</actor>
-  <actor>Elizabeth Rodríguez</actor>
-  <actor>Mercedes Mason</actor>
-  <actor>Lorenzo James Henrie</actor>
-  <writer>Robert Kirkman</writer>
-  <writer>Dave Erickson</writer>
-  <producer>Bill Johnson</producer>
-  <producer>Avram Butch Kaplan</producer>
-  <composer>Atticus Ross</composer>
-  </credits>
-  <date>2015</date>
+  <programme start="20260526000000 +0000" stop="20260526010000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Televistazo estelar</title>
+  </programme>
+  <programme start="20260526010000 +0000" stop="20260526030000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">Action/Adventure</category>
+  <title lang="es">Rápidos y furiosos: Hobbs &amp; Shaw</title>
+  </programme>
+  <programme start="20260526030000 +0000" stop="20260526050000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">Fantasy</category>
+  <title lang="es">Dioses de Egipto</title>
+  </programme>
+  <programme start="20260526050000 +0000" stop="20260526100000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Novela</title>
+  </programme>
+  <programme start="20260526100000 +0000" stop="20260526105000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Novela</title>
+  </programme>
+  <programme start="20260526105000 +0000" stop="20260526115500 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Televistazo en la comunidad</title>
+  </programme>
+  <programme start="20260526115500 +0000" stop="20260526123000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20260526123000 +0000" stop="20260526140000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Televistazo en la comunidad</title>
+  </programme>
+  <programme start="20260526140000 +0000" stop="20260526150000 +0000" channel="Ecuavisa.ec">
   <category lang="es">Drama</category>
-  <category lang="es">Terror</category>
-  <category lang="es">Ciencia Ficción</category>
-  <category lang="es">Suspenso</category>
-  <category lang="es">Serie</category>
-  <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
-  <rating system="MX">
-  <value>TV-MA</value>
-  </rating>
+  <title lang="es">Carita de ángel</title>
   </programme>
-  <programme start="20260522010000 -0500" stop="20260522030000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Lucha libre</title>
+  <programme start="20260526150000 +0000" stop="20260526180000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">En contacto</title>
   </programme>
-  <programme start="20260522030000 -0500" stop="20260522040000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Ecuador Multicolor</title>
+  <programme start="20260526180000 +0000" stop="20260526190000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">Talk</category>
+  <title lang="es">Televistazo</title>
   </programme>
-  <programme start="20260522040000 -0500" stop="20260522050000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Educa</title>
+  <programme start="20260526190000 +0000" stop="20260526203000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Los hackers de la farándula</title>
   </programme>
-  <programme start="20260522050000 -0500" stop="20260522060000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">La noticia</title>
+  <programme start="20260526203000 +0000" stop="20260526213000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Dr. Milagro</title>
   </programme>
-  <programme start="20260522060000 -0500" stop="20260522070000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">El despertar de La Noticia</title>
+  <programme start="20260526213000 +0000" stop="20260526223000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Hermanas</title>
   </programme>
-  <programme start="20260522070000 -0500" stop="20260522080000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">La noticia</title>
+  <programme start="20260526223000 +0000" stop="20260527000000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Amores verdaderos</title>
   </programme>
-  <programme start="20260522080000 -0500" stop="20260522093000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">La noticia en la comunidad</title>
+  <programme start="20260527000000 +0000" stop="20260527020000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Televistazo estelar</title>
   </programme>
-  <programme start="20260522093000 -0500" stop="20260522110000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Noticias de la mañana</title>
+  <programme start="20260527020000 +0000" stop="20260527030000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Cholito forever</title>
   </programme>
-  <programme start="20260522110000 -0500" stop="20260522120000 -0500" channel="Canal.RTS.ec">
+  <programme start="20260527030000 +0000" stop="20260527040000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Cholito forever</title>
+  </programme>
+  <programme start="20260527040000 +0000" stop="20260527050000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Piso 17</title>
+  </programme>
+  <programme start="20260527050000 +0000" stop="20260527100000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Novela</title>
+  </programme>
+  <programme start="20260527100000 +0000" stop="20260527105000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Novela</title>
+  </programme>
+  <programme start="20260527105000 +0000" stop="20260527115500 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Televistazo en la comunidad</title>
+  </programme>
+  <programme start="20260527115500 +0000" stop="20260527123000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20260527123000 +0000" stop="20260527140000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Televistazo en la comunidad</title>
+  </programme>
+  <programme start="20260527140000 +0000" stop="20260527150000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Carita de ángel</title>
+  </programme>
+  <programme start="20260527150000 +0000" stop="20260527180000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">En contacto</title>
+  </programme>
+  <programme start="20260527180000 +0000" stop="20260527190000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">Talk</category>
+  <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20260527190000 +0000" stop="20260527203000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Los hackers de la farándula</title>
+  </programme>
+  <programme start="20260527203000 +0000" stop="20260527213000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Dr. Milagro</title>
+  </programme>
+  <programme start="20260527213000 +0000" stop="20260527223000 +0000" channel="Ecuavisa.ec">
+  <category lang="es">default</category>
+  <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20260524163000 +0000" stop="20260524180000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Walker Ranger de Texas</title>
+  </programme>
+  <programme start="20260524180000 +0000" stop="20260524200000 +0000" channel="OromarTV.ec">
+  <category lang="es">Western</category>
+  <title lang="es">El Gran Chaparral</title>
+  </programme>
+  <programme start="20260524200000 +0000" stop="20260524230000 +0000" channel="OromarTV.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Bonanza</title>
+  </programme>
+  <programme start="20260524230000 +0000" stop="20260525010000 +0000" channel="OromarTV.ec">
+  <category lang="es">Action/Adventure</category>
+  <title lang="es">Los indestructibles</title>
+  </programme>
+  <programme start="20260525010000 +0000" stop="20260525030000 +0000" channel="OromarTV.ec">
+  <category lang="es">Western</category>
+  <title lang="es">El Gran Chaparral</title>
+  </programme>
+  <programme start="20260525030000 +0000" stop="20260525040000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Walker Ranger de Texas</title>
+  </programme>
+  <programme start="20260525040000 +0000" stop="20260525040000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20260525040000 +0000" stop="20260525060000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20260525060000 +0000" stop="20260525110000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20260525110000 +0000" stop="20260525130000 +0000" channel="OromarTV.ec">
+  <category lang="es">Western</category>
+  <title lang="es">El Gran Chaparral</title>
+  </programme>
+  <programme start="20260525130000 +0000" stop="20260525140000 +0000" channel="OromarTV.ec">
+  <category lang="es">Soap Opera</category>
+  <title lang="es">Todas Odian a Bermúdez</title>
+  </programme>
+  <programme start="20260525140000 +0000" stop="20260525150000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Walker Ranger de Texas</title>
+  </programme>
+  <programme start="20260525150000 +0000" stop="20260525160000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Walker Ranger de Texas</title>
+  </programme>
+  <programme start="20260525160000 +0000" stop="20260525180000 +0000" channel="OromarTV.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Bonanza</title>
+  </programme>
+  <programme start="20260525180000 +0000" stop="20260525190000 +0000" channel="OromarTV.ec">
+  <category lang="es">Western</category>
+  <title lang="es">El Gran Chaparral</title>
+  </programme>
+  <programme start="20260525190000 +0000" stop="20260525200000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Walker Ranger de Texas</title>
+  </programme>
+  <programme start="20260525200000 +0000" stop="20260525223000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Película</title>
+  </programme>
+  <programme start="20260525223000 +0000" stop="20260526004500 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Película</title>
+  </programme>
+  <programme start="20260526004500 +0000" stop="20260526030000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Película</title>
+  </programme>
+  <programme start="20260526030000 +0000" stop="20260526040000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Walker Ranger de Texas</title>
+  </programme>
+  <programme start="20260526040000 +0000" stop="20260526040000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20260526040000 +0000" stop="20260526060000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20260526060000 +0000" stop="20260526110000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20260526110000 +0000" stop="20260526130000 +0000" channel="OromarTV.ec">
+  <category lang="es">Western</category>
+  <title lang="es">El Gran Chaparral</title>
+  </programme>
+  <programme start="20260526130000 +0000" stop="20260526140000 +0000" channel="OromarTV.ec">
+  <category lang="es">Soap Opera</category>
+  <title lang="es">Todas Odian a Bermúdez</title>
+  </programme>
+  <programme start="20260526140000 +0000" stop="20260526150000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Walker Ranger de Texas</title>
+  </programme>
+  <programme start="20260526150000 +0000" stop="20260526160000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Walker Ranger de Texas</title>
+  </programme>
+  <programme start="20260526160000 +0000" stop="20260526180000 +0000" channel="OromarTV.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Bonanza</title>
+  </programme>
+  <programme start="20260526180000 +0000" stop="20260526190000 +0000" channel="OromarTV.ec">
+  <category lang="es">Western</category>
+  <title lang="es">El Gran Chaparral</title>
+  </programme>
+  <programme start="20260526190000 +0000" stop="20260526200000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Walker Ranger de Texas</title>
+  </programme>
+  <programme start="20260526200000 +0000" stop="20260526220000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Película</title>
+  </programme>
+  <programme start="20260526220000 +0000" stop="20260527000000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Película</title>
+  </programme>
+  <programme start="20260527000000 +0000" stop="20260527020000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Película</title>
+  </programme>
+  <programme start="20260527020000 +0000" stop="20260527030000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Noticias Oromar</title>
+  </programme>
+  <programme start="20260527030000 +0000" stop="20260527040000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Walker Ranger de Texas</title>
+  </programme>
+  <programme start="20260527040000 +0000" stop="20260527040000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20260527040000 +0000" stop="20260527060000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20260527060000 +0000" stop="20260527110000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20260527110000 +0000" stop="20260527120000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Desde tempranito</title>
+  </programme>
+  <programme start="20260527120000 +0000" stop="20260527123000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Noticias Oromar</title>
+  </programme>
+  <programme start="20260527123000 +0000" stop="20260527130000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Comunidad Oromar</title>
+  </programme>
+  <programme start="20260527130000 +0000" stop="20260527140000 +0000" channel="OromarTV.ec">
+  <category lang="es">Soap Opera</category>
+  <title lang="es">Todas Odian a Bermúdez</title>
+  </programme>
+  <programme start="20260527140000 +0000" stop="20260527150000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Walker Ranger de Texas</title>
+  </programme>
+  <programme start="20260527150000 +0000" stop="20260527160000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Walker Ranger de Texas</title>
+  </programme>
+  <programme start="20260527160000 +0000" stop="20260527170000 +0000" channel="OromarTV.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Ángel rebelde</title>
+  </programme>
+  <programme start="20260527170000 +0000" stop="20260527180000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Noticias Oromar</title>
+  </programme>
+  <programme start="20260527180000 +0000" stop="20260527190000 +0000" channel="OromarTV.ec">
+  <category lang="es">Western</category>
+  <title lang="es">El Gran Chaparral</title>
+  </programme>
+  <programme start="20260527190000 +0000" stop="20260527200000 +0000" channel="OromarTV.ec">
+  <category lang="es">default</category>
+  <title lang="es">Walker Ranger de Texas</title>
+  </programme>
+  <programme start="20260527200000 +0000" stop="20260527210000 +0000" channel="OromarTV.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Bonanza</title>
+  </programme>
+  <programme start="20260527210000 +0000" stop="20260527220000 +0000" channel="OromarTV.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Bonanza</title>
+  </programme>
+  <programme start="20260527220000 +0000" stop="20260527230000 +0000" channel="OromarTV.ec">
+  <category lang="es">Western</category>
+  <title lang="es">Daniel Boone</title>
+  </programme>
+  <programme start="20260524170000 +0000" stop="20260524173000 +0000" channel="RTS.ec">
+  <category lang="es">Comedy</category>
+  <title lang="es">Una familia de diez</title>
+  </programme>
+  <programme start="20260524173000 +0000" stop="20260524180000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">La hora pico</title>
+  </programme>
+  <programme start="20260524180000 +0000" stop="20260524190000 +0000" channel="RTS.ec">
+  <category lang="es">Action/Adventure</category>
+  <title lang="es">The Rookie</title>
+  </programme>
+  <programme start="20260524190000 +0000" stop="20260524200000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">Hudson y Rex</title>
+  </programme>
+  <programme start="20260524200000 +0000" stop="20260524210000 +0000" channel="RTS.ec">
+  <category lang="es">Comedy</category>
+  <title lang="es">Los hombres de Paco</title>
+  </programme>
+  <programme start="20260524210000 +0000" stop="20260524220000 +0000" channel="RTS.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">MacGyver</title>
+  </programme>
+  <programme start="20260524220000 +0000" stop="20260524230000 +0000" channel="RTS.ec">
+  <category lang="es">Soap Opera</category>
+  <title lang="es">Marimar</title>
+  </programme>
+  <programme start="20260524230000 +0000" stop="20260525000000 +0000" channel="RTS.ec">
+  <category lang="es">Soap Opera</category>
+  <title lang="es">Marimar</title>
+  </programme>
+  <programme start="20260525000000 +0000" stop="20260525010000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">Caso cerrado</title>
+  </programme>
+  <programme start="20260525010000 +0000" stop="20260525020000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">Caso cerrado</title>
+  </programme>
+  <programme start="20260525020000 +0000" stop="20260525030000 +0000" channel="RTS.ec">
+  <category lang="es">Soap Opera</category>
+  <title lang="es">La rosa de Guadalupe</title>
+  </programme>
+  <programme start="20260525030000 +0000" stop="20260525040000 +0000" channel="RTS.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Fear the Walking Dead</title>
+  </programme>
+  <programme start="20260525040000 +0000" stop="20260525040000 +0000" channel="RTS.ec">
+  <category lang="es">Action/Adventure</category>
+  <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20260525040000 +0000" stop="20260525060000 +0000" channel="RTS.ec">
+  <category lang="es">Action/Adventure</category>
+  <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20260525060000 +0000" stop="20260525080000 +0000" channel="RTS.ec">
+  <category lang="es">Wrestling</category>
+  <category>Sports</category>
+  <title lang="es">Lucha Libre</title>
+  </programme>
+  <programme start="20260525080000 +0000" stop="20260525090000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">El diván</title>
+  </programme>
+  <programme start="20260525090000 +0000" stop="20260525110000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">Cine de Madrugada</title>
+  </programme>
+  <programme start="20260525110000 +0000" stop="20260525120000 +0000" channel="RTS.ec">
+  <category lang="es">Children</category>
+  <title lang="es">Beyblade Burst</title>
+  </programme>
+  <programme start="20260525120000 +0000" stop="20260525130000 +0000" channel="RTS.ec">
+  <category lang="es">Action/Adventure</category>
+  <title lang="es">Hombre al agua</title>
+  </programme>
+  <programme start="20260525130000 +0000" stop="20260525140000 +0000" channel="RTS.ec">
+  <category lang="es">Action/Adventure</category>
+  <title lang="es">Hombre al agua</title>
+  </programme>
+  <programme start="20260525140000 +0000" stop="20260525150000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">Hudson y Rex</title>
+  </programme>
+  <programme start="20260525150000 +0000" stop="20260525160000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">Hudson y Rex</title>
+  </programme>
+  <programme start="20260525160000 +0000" stop="20260525170000 +0000" channel="RTS.ec">
+  <category lang="es">Drama</category>
   <title lang="es">Mujer, casos de la vida real</title>
   </programme>
-  <programme start="20260522120000 -0500" stop="20260522130000 -0500" channel="Canal.RTS.ec">
+  <programme start="20260525170000 +0000" stop="20260525180000 +0000" channel="RTS.ec">
+  <category lang="es">Drama</category>
   <title lang="es">Elif</title>
   </programme>
-  <programme start="20260522130000 -0500" stop="20260522140000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">La Rosa de Guadalupe</title>
+  <programme start="20260525180000 +0000" stop="20260525190000 +0000" channel="RTS.ec">
+  <category lang="es">Soap Opera</category>
+  <title lang="es">La rosa de Guadalupe</title>
   </programme>
-  <programme start="20260522140000 -0500" stop="20260522150000 -0500" channel="Canal.RTS.ec">
+  <programme start="20260525190000 +0000" stop="20260525200000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
   <title lang="es">Laura</title>
   </programme>
-  <programme start="20260522150000 -0500" stop="20260522160000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Legado de Amor</title>
+  <programme start="20260525200000 +0000" stop="20260525210000 +0000" channel="RTS.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Legado de amor</title>
   </programme>
-  <programme start="20260522160000 -0500" stop="20260522170000 -0500" channel="Canal.RTS.ec">
+  <programme start="20260525210000 +0000" stop="20260525220000 +0000" channel="RTS.ec">
+  <category lang="es">Romance</category>
   <title lang="es">Nazaré</title>
   </programme>
-  <programme start="20260522170000 -0500" stop="20260522180000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Caso Cerrado</title>
+  <programme start="20260525220000 +0000" stop="20260525230000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">Caso cerrado</title>
   </programme>
-  <programme start="20260522180000 -0500" stop="20260522190000 -0500" channel="Canal.RTS.ec">
+  <programme start="20260525230000 +0000" stop="20260526000000 +0000" channel="RTS.ec">
+  <category lang="es">Romance</category>
   <title lang="es">Todo por mi familia</title>
   </programme>
-  <programme start="20260522190000 -0500" stop="20260522210000 -0500" channel="Canal.RTS.ec">
+  <programme start="20260526000000 +0000" stop="20260526020000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
   <title lang="es">Combate</title>
   </programme>
-  <programme start="20260522210000 -0500" stop="20260522220000 -0500" channel="Canal.RTS.ec">
+  <programme start="20260526020000 +0000" stop="20260526030000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
   <title lang="es">Corazón abandonado</title>
   </programme>
-  <programme start="20260522220000 -0500" stop="20260522230000 -0500" channel="Canal.RTS.ec">
+  <programme start="20260526030000 +0000" stop="20260526040000 +0000" channel="RTS.ec">
+  <category lang="es">Business</category>
   <title lang="es">La noticia</title>
   </programme>
-  <programme start="20260522230000 -0500" stop="20260522233000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Copa</title>
-  </programme>
-  <programme start="20260522233000 -0500" stop="20260523001500 -0500" channel="Canal.RTS.ec">
+  <programme start="20260526040000 +0000" stop="20260526050000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
   <title lang="es">Nueva novia</title>
   </programme>
-  <programme start="20260523001500 -0500" stop="20260523010000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Fear the Walking Dead</title>
-  <desc lang="es">Ambientada en Los Ángeles al comienzo del apocalipsis zombi. Nos transporta a una época en la que el mundo estaba cambiando rápidamente por razones desconocidas, cuando la vida, tal como la conocían todos, dio un vuelco y se alteró de maneras que nadie podría haber imaginado.</desc>
-  <credits>
-  <actor>Kim Dickens</actor>
-  <actor>Cliff Curtis</actor>
-  <actor>Frank Dillane</actor>
-  <actor>Alycia Debnam-Carey</actor>
-  <actor>Elizabeth Rodríguez</actor>
-  <actor>Mercedes Mason</actor>
-  <actor>Lorenzo James Henrie</actor>
-  <writer>Robert Kirkman</writer>
-  <writer>Dave Erickson</writer>
-  <producer>Bill Johnson</producer>
-  <producer>Avram Butch Kaplan</producer>
-  <composer>Atticus Ross</composer>
-  </credits>
-  <date>2015</date>
+  <programme start="20260526050000 +0000" stop="20260526060000 +0000" channel="RTS.ec">
   <category lang="es">Drama</category>
-  <category lang="es">Terror</category>
-  <category lang="es">Ciencia Ficción</category>
-  <category lang="es">Suspenso</category>
-  <category lang="es">Serie</category>
-  <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
-  <rating system="MX">
-  <value>TV-MA</value>
-  </rating>
+  <title lang="es">Fear the Walking Dead</title>
   </programme>
-  <programme start="20260523010000 -0500" stop="20260523030000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Lucha libre</title>
+  <programme start="20260526060000 +0000" stop="20260526080000 +0000" channel="RTS.ec">
+  <category lang="es">Wrestling</category>
+  <category>Sports</category>
+  <title lang="es">Lucha Libre</title>
   </programme>
-  <programme start="20260523030000 -0500" stop="20260523040000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Ecuador Multicolor</title>
+  <programme start="20260526080000 +0000" stop="20260526090000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">Ecuador multicolor</title>
   </programme>
-  <programme start="20260523040000 -0500" stop="20260523050000 -0500" channel="Canal.RTS.ec">
+  <programme start="20260526090000 +0000" stop="20260526100000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
   <title lang="es">Educa</title>
   </programme>
-  <programme start="20260523050000 -0500" stop="20260523060000 -0500" channel="Canal.RTS.ec">
+  <programme start="20260526100000 +0000" stop="20260526110000 +0000" channel="RTS.ec">
+  <category lang="es">Business</category>
   <title lang="es">La noticia</title>
   </programme>
-  <programme start="20260523060000 -0500" stop="20260523070000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Ranti ranti</title>
+  <programme start="20260526110000 +0000" stop="20260526120000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">El despertar de la noticia</title>
   </programme>
-  <programme start="20260523070000 -0500" stop="20260523073000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Beyblade Burst</title>
-  </programme>
-  <programme start="20260523073000 -0500" stop="20260523080000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">La Pantera Rosa e hijos</title>
-  </programme>
-  <programme start="20260523080000 -0500" stop="20260523083000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Una familia de diez</title>
-  </programme>
-  <programme start="20260523083000 -0500" stop="20260523090000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">La hora pico</title>
-  </programme>
-  <programme start="20260523090000 -0500" stop="20260523110000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Reto cuatro elementos</title>
-  </programme>
-  <programme start="20260523110000 -0500" stop="20260523120000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Hombre al agua</title>
-  </programme>
-  <programme start="20260523120000 -0500" stop="20260523130000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Hombre al agua</title>
-  </programme>
-  <programme start="20260523130000 -0500" stop="20260523140000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">The Rookie</title>
-  <desc lang="es">Comenzar de nuevo no es fácil, especialmente para un tipo de un pequeño pueblo John Nolan (Nathan Fillion) quien, después de un incidente que le altera la vida, está persiguiendo su sueño de ser un oficial de policía de Los Ángeles. Como el novato más viejo de la fuerza, se ha encontrado con el escepticismo de algunos altos mandos que lo ven como una simple crisis de la mediana edad. Si no puede mantenerse al día con los jóvenes policías y los delincuentes, estará arriesgando vidas, incluida la suya. Pero si puede usar su experiencia de vida, determinación y sentido del humor para darle una ventaja, puede que se convierta en un éxito en este nuevo capítulo de su vida.</desc>
-  <credits>
-  <actor>Nathan Fillion</actor>
-  <actor>Afton Williamson</actor>
-  <actor>Eric Winter</actor>
-  <actor>Melissa O'Neil</actor>
-  <actor>Richard T. Jones</actor>
-  <actor>Titus Makin</actor>
-  <actor>Alyssa Diaz</actor>
-  <actor>Mercedes Mason</actor>
-  <writer>Alexi Hawley</writer>
-  </credits>
-  <date>2018</date>
-  <category lang="es">Crimen</category>
-  <category lang="es">Drama</category>
-  <category lang="es">Serie</category>
-  <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_rookie.jpg" />
-  <rating system="MX">
-  <value>TV-14</value>
-  </rating>
-  <star-rating system="MX">
-  <value>8.0</value>
-  </star-rating>
-  </programme>
-  <programme start="20260523140000 -0500" stop="20260523150000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Hudson &amp; Rex</title>
-  </programme>
-  <programme start="20260523150000 -0500" stop="20260523160000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Los hombres de Paco</title>
-  </programme>
-  <programme start="20260523160000 -0500" stop="20260523170000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Macgyver</title>
-  </programme>
-  <programme start="20260523170000 -0500" stop="20260523180000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Marimar</title>
-  </programme>
-  <programme start="20260523180000 -0500" stop="20260523190000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Marimar</title>
-  </programme>
-  <programme start="20260523190000 -0500" stop="20260523200000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Caso Cerrado</title>
-  </programme>
-  <programme start="20260523200000 -0500" stop="20260523210000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Caso Cerrado</title>
-  </programme>
-  <programme start="20260523210000 -0500" stop="20260523220000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">La Rosa de Guadalupe</title>
-  </programme>
-  <programme start="20260523220000 -0500" stop="20260523230000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Fear the Walking Dead</title>
-  <desc lang="es">Ambientada en Los Ángeles al comienzo del apocalipsis zombi. Nos transporta a una época en la que el mundo estaba cambiando rápidamente por razones desconocidas, cuando la vida, tal como la conocían todos, dio un vuelco y se alteró de maneras que nadie podría haber imaginado.</desc>
-  <credits>
-  <actor>Kim Dickens</actor>
-  <actor>Cliff Curtis</actor>
-  <actor>Frank Dillane</actor>
-  <actor>Alycia Debnam-Carey</actor>
-  <actor>Elizabeth Rodríguez</actor>
-  <actor>Mercedes Mason</actor>
-  <actor>Lorenzo James Henrie</actor>
-  <writer>Robert Kirkman</writer>
-  <writer>Dave Erickson</writer>
-  <producer>Bill Johnson</producer>
-  <producer>Avram Butch Kaplan</producer>
-  <composer>Atticus Ross</composer>
-  </credits>
-  <date>2015</date>
-  <category lang="es">Drama</category>
-  <category lang="es">Terror</category>
-  <category lang="es">Ciencia Ficción</category>
-  <category lang="es">Suspenso</category>
-  <category lang="es">Serie</category>
-  <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
-  <rating system="MX">
-  <value>TV-MA</value>
-  </rating>
-  </programme>
-  <programme start="20260523230000 -0500" stop="20260524010000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">NCIS: Los Ángeles</title>
-  <desc lang="es">La Oficina de Proyectos Especiales (OSP), una división de NCIS que se encarga de aprehender a delincuentes peligrosos y elusivos que representan una amenaza para la seguridad del país. Al asumir identidades falsas y utilizar la tecnología más avanzada, este equipo de agentes altamente entrenados se oculta profundamente, poniendo sus vidas en línea en el campo para derribar sus objetivos. El agente especial "G" Callen (Chris O'Donnell) es un camaleón que se transforma en quien necesita ser para infiltrarse en el inframundo criminal. Su compañero es el agente especial Sam Hanna (LL Cool J.), un ex SEAL de la Marina de los Estados Unidos que ha participado en actividades tanto en Afganistán como en Irak, y un experto en vigilancia que utiliza equipos de monitoreo de vanguardia para vigilar a aquellos en el campo y darles información crucial. Asistiendo al equipo está la agente especial Kensi Blye (Daniela Ruah), la hija excepcionalmente brillante de un Marine asesinado que vive por la adrenalina que viene con el trabajo encubierto; El psicólogo operativo Nate Getz (Peter Cambor), experto en meterse en la cabeza de cualquiera, perfilando el objetivo y supervisando los estados de ánimo de los agentes antes, durante y después de las misiones; Dominic Vail (Adam Jamal Craig), la incorporación más reciente al equipo, está altamente calificada pero carece de experiencia práctica; y Henrietta "Hetty" Lange (Linda Hunt), quién supervisa el personal de apoyo "de trastienda" encargado de proporcionar todo, desde cámaras de micro vigilancia hasta automóviles para el equipo. Armada con lo último en equipos de alta tecnología y enviada regularmente a situaciones de riesgo vital, esta unidad muy unida confía el uno al otro para hacer lo que sea necesario para proteger los intereses nacionales.</desc>
-  <credits>
-  <actor>Chris O'Donnell</actor>
-  <actor>Peter Cambor</actor>
-  <actor>Daniela Ruah</actor>
-  <actor>Adam Jamal Craig</actor>
-  <actor>LL Cool J</actor>
-  <actor>Linda Hunt</actor>
-  <actor>Barrett Foa</actor>
-  <actor>Eric Christian Olsen</actor>
-  <writer>Shane Brennan</writer>
-  <composer>James S. Levine</composer>
-  </credits>
-  <date>2009</date>
-  <category lang="es">Crimen</category>
-  <category lang="es">Drama</category>
-  <category lang="es">Misterio</category>
-  <category lang="es">Suspenso</category>
-  <category lang="es">Serie</category>
-  <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ncis_los_angeles.jpg" />
-  <rating system="MX">
-  <value>TV-PG</value>
-  </rating>
-  </programme>
-  <programme start="20260524010000 -0500" stop="20260524030000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Lucha libre</title>
-  </programme>
-  <programme start="20260524030000 -0500" stop="20260524040000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Ranti ranti</title>
-  </programme>
-  <programme start="20260524040000 -0500" stop="20260524060000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Cine de madrugada</title>
-  </programme>
-  <programme start="20260524060000 -0500" stop="20260524070000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">El diván</title>
-  </programme>
-  <programme start="20260524070000 -0500" stop="20260524073000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Beyblade Burst</title>
-  </programme>
-  <programme start="20260524073000 -0500" stop="20260524080000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">El show de la pantera rosa</title>
-  </programme>
-  <programme start="20260524080000 -0500" stop="20260524090000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Una familia de diez</title>
-  </programme>
-  <programme start="20260524090000 -0500" stop="20260524100000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">La hora pico</title>
-  </programme>
-  <programme start="20260524100000 -0500" stop="20260524120000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Reto cuatro elementos</title>
-  </programme>
-  <programme start="20260524120000 -0500" stop="20260524123000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Una familia de diez</title>
-  </programme>
-  <programme start="20260524123000 -0500" stop="20260524130000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">La hora pico</title>
-  </programme>
-  <programme start="20260524130000 -0500" stop="20260524140000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">The Rookie</title>
-  <desc lang="es">Comenzar de nuevo no es fácil, especialmente para un tipo de un pequeño pueblo John Nolan (Nathan Fillion) quien, después de un incidente que le altera la vida, está persiguiendo su sueño de ser un oficial de policía de Los Ángeles. Como el novato más viejo de la fuerza, se ha encontrado con el escepticismo de algunos altos mandos que lo ven como una simple crisis de la mediana edad. Si no puede mantenerse al día con los jóvenes policías y los delincuentes, estará arriesgando vidas, incluida la suya. Pero si puede usar su experiencia de vida, determinación y sentido del humor para darle una ventaja, puede que se convierta en un éxito en este nuevo capítulo de su vida.</desc>
-  <credits>
-  <actor>Nathan Fillion</actor>
-  <actor>Afton Williamson</actor>
-  <actor>Eric Winter</actor>
-  <actor>Melissa O'Neil</actor>
-  <actor>Richard T. Jones</actor>
-  <actor>Titus Makin</actor>
-  <actor>Alyssa Diaz</actor>
-  <actor>Mercedes Mason</actor>
-  <writer>Alexi Hawley</writer>
-  </credits>
-  <date>2018</date>
-  <category lang="es">Crimen</category>
-  <category lang="es">Drama</category>
-  <category lang="es">Serie</category>
-  <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_rookie.jpg" />
-  <rating system="MX">
-  <value>TV-14</value>
-  </rating>
-  <star-rating system="MX">
-  <value>8.0</value>
-  </star-rating>
-  </programme>
-  <programme start="20260524140000 -0500" stop="20260524150000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Hudson &amp; Rex</title>
-  </programme>
-  <programme start="20260524150000 -0500" stop="20260524160000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Los hombres de Paco</title>
-  </programme>
-  <programme start="20260524160000 -0500" stop="20260524170000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Macgyver</title>
-  </programme>
-  <programme start="20260524170000 -0500" stop="20260524180000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Marimar</title>
-  </programme>
-  <programme start="20260524180000 -0500" stop="20260524190000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Marimar</title>
-  </programme>
-  <programme start="20260524190000 -0500" stop="20260524200000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Caso Cerrado</title>
-  </programme>
-  <programme start="20260524200000 -0500" stop="20260524210000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Caso Cerrado</title>
-  </programme>
-  <programme start="20260524210000 -0500" stop="20260524220000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">La Rosa de Guadalupe</title>
-  </programme>
-  <programme start="20260524220000 -0500" stop="20260524230000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Fear the Walking Dead</title>
-  <desc lang="es">Ambientada en Los Ángeles al comienzo del apocalipsis zombi. Nos transporta a una época en la que el mundo estaba cambiando rápidamente por razones desconocidas, cuando la vida, tal como la conocían todos, dio un vuelco y se alteró de maneras que nadie podría haber imaginado.</desc>
-  <credits>
-  <actor>Kim Dickens</actor>
-  <actor>Cliff Curtis</actor>
-  <actor>Frank Dillane</actor>
-  <actor>Alycia Debnam-Carey</actor>
-  <actor>Elizabeth Rodríguez</actor>
-  <actor>Mercedes Mason</actor>
-  <actor>Lorenzo James Henrie</actor>
-  <writer>Robert Kirkman</writer>
-  <writer>Dave Erickson</writer>
-  <producer>Bill Johnson</producer>
-  <producer>Avram Butch Kaplan</producer>
-  <composer>Atticus Ross</composer>
-  </credits>
-  <date>2015</date>
-  <category lang="es">Drama</category>
-  <category lang="es">Terror</category>
-  <category lang="es">Ciencia Ficción</category>
-  <category lang="es">Suspenso</category>
-  <category lang="es">Serie</category>
-  <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
-  <rating system="MX">
-  <value>TV-MA</value>
-  </rating>
-  </programme>
-  <programme start="20260524230000 -0500" stop="20260525010000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">NCIS: Los Ángeles</title>
-  <desc lang="es">La Oficina de Proyectos Especiales (OSP), una división de NCIS que se encarga de aprehender a delincuentes peligrosos y elusivos que representan una amenaza para la seguridad del país. Al asumir identidades falsas y utilizar la tecnología más avanzada, este equipo de agentes altamente entrenados se oculta profundamente, poniendo sus vidas en línea en el campo para derribar sus objetivos. El agente especial "G" Callen (Chris O'Donnell) es un camaleón que se transforma en quien necesita ser para infiltrarse en el inframundo criminal. Su compañero es el agente especial Sam Hanna (LL Cool J.), un ex SEAL de la Marina de los Estados Unidos que ha participado en actividades tanto en Afganistán como en Irak, y un experto en vigilancia que utiliza equipos de monitoreo de vanguardia para vigilar a aquellos en el campo y darles información crucial. Asistiendo al equipo está la agente especial Kensi Blye (Daniela Ruah), la hija excepcionalmente brillante de un Marine asesinado que vive por la adrenalina que viene con el trabajo encubierto; El psicólogo operativo Nate Getz (Peter Cambor), experto en meterse en la cabeza de cualquiera, perfilando el objetivo y supervisando los estados de ánimo de los agentes antes, durante y después de las misiones; Dominic Vail (Adam Jamal Craig), la incorporación más reciente al equipo, está altamente calificada pero carece de experiencia práctica; y Henrietta "Hetty" Lange (Linda Hunt), quién supervisa el personal de apoyo "de trastienda" encargado de proporcionar todo, desde cámaras de micro vigilancia hasta automóviles para el equipo. Armada con lo último en equipos de alta tecnología y enviada regularmente a situaciones de riesgo vital, esta unidad muy unida confía el uno al otro para hacer lo que sea necesario para proteger los intereses nacionales.</desc>
-  <credits>
-  <actor>Chris O'Donnell</actor>
-  <actor>Peter Cambor</actor>
-  <actor>Daniela Ruah</actor>
-  <actor>Adam Jamal Craig</actor>
-  <actor>LL Cool J</actor>
-  <actor>Linda Hunt</actor>
-  <actor>Barrett Foa</actor>
-  <actor>Eric Christian Olsen</actor>
-  <writer>Shane Brennan</writer>
-  <composer>James S. Levine</composer>
-  </credits>
-  <date>2009</date>
-  <category lang="es">Crimen</category>
-  <category lang="es">Drama</category>
-  <category lang="es">Misterio</category>
-  <category lang="es">Suspenso</category>
-  <category lang="es">Serie</category>
-  <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ncis_los_angeles.jpg" />
-  <rating system="MX">
-  <value>TV-PG</value>
-  </rating>
-  </programme>
-  <programme start="20260525010000 -0500" stop="20260525030000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Lucha libre</title>
-  </programme>
-  <programme start="20260525030000 -0500" stop="20260525040000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">El diván</title>
-  </programme>
-  <programme start="20260525040000 -0500" stop="20260525060000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Cine de madrugada</title>
-  </programme>
-  <programme start="20260525060000 -0500" stop="20260525070000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">El despertar de La Noticia</title>
-  </programme>
-  <programme start="20260525070000 -0500" stop="20260525080000 -0500" channel="Canal.RTS.ec">
+  <programme start="20260526120000 +0000" stop="20260526130000 +0000" channel="RTS.ec">
+  <category lang="es">Business</category>
   <title lang="es">La noticia</title>
   </programme>
-  <programme start="20260525080000 -0500" stop="20260525093000 -0500" channel="Canal.RTS.ec">
+  <programme start="20260526130000 +0000" stop="20260526143000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
   <title lang="es">La noticia en la comunidad</title>
   </programme>
-  <programme start="20260525093000 -0500" stop="20260525110000 -0500" channel="Canal.RTS.ec">
+  <programme start="20260526143000 +0000" stop="20260526160000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
   <title lang="es">Noticias de la mañana</title>
   </programme>
-  <programme start="20260525110000 -0500" stop="20260525120000 -0500" channel="Canal.RTS.ec">
+  <programme start="20260526160000 +0000" stop="20260526170000 +0000" channel="RTS.ec">
+  <category lang="es">Drama</category>
   <title lang="es">Mujer, casos de la vida real</title>
   </programme>
-  <programme start="20260525120000 -0500" stop="20260525130000 -0500" channel="Canal.RTS.ec">
+  <programme start="20260526170000 +0000" stop="20260526180000 +0000" channel="RTS.ec">
+  <category lang="es">Drama</category>
   <title lang="es">Elif</title>
   </programme>
-  <programme start="20260525130000 -0500" stop="20260525140000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">La Rosa de Guadalupe</title>
+  <programme start="20260526180000 +0000" stop="20260526190000 +0000" channel="RTS.ec">
+  <category lang="es">Soap Opera</category>
+  <title lang="es">La rosa de Guadalupe</title>
   </programme>
-  <programme start="20260525140000 -0500" stop="20260525150000 -0500" channel="Canal.RTS.ec">
+  <programme start="20260526190000 +0000" stop="20260526200000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
   <title lang="es">Laura</title>
   </programme>
-  <programme start="20260525150000 -0500" stop="20260525160000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Legado de Amor</title>
+  <programme start="20260526200000 +0000" stop="20260526210000 +0000" channel="RTS.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Legado de amor</title>
   </programme>
-  <programme start="20260525160000 -0500" stop="20260525170000 -0500" channel="Canal.RTS.ec">
+  <programme start="20260526210000 +0000" stop="20260526220000 +0000" channel="RTS.ec">
+  <category lang="es">Romance</category>
   <title lang="es">Nazaré</title>
   </programme>
-  <programme start="20260525170000 -0500" stop="20260525180000 -0500" channel="Canal.RTS.ec">
-  <title lang="es">Caso Cerrado</title>
+  <programme start="20260526220000 +0000" stop="20260526230000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">Caso cerrado</title>
   </programme>
-  <programme start="20260525180000 -0500" stop="20260525190000 -0500" channel="Canal.RTS.ec">
+  <programme start="20260526230000 +0000" stop="20260527000000 +0000" channel="RTS.ec">
+  <category lang="es">Romance</category>
   <title lang="es">Todo por mi familia</title>
   </programme>
-  <programme start="20260522002400 -0500" stop="20260522011200 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Mi gran boda gitana</title>
-  <sub-title lang="es">Feudos familiares y corazones rotos</sub-title>
-  </programme>
-  <programme start="20260522011200 -0500" stop="20260522024800 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Kilos mortales</title>
-  <sub-title lang="es">Brandi y Kandi</sub-title>
-  </programme>
-  <programme start="20260522024800 -0500" stop="20260522042400 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Kilos mortales</title>
-  <sub-title lang="es">Ashley R</sub-title>
-  </programme>
-  <programme start="20260522042400 -0500" stop="20260522051200 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Kilos mortales: Las hermanas Slaton</title>
-  <sub-title lang="es">El Despertar</sub-title>
-  </programme>
-  <programme start="20260522051200 -0500" stop="20260522060000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">La Familia Plath</title>
-  <sub-title lang="es">¿Es una cita</sub-title>
-  </programme>
-  <programme start="20260522060000 -0500" stop="20260522065000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Mi gran boda gitana</title>
-  <sub-title lang="es">Mellie la gitana salvaje</sub-title>
-  </programme>
-  <programme start="20260522065000 -0500" stop="20260522074000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Una Gran Familia</title>
-  <sub-title lang="es">Sincerándose</sub-title>
-  </programme>
-  <programme start="20260522074000 -0500" stop="20260522083000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Los Busby</title>
-  <sub-title lang="es">La pesadilla antes de Pascua</sub-title>
-  </programme>
-  <programme start="20260522083000 -0500" stop="20260522091500 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Una Gran Familia</title>
-  <sub-title lang="es">Insectos molestos</sub-title>
-  </programme>
-  <programme start="20260522091500 -0500" stop="20260522100000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Una Gran Familia</title>
-  <sub-title lang="es">Muchos pequeños amores</sub-title>
-  </programme>
-  <programme start="20260522100000 -0500" stop="20260522113600 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Un gran mundo pequeño</title>
-  <sub-title lang="es">Sí, quiero</sub-title>
-  </programme>
-  <programme start="20260522113600 -0500" stop="20260522131200 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Un gran mundo pequeño</title>
-  <sub-title lang="es">Confesiones</sub-title>
-  </programme>
-  <programme start="20260522131200 -0500" stop="20260522144800 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Todo en 90 días</title>
-  <sub-title lang="es">Lo mío es mío</sub-title>
-  </programme>
-  <programme start="20260522144800 -0500" stop="20260522153600 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Madres adolescentes</title>
-  <sub-title lang="es">La madre irresponsable</sub-title>
-  </programme>
-  <programme start="20260522153600 -0500" stop="20260522162400 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Madres adolescentes</title>
-  <sub-title lang="es">El esperma es el bebé</sub-title>
-  </programme>
-  <programme start="20260522162400 -0500" stop="20260522171200 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Madres adolescentes</title>
-  <sub-title lang="es">No le des eso al bebé</sub-title>
-  </programme>
-  <programme start="20260522171200 -0500" stop="20260522180000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Una Gran Familia</title>
-  <sub-title lang="es">Fiesta en mi casa</sub-title>
-  </programme>
-  <programme start="20260522180000 -0500" stop="20260522184800 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Una Gran Familia</title>
-  <sub-title lang="es">Una Navidad medio blanca</sub-title>
-  </programme>
-  <programme start="20260522184800 -0500" stop="20260522193600 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Matrimonio busca esposa</title>
-  <sub-title lang="es">Buscar puede ser complicado.</sub-title>
-  </programme>
-  <programme start="20260522193600 -0500" stop="20260522202400 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Matrimonio busca esposa</title>
-  <sub-title lang="es">Buscando compromiso</sub-title>
-  </programme>
-  <programme start="20260522202400 -0500" stop="20260522211200 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">4 Esposas, 1 marido</title>
-  <sub-title lang="es">Más chicas de las que Kody puede manejar</sub-title>
-  </programme>
-  <programme start="20260522211200 -0500" stop="20260522220000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">4 Esposas, 1 marido</title>
-  <sub-title lang="es">El anuncio de Robyn</sub-title>
-  </programme>
-  <programme start="20260522220000 -0500" stop="20260522224800 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Renovación al desnudo</title>
-  <sub-title lang="es">Espera lo inesperado</sub-title>
-  </programme>
-  <programme start="20260522224800 -0500" stop="20260522233600 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">La mansión de las cougars</title>
-  <sub-title lang="es">El corazón roto de una cougar</sub-title>
-  </programme>
-  <programme start="20260522233600 -0500" stop="20260523002400 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">La mansión de las cougars</title>
-  <sub-title lang="es">No soy tu cougar</sub-title>
-  </programme>
-  <programme start="20260523002400 -0500" stop="20260523011200 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Mi gran boda gitana</title>
-  <sub-title lang="es">Sálvese quien pueda</sub-title>
-  </programme>
-  <programme start="20260523011200 -0500" stop="20260523020000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">4 Esposas, 1 marido</title>
-  <sub-title lang="es">Más chicas de las que Kody puede manejar</sub-title>
-  </programme>
-  <programme start="20260523020000 -0500" stop="20260523024800 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">4 Esposas, 1 marido</title>
-  <sub-title lang="es">El anuncio de Robyn</sub-title>
-  </programme>
-  <programme start="20260523024800 -0500" stop="20260523033600 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Renovación al desnudo</title>
-  <sub-title lang="es">Espera lo inesperado</sub-title>
-  </programme>
-  <programme start="20260523033600 -0500" stop="20260523042400 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">La mansión de las cougars</title>
-  <sub-title lang="es">El corazón roto de una cougar</sub-title>
-  </programme>
-  <programme start="20260523042400 -0500" stop="20260523051200 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">La mansión de las cougars</title>
-  <sub-title lang="es">No soy tu cougar</sub-title>
-  </programme>
-  <programme start="20260523051200 -0500" stop="20260523060000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">La Familia Plath</title>
-  <sub-title lang="es">Si lo tienes, presúmelo</sub-title>
-  </programme>
-  <programme start="20260523060000 -0500" stop="20260523065000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Mi gran boda gitana</title>
-  <sub-title lang="es">14 y en busca del ideal</sub-title>
-  </programme>
-  <programme start="20260523065000 -0500" stop="20260523074000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Una Gran Familia</title>
-  <sub-title lang="es">El final</sub-title>
-  </programme>
-  <programme start="20260523074000 -0500" stop="20260523083000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Los Busby</title>
-  <sub-title lang="es">Los quintillizos se divierten</sub-title>
-  </programme>
-  <programme start="20260523083000 -0500" stop="20260523091500 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Una Gran Familia</title>
-  <sub-title lang="es">Toma este trabajo y aguanta</sub-title>
-  </programme>
-  <programme start="20260523091500 -0500" stop="20260523100000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Una Gran Familia</title>
-  <sub-title lang="es">Amor en el cerebro</sub-title>
-  </programme>
-  <programme start="20260523100000 -0500" stop="20260523104800 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Gran-diosa</title>
-  <sub-title lang="es">Labios gruesos</sub-title>
-  </programme>
-  <programme start="20260523104800 -0500" stop="20260523113600 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Vida de gemelas</title>
-  <sub-title lang="es">Vida de soltera y lucha entre hermanas</sub-title>
-  </programme>
-  <programme start="20260523113600 -0500" stop="20260523122400 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Vida de gemelas</title>
-  <sub-title lang="es">Explosiones y fanfarronadas</sub-title>
-  </programme>
-  <programme start="20260523122400 -0500" stop="20260523131200 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Vida de gemelas</title>
-  <sub-title lang="es">Patines y conflictos</sub-title>
-  </programme>
-  <programme start="20260523131200 -0500" stop="20260523140000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Vida de gemelas</title>
-  <sub-title lang="es">Noticias sorprendentes y tristeza de boda</sub-title>
-  </programme>
-  <programme start="20260523140000 -0500" stop="20260523144800 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Vida de gemelas</title>
-  <sub-title lang="es">Resbalones borrachos y confesiones</sub-title>
-  </programme>
-  <programme start="20260523144800 -0500" stop="20260523153600 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Vida de gemelas</title>
-  <sub-title lang="es">Campos y zanjas</sub-title>
-  </programme>
-  <programme start="20260523153600 -0500" stop="20260523162400 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Kilos mortales: Las hermanas Slaton</title>
-  <sub-title lang="es">La vida dulce y agria</sub-title>
-  </programme>
-  <programme start="20260523162400 -0500" stop="20260523171200 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Kilos mortales: Las hermanas Slaton</title>
-  <sub-title lang="es">No se puede pedir más de lo que tenemos</sub-title>
-  </programme>
-  <programme start="20260523171200 -0500" stop="20260523180000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Kilos mortales: Las hermanas Slaton</title>
-  <sub-title lang="es">No quiero hablar de eso</sub-title>
-  </programme>
-  <programme start="20260523180000 -0500" stop="20260523184800 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Kilos mortales: Las hermanas Slaton</title>
-  <sub-title lang="es">Lo que faltaba</sub-title>
-  </programme>
-  <programme start="20260523184800 -0500" stop="20260523193600 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Hermanas inseparables</title>
-  <sub-title lang="es">Tan felices juntas</sub-title>
-  </programme>
-  <programme start="20260523193600 -0500" stop="20260523202400 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Hermanas inseparables</title>
-  <sub-title lang="es">Amigas de embarazo</sub-title>
-  </programme>
-  <programme start="20260523202400 -0500" stop="20260523211200 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Hermanas inseparables</title>
-  <sub-title lang="es">Triple problema</sub-title>
-  </programme>
-  <programme start="20260523211200 -0500" stop="20260523220000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Hermanas inseparables</title>
-  <sub-title lang="es">Siempre hay un número uno</sub-title>
-  </programme>
-  <programme start="20260523220000 -0500" stop="20260523233600 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Todo en 90 días: ¿Felices por siempre?</title>
-  <sub-title lang="es">¿No es hermosa</sub-title>
-  </programme>
-  <programme start="20260523233600 -0500" stop="20260524002400 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Todo en 90 días casados en el extranjero</title>
-  <sub-title lang="es">Desconfianza, ella escribió</sub-title>
-  </programme>
-  <programme start="20260524002400 -0500" stop="20260524011200 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Mi gran boda gitana</title>
-  <sub-title lang="es">En el amor y la guerra, todo se vale</sub-title>
-  </programme>
-  <programme start="20260524011200 -0500" stop="20260524020000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Hermanas inseparables</title>
-  <sub-title lang="es">Triple problema</sub-title>
-  </programme>
-  <programme start="20260524020000 -0500" stop="20260524024800 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Hermanas inseparables</title>
-  <sub-title lang="es">Siempre hay un número uno</sub-title>
-  </programme>
-  <programme start="20260524024800 -0500" stop="20260524042400 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Todo en 90 días: ¿Felices por siempre?</title>
-  <sub-title lang="es">¿No es hermosa</sub-title>
-  </programme>
-  <programme start="20260524042400 -0500" stop="20260524051200 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Todo en 90 días casados en el extranjero</title>
-  <sub-title lang="es">Desconfianza, ella escribió</sub-title>
-  </programme>
-  <programme start="20260524051200 -0500" stop="20260524060000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">La Familia Plath</title>
-  <sub-title lang="es">Pantalones cortos diminutos</sub-title>
-  </programme>
-  <programme start="20260524060000 -0500" stop="20260524065000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Mi gran boda gitana</title>
-  <sub-title lang="es">Enfrentarse al altar</sub-title>
-  </programme>
-  <programme start="20260524065000 -0500" stop="20260524074000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Una Gran Familia</title>
-  <sub-title lang="es">Cejas y ansiedad</sub-title>
-  </programme>
-  <programme start="20260524074000 -0500" stop="20260524083000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Los Busby</title>
-  <sub-title lang="es">La batalla de las fotos</sub-title>
-  </programme>
-  <programme start="20260524083000 -0500" stop="20260524091500 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Una Gran Familia</title>
-  <sub-title lang="es">Aguas Turbulentas</sub-title>
-  </programme>
-  <programme start="20260524091500 -0500" stop="20260524100000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Una Gran Familia</title>
-  <sub-title lang="es">Hogar, dulce meditación</sub-title>
-  </programme>
-  <programme start="20260524100000 -0500" stop="20260524104800 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Gran-diosa</title>
-  <sub-title lang="es">Razones de tensión</sub-title>
-  </programme>
-  <programme start="20260524104800 -0500" stop="20260524113600 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">La Familia Plath</title>
-  <sub-title lang="es">La Propuesta</sub-title>
-  </programme>
-  <programme start="20260524113600 -0500" stop="20260524122400 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">La Familia Plath</title>
-  <sub-title lang="es">El Secreto</sub-title>
-  </programme>
-  <programme start="20260524122400 -0500" stop="20260524131200 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">La Familia Plath</title>
-  <sub-title lang="es">La charla</sub-title>
-  </programme>
-  <programme start="20260524131200 -0500" stop="20260524140000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">La Familia Plath</title>
-  <sub-title lang="es">La casa de invitados</sub-title>
-  </programme>
-  <programme start="20260524140000 -0500" stop="20260524144800 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">La Familia Plath</title>
-  <sub-title lang="es">El día antes del "Sí, acepto</sub-title>
-  </programme>
-  <programme start="20260524144800 -0500" stop="20260524153600 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">La Familia Plath</title>
-  <sub-title lang="es">El incidente</sub-title>
-  </programme>
-  <programme start="20260524153600 -0500" stop="20260524162400 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">La Familia Plath</title>
-  <sub-title lang="es">El ajuste de cuentas</sub-title>
-  </programme>
-  <programme start="20260524162400 -0500" stop="20260524171200 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Mundo Amish rompiendo las reglas</title>
-  <sub-title lang="es">Camino no andado</sub-title>
-  </programme>
-  <programme start="20260524171200 -0500" stop="20260524180000 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Mundo Amish rompiendo las reglas</title>
-  <sub-title lang="es">En fuga</sub-title>
-  </programme>
-  <programme start="20260524180000 -0500" stop="20260524184800 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Mundo Amish rompiendo las reglas</title>
-  <sub-title lang="es">Pecadores en la ciudad</sub-title>
-  </programme>
-  <programme start="20260524184800 -0500" stop="20260524193600 -0500" channel="Canal.TLC.(Ecuador).ec">
-  <title lang="es">Mundo Amish rompiendo las reglas</title>
-  <sub-title lang="es">Casa dividida</sub-title>
+  <programme start="20260527000000 +0000" stop="20260527020000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">Combate</title>
+  </programme>
+  <programme start="20260527020000 +0000" stop="20260527030000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">Corazón abandonado</title>
+  </programme>
+  <programme start="20260527030000 +0000" stop="20260527040000 +0000" channel="RTS.ec">
+  <category lang="es">Business</category>
+  <title lang="es">La noticia</title>
+  </programme>
+  <programme start="20260527040000 +0000" stop="20260527043000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">Copa</title>
+  </programme>
+  <programme start="20260527043000 +0000" stop="20260527050000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">Nueva novia</title>
+  </programme>
+  <programme start="20260527050000 +0000" stop="20260527060000 +0000" channel="RTS.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Fear the Walking Dead</title>
+  </programme>
+  <programme start="20260527060000 +0000" stop="20260527080000 +0000" channel="RTS.ec">
+  <category lang="es">Wrestling</category>
+  <category>Sports</category>
+  <title lang="es">Lucha Libre</title>
+  </programme>
+  <programme start="20260527080000 +0000" stop="20260527090000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">Ecuador multicolor</title>
+  </programme>
+  <programme start="20260527090000 +0000" stop="20260527100000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">Educa</title>
+  </programme>
+  <programme start="20260527100000 +0000" stop="20260527110000 +0000" channel="RTS.ec">
+  <category lang="es">Business</category>
+  <title lang="es">La noticia</title>
+  </programme>
+  <programme start="20260527110000 +0000" stop="20260527120000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">El despertar de la noticia</title>
+  </programme>
+  <programme start="20260527120000 +0000" stop="20260527130000 +0000" channel="RTS.ec">
+  <category lang="es">Business</category>
+  <title lang="es">La noticia</title>
+  </programme>
+  <programme start="20260527130000 +0000" stop="20260527143000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">La noticia en la comunidad</title>
+  </programme>
+  <programme start="20260527143000 +0000" stop="20260527160000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">Noticias de la mañana</title>
+  </programme>
+  <programme start="20260527160000 +0000" stop="20260527170000 +0000" channel="RTS.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20260527170000 +0000" stop="20260527180000 +0000" channel="RTS.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Elif</title>
+  </programme>
+  <programme start="20260527180000 +0000" stop="20260527190000 +0000" channel="RTS.ec">
+  <category lang="es">Soap Opera</category>
+  <title lang="es">La rosa de Guadalupe</title>
+  </programme>
+  <programme start="20260527190000 +0000" stop="20260527200000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">Laura</title>
+  </programme>
+  <programme start="20260527200000 +0000" stop="20260527210000 +0000" channel="RTS.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Legado de amor</title>
+  </programme>
+  <programme start="20260527210000 +0000" stop="20260527220000 +0000" channel="RTS.ec">
+  <category lang="es">Romance</category>
+  <title lang="es">Nazaré</title>
+  </programme>
+  <programme start="20260527220000 +0000" stop="20260527230000 +0000" channel="RTS.ec">
+  <category lang="es">default</category>
+  <title lang="es">Caso cerrado</title>
+  </programme>
+  <programme start="20260524190000 +0000" stop="20260524230000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Producción independiente</title>
+  </programme>
+  <programme start="20260524230000 +0000" stop="20260525010000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Producción independiente</title>
+  </programme>
+  <programme start="20260525010000 +0000" stop="20260525020000 +0000" channel="RTU.ec">
+  <category lang="es">Music</category>
+  <title lang="es">Tu Música</title>
+  </programme>
+  <programme start="20260525020000 +0000" stop="20260525023000 +0000" channel="RTU.ec">
+  <category lang="es">Business/Financial</category>
+  <title lang="es">Caso de éxito</title>
+  </programme>
+  <programme start="20260525023000 +0000" stop="20260525023000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Producción independiente</title>
+  </programme>
+  <programme start="20260525023000 +0000" stop="20260525053000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Producción independiente</title>
+  </programme>
+  <programme start="20260525053000 +0000" stop="20260525090000 +0000" channel="RTU.ec">
+  <category lang="es">Music</category>
+  <title lang="es">Tu Música</title>
+  </programme>
+  <programme start="20260525090000 +0000" stop="20260525110000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Producción independiente</title>
+  </programme>
+  <programme start="20260525110000 +0000" stop="20260525130000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">RTU Noticias</title>
+  </programme>
+  <programme start="20260525130000 +0000" stop="20260525140000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Crónicas 3.0</title>
+  </programme>
+  <programme start="20260525140000 +0000" stop="20260525150000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">RTU Noticias</title>
+  </programme>
+  <programme start="20260525150000 +0000" stop="20260525160000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Vis à vis</title>
+  </programme>
+  <programme start="20260525160000 +0000" stop="20260525163000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">RTU Noticias</title>
+  </programme>
+  <programme start="20260525163000 +0000" stop="20260525164500 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Producción independiente</title>
+  </programme>
+  <programme start="20260525164500 +0000" stop="20260525190000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">RTU Noticias</title>
+  </programme>
+  <programme start="20260525190000 +0000" stop="20260525220000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Producción independiente</title>
+  </programme>
+  <programme start="20260525220000 +0000" stop="20260525230000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">RTU Noticias</title>
+  </programme>
+  <programme start="20260525230000 +0000" stop="20260526000000 +0000" channel="RTU.ec">
+  <category lang="es">How-To</category>
+  <title lang="es">Luz en Casa</title>
+  </programme>
+  <programme start="20260526000000 +0000" stop="20260526010000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">RTU Noticias</title>
+  </programme>
+  <programme start="20260526010000 +0000" stop="20260526020000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Crónicas 3.0</title>
+  </programme>
+  <programme start="20260526020000 +0000" stop="20260526030000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Los Irreverentes</title>
+  </programme>
+  <programme start="20260526030000 +0000" stop="20260526040000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Vera ¡A su manera!</title>
+  </programme>
+  <programme start="20260526040000 +0000" stop="20260526040000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Producción independiente</title>
+  </programme>
+  <programme start="20260526040000 +0000" stop="20260526110000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Producción independiente</title>
+  </programme>
+  <programme start="20260526110000 +0000" stop="20260526130000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">RTU Noticias</title>
+  </programme>
+  <programme start="20260526130000 +0000" stop="20260526140000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Crónicas 3.0</title>
+  </programme>
+  <programme start="20260526140000 +0000" stop="20260526150000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">RTU Noticias</title>
+  </programme>
+  <programme start="20260526150000 +0000" stop="20260526160000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Vis à vis</title>
+  </programme>
+  <programme start="20260526160000 +0000" stop="20260526163000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">RTU Noticias</title>
+  </programme>
+  <programme start="20260526163000 +0000" stop="20260526164500 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Producción independiente</title>
+  </programme>
+  <programme start="20260526164500 +0000" stop="20260526190000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">RTU Noticias</title>
+  </programme>
+  <programme start="20260526190000 +0000" stop="20260526220000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Producción independiente</title>
+  </programme>
+  <programme start="20260526220000 +0000" stop="20260526230000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">RTU Noticias</title>
+  </programme>
+  <programme start="20260526230000 +0000" stop="20260527000000 +0000" channel="RTU.ec">
+  <category lang="es">How-To</category>
+  <title lang="es">Luz en Casa</title>
+  </programme>
+  <programme start="20260527000000 +0000" stop="20260527010000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">RTU Noticias</title>
+  </programme>
+  <programme start="20260527010000 +0000" stop="20260527020000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Crónicas 3.0</title>
+  </programme>
+  <programme start="20260527020000 +0000" stop="20260527030000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Los Irreverentes</title>
+  </programme>
+  <programme start="20260527030000 +0000" stop="20260527040000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Vera ¡A su manera!</title>
+  </programme>
+  <programme start="20260527040000 +0000" stop="20260527040000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Producción independiente</title>
+  </programme>
+  <programme start="20260527040000 +0000" stop="20260527110000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Producción independiente</title>
+  </programme>
+  <programme start="20260527110000 +0000" stop="20260527130000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">RTU Noticias</title>
+  </programme>
+  <programme start="20260527130000 +0000" stop="20260527140000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Crónicas 3.0</title>
+  </programme>
+  <programme start="20260527140000 +0000" stop="20260527150000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">RTU Noticias</title>
+  </programme>
+  <programme start="20260527150000 +0000" stop="20260527160000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Vis à vis</title>
+  </programme>
+  <programme start="20260527160000 +0000" stop="20260527163000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">RTU Noticias</title>
+  </programme>
+  <programme start="20260527163000 +0000" stop="20260527164500 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Producción independiente</title>
+  </programme>
+  <programme start="20260527164500 +0000" stop="20260527190000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">RTU Noticias</title>
+  </programme>
+  <programme start="20260527190000 +0000" stop="20260527220000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">Producción independiente</title>
+  </programme>
+  <programme start="20260527220000 +0000" stop="20260527230000 +0000" channel="RTU.ec">
+  <category lang="es">default</category>
+  <title lang="es">RTU Noticias</title>
+  </programme>
+  <programme start="20260524170000 +0000" stop="20260524173000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Children</category>
+  <title lang="es">El Chapulín Colorado</title>
+  </programme>
+  <programme start="20260524173000 +0000" stop="20260524180000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">El Chavo del ocho</title>
+  </programme>
+  <programme start="20260524180000 +0000" stop="20260524190000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">24 Horas dominical: Emisión central</title>
+  </programme>
+  <programme start="20260524190000 +0000" stop="20260524200000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Animals</category>
+  <title lang="es">Documentales de animales</title>
+  </programme>
+  <programme start="20260524200000 +0000" stop="20260524201500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Cartoons</category>
+  <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20260524201500 +0000" stop="20260524203000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Soccer</category>
+  <category>Sports</category>
+  <title lang="es">Fútbol: Previa</title>
+  </programme>
+  <programme start="20260524203000 +0000" stop="20260524222500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Soccer</category>
+  <category>Sports</category>
+  <title lang="es">C.S. Emelec vs. Macará</title>
+  </programme>
+  <programme start="20260524222500 +0000" stop="20260524223500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Soccer</category>
+  <category>Sports</category>
+  <title lang="es">Fútbol: Post</title>
+  </programme>
+  <programme start="20260524223500 +0000" stop="20260524230000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Cartoons</category>
+  <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20260524230000 +0000" stop="20260525010000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Animation</category>
+  <title lang="es">Unidos</title>
+  </programme>
+  <programme start="20260525010000 +0000" stop="20260525020000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">24 Horas dominical: Emisión estelar</title>
+  </programme>
+  <programme start="20260525020000 +0000" stop="20260525030000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">El buscador en red</title>
+  </programme>
+  <programme start="20260525030000 +0000" stop="20260525040000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">El buscador en red</title>
+  </programme>
+  <programme start="20260525040000 +0000" stop="20260525043000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Soccer</category>
+  <category>Sports</category>
+  <title lang="es">Deporte total</title>
+  </programme>
+  <programme start="20260525043000 +0000" stop="20260525050000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">En corto</title>
+  </programme>
+  <programme start="20260525050000 +0000" stop="20260525054500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Ley y orden: Unidad de Víctimas Especiales</title>
+  </programme>
+  <programme start="20260525054500 +0000" stop="20260525063000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">24 Horas dominical: Emisión estelar</title>
+  </programme>
+  <programme start="20260525063000 +0000" stop="20260525071500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">Día a día</title>
+  </programme>
+  <programme start="20260525071500 +0000" stop="20260525080000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">El buscador en red</title>
+  </programme>
+  <programme start="20260525080000 +0000" stop="20260525083000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Talk</category>
+  <title lang="es">Deporte total</title>
+  </programme>
+  <programme start="20260525083000 +0000" stop="20260525090000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">En corto</title>
+  </programme>
+  <programme start="20260525090000 +0000" stop="20260525093000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">La familia P. Luche</title>
+  </programme>
+  <programme start="20260525093000 +0000" stop="20260525100000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">Derbez en Cuando</title>
+  </programme>
+  <programme start="20260525100000 +0000" stop="20260525103000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Children</category>
+  <title lang="es">El Chapulín Colorado</title>
+  </programme>
+  <programme start="20260525103000 +0000" stop="20260525105500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Comedy</category>
+  <title lang="es">El Chavo del 8</title>
+  </programme>
+  <programme start="20260525105500 +0000" stop="20260525123000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Animation</category>
+  <title lang="es">Alfa y Omega</title>
+  </programme>
+  <programme start="20260525123000 +0000" stop="20260525143000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Animation</category>
+  <title lang="es">La vuelta al mundo en 80 días</title>
+  </programme>
+  <programme start="20260525143000 +0000" stop="20260525160000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Animation</category>
+  <title lang="es">Parque mágico</title>
+  </programme>
+  <programme start="20260525160000 +0000" stop="20260525180000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Fantasy</category>
+  <title lang="es">El último maestro del aire</title>
+  </programme>
+  <programme start="20260525180000 +0000" stop="20260525190000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">24 Horas: Emisión central</title>
+  </programme>
+  <programme start="20260525190000 +0000" stop="20260525193000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Soccer</category>
+  <category>Sports</category>
+  <title lang="es">Deporte total</title>
+  </programme>
+  <programme start="20260525193000 +0000" stop="20260525200000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Animation</category>
+  <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20260525200000 +0000" stop="20260525204500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Animation</category>
+  <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20260525204500 +0000" stop="20260525224500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Comedy</category>
+  <title lang="es">La familia de mi novia</title>
+  </programme>
+  <programme start="20260525224500 +0000" stop="20260526000000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Romance</category>
+  <title lang="es">La historia de Juana</title>
+  </programme>
+  <programme start="20260526000000 +0000" stop="20260526010000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">100 ecuatorianos dicen</title>
+  </programme>
+  <programme start="20260526010000 +0000" stop="20260526020000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">24 horas: Emisión estelar</title>
+  </programme>
+  <programme start="20260526020000 +0000" stop="20260526033000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">¡Ahora caigo!</title>
+  </programme>
+  <programme start="20260526033000 +0000" stop="20260526040000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Comedy</category>
+  <title lang="es">El after</title>
+  </programme>
+  <programme start="20260526040000 +0000" stop="20260526050000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Romance</category>
+  <title lang="es">100 días para enamorarnos</title>
+  </programme>
+  <programme start="20260526050000 +0000" stop="20260526063000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Action/Adventure</category>
+  <title lang="es">CSI</title>
+  </programme>
+  <programme start="20260526063000 +0000" stop="20260526074500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">¡Ahora caigo!</title>
+  </programme>
+  <programme start="20260526074500 +0000" stop="20260526083000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">24 horas: Emisión estelar</title>
+  </programme>
+  <programme start="20260526083000 +0000" stop="20260526084500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">Entrevistas en 24 horas</title>
+  </programme>
+  <programme start="20260526084500 +0000" stop="20260526093000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Karsu</title>
+  </programme>
+  <programme start="20260526093000 +0000" stop="20260526094500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">La familia P. Luche</title>
+  </programme>
+  <programme start="20260526094500 +0000" stop="20260526100000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">Derbez en Cuando</title>
+  </programme>
+  <programme start="20260526100000 +0000" stop="20260526103000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Children</category>
+  <title lang="es">El Chapulín Colorado</title>
+  </programme>
+  <programme start="20260526103000 +0000" stop="20260526105500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Comedy</category>
+  <title lang="es">El Chavo del 8</title>
+  </programme>
+  <programme start="20260526105500 +0000" stop="20260526120000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">24 horas 1ra emisión local</title>
+  </programme>
+  <programme start="20260526120000 +0000" stop="20260526123000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">24 horas nacional</title>
+  </programme>
+  <programme start="20260526123000 +0000" stop="20260526130000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">Entrevistas en 24 horas</title>
+  </programme>
+  <programme start="20260526130000 +0000" stop="20260526143000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">24 horas: 2da emisión local</title>
+  </programme>
+  <programme start="20260526143000 +0000" stop="20260526170000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">esTAmañana</title>
+  </programme>
+  <programme start="20260526170000 +0000" stop="20260526180000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Por amar sin ley</title>
+  </programme>
+  <programme start="20260526180000 +0000" stop="20260526185000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">24 Horas: Emisión central</title>
+  </programme>
+  <programme start="20260526185000 +0000" stop="20260526193000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">Comunidad</title>
+  </programme>
+  <programme start="20260526193000 +0000" stop="20260526194000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">En corto</title>
+  </programme>
+  <programme start="20260526194000 +0000" stop="20260526201000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Soccer</category>
+  <category>Sports</category>
+  <title lang="es">Deporte total</title>
+  </programme>
+  <programme start="20260526201000 +0000" stop="20260526204500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Animation</category>
+  <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20260526204500 +0000" stop="20260526211500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Children</category>
+  <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20260526211500 +0000" stop="20260526214500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Animation</category>
+  <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20260526214500 +0000" stop="20260526221500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Children</category>
+  <title lang="es">El Chapulín Colorado</title>
+  </programme>
+  <programme start="20260526221500 +0000" stop="20260526224500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Comedy</category>
+  <title lang="es">El Chavo del 8</title>
+  </programme>
+  <programme start="20260526224500 +0000" stop="20260527000000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Romance</category>
+  <title lang="es">La historia de Juana</title>
+  </programme>
+  <programme start="20260527000000 +0000" stop="20260527010000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">100 ecuatorianos dicen</title>
+  </programme>
+  <programme start="20260527010000 +0000" stop="20260527020000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">24 horas: Emisión estelar</title>
+  </programme>
+  <programme start="20260527020000 +0000" stop="20260527033000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">¡Ahora caigo!</title>
+  </programme>
+  <programme start="20260527033000 +0000" stop="20260527040000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Comedy</category>
+  <title lang="es">El after</title>
+  </programme>
+  <programme start="20260527040000 +0000" stop="20260527050000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Romance</category>
+  <title lang="es">100 días para enamorarnos</title>
+  </programme>
+  <programme start="20260527050000 +0000" stop="20260527063000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Action/Adventure</category>
+  <title lang="es">CSI</title>
+  </programme>
+  <programme start="20260527063000 +0000" stop="20260527074500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">¡Ahora caigo!</title>
+  </programme>
+  <programme start="20260527074500 +0000" stop="20260527083000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">24 horas: Emisión estelar</title>
+  </programme>
+  <programme start="20260527083000 +0000" stop="20260527084500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">Entrevistas en 24 horas</title>
+  </programme>
+  <programme start="20260527084500 +0000" stop="20260527093000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Karsu</title>
+  </programme>
+  <programme start="20260527093000 +0000" stop="20260527094500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">La familia P. Luche</title>
+  </programme>
+  <programme start="20260527094500 +0000" stop="20260527100000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">Derbez en Cuando</title>
+  </programme>
+  <programme start="20260527100000 +0000" stop="20260527103000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Children</category>
+  <title lang="es">El Chapulín Colorado</title>
+  </programme>
+  <programme start="20260527103000 +0000" stop="20260527105500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Comedy</category>
+  <title lang="es">El Chavo del 8</title>
+  </programme>
+  <programme start="20260527105500 +0000" stop="20260527120000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">24 horas 1ra emisión local</title>
+  </programme>
+  <programme start="20260527120000 +0000" stop="20260527123000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">24 horas nacional</title>
+  </programme>
+  <programme start="20260527123000 +0000" stop="20260527130000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">Entrevistas en 24 horas</title>
+  </programme>
+  <programme start="20260527130000 +0000" stop="20260527143000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">24 horas: 2da emisión local</title>
+  </programme>
+  <programme start="20260527143000 +0000" stop="20260527170000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">esTAmañana</title>
+  </programme>
+  <programme start="20260527170000 +0000" stop="20260527180000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Drama</category>
+  <title lang="es">Por amar sin ley</title>
+  </programme>
+  <programme start="20260527180000 +0000" stop="20260527185000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">24 Horas: Emisión central</title>
+  </programme>
+  <programme start="20260527185000 +0000" stop="20260527193000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">Comunidad</title>
+  </programme>
+  <programme start="20260527193000 +0000" stop="20260527194000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">default</category>
+  <title lang="es">En corto</title>
+  </programme>
+  <programme start="20260527194000 +0000" stop="20260527201000 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Soccer</category>
+  <category>Sports</category>
+  <title lang="es">Deporte total</title>
+  </programme>
+  <programme start="20260527201000 +0000" stop="20260527204500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Animation</category>
+  <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20260527204500 +0000" stop="20260527211500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Children</category>
+  <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20260527211500 +0000" stop="20260527214500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Animation</category>
+  <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20260527214500 +0000" stop="20260527221500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Children</category>
+  <title lang="es">El Chapulín Colorado</title>
+  </programme>
+  <programme start="20260527221500 +0000" stop="20260527224500 +0000" channel="Teleamazonas.ec">
+  <category lang="es">Comedy</category>
+  <title lang="es">El Chavo del 8</title>
   </programme>
 </tv>
