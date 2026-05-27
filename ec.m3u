@@ -1,82 +1,90 @@
 #EXTM3U url-tvg="https://applications-prupo.github.io/iptv/epg/epg.xml"
 
 # ═════════════════════════════════════════════════════
-# 🇪🇨 📺 TV NACIONAL ECUADOR
+# 🇪🇨 CANALES DE ECUADOR
 # ═════════════════════════════════════════════════════
 
-#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/fZbDiZq.jpeg" group-title="TV Nacional Ecuador",Ecuavisa Guayaquil
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/fZbDiZq.jpeg" group-title="Canales de Ecuador",Ecuavisa Guayaquil
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 
-#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/vcTH4Iy.jpeg" group-title="TV Nacional Ecuador",Ecuavisa Quito
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/vcTH4Iy.jpeg" group-title="Canales de Ecuador",Ecuavisa Quito
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/2NRiRGF63ZCx5buMuYgYX0ghIoh7TinuYZ7sDe4QufcB5mSDEhdpq21WZF1Y6PAjJdkiKBAPWt8ZsQmzAyyv1HT64hHE14CpK7V36V3ysJeCS1dHFeQ" tvg-id="Teleamazonas.ec" group-title="TV Nacional Ecuador",Teleamazonas
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/2NRiRGF63ZCx5buMuYgYX0ghIoh7TinuYZ7sDe4QufcB5mSDEhdpq21WZF1Y6PAjJdkiKBAPWt8ZsQmzAyyv1HT64hHE14CpK7V36V3ysJeCS1dHFeQ" tvg-id="Teleamazonas.ec" group-title="Canales de Ecuador",Teleamazonas
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/746CR1BLmBkbov1b-yWJGN2k7RC6l0KGmy6mj6lYFsSzGwsiPaeBKvjG1zI7T3TTiTcCj8exZcrJMZ9WEn5FwpCwEoCLUv21qdq5Jdk" tvg-id="RTS.ec" group-title="TV Nacional Ecuador",RTS
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/746CR1BLmBkbov1b-yWJGN2k7RC6l0KGmy6mj6lYFsSzGwsiPaeBKvjG1zI7T3TTiTcCj8exZcrJMZ9WEn5FwpCwEoCLUv21qdq5Jdk" tvg-id="RTS.ec" group-title="Canales de Ecuador",RTS
 https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/koMQZNX.png" tvg-id="Canal.ESNE.TV.ec" group-title="TV Nacional Ecuador",Hechos Ecuador
+#EXTINF:-1 tvg-logo="https://i.imgur.com/koMQZNX.png" tvg-id="Canal.ESNE.TV.ec" group-title="Canales de Ecuador",Hechos Ecuador
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
 
-#EXTINF:-1 group-title="TV Nacional Ecuador",Canal 1
+#EXTINF:-1 group-title="Canales de Ecuador",Canal 1
 https://stmv6.voxtvhd.com.br/sonorama/sonorama/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/TuULmH0fQLmVyRzO8U9wIKcXMdBhXThuZWq3Nv9h-VGN3wlX3oJrr7YsNWBNQlcv-83ZoLFO_xnapJ9hWGaMZ4UahtmfRsFKTw3NiPAM" tvg-id="Canal.TC.TelevisiÃ³n.ec" group-title="TV Nacional Ecuador",TC Televisión
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/TuULmH0fQLmVyRzO8U9wIKcXMdBhXThuZWq3Nv9h-VGN3wlX3oJrr7YsNWBNQlcv-83ZoLFO_xnapJ9hWGaMZ4UahtmfRsFKTw3NiPAM" tvg-id="Canal.TC.TelevisiÃ³n.ec" group-title="Canales de Ecuador",TC Televisión
 http://170.244.209.30:8000/play/a0uc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/TuULmH0fQLmVyRzO8U9wIKcXMdBhXThuZWq3Nv9h-VGN3wlX3oJrr7YsNWBNQlcv-83ZoLFO_xnapJ9hWGaMZ4UahtmfRsFKTw3NiPAM" tvg-id="Canal.TC.TelevisiÃ³n.ec" group-title="TV Nacional Ecuador",TC LIKETV
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/TuULmH0fQLmVyRzO8U9wIKcXMdBhXThuZWq3Nv9h-VGN3wlX3oJrr7YsNWBNQlcv-83ZoLFO_xnapJ9hWGaMZ4UahtmfRsFKTw3NiPAM" tvg-id="Canal.TC.TelevisiÃ³n.ec" group-title="Canales de Ecuador",TC LIKETV
 http://205.235.6.29:8000/play/a0ya/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Hc_mThZrJj_aM6hauqoov1hCujM3NstUvPtFHSnrHsSxIRJrqsYySXMIP9d3Fx5MhoIDqGCM6uoJ03ceZjAcxGGSwnOo4_Qwj8DFAY0" tvg-id="RTU.ec" group-title="TV Nacional Ecuador",RTU
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Hc_mThZrJj_aM6hauqoov1hCujM3NstUvPtFHSnrHsSxIRJrqsYySXMIP9d3Fx5MhoIDqGCM6uoJ03ceZjAcxGGSwnOo4_Qwj8DFAY0" tvg-id="RTU.ec" group-title="Canales de Ecuador",RTU
 https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
 
-# ═════════════════════════════════════════════════════
-# 📰 🎙️ NOTICIAS ECUADOR
-# ═════════════════════════════════════════════════════
-
-#EXTINF:-1 tvg-id="Ecuador.TV.ec" group-title="Noticias Ecuador",Ecuador TV
+#EXTINF:-1 tvg-id="Ecuador.TV.ec" group-title="Canales de Ecuador",Ecuador TV
 https://samson.streamerr.co:8081/shogun/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/1fjVkPdWULQ8bg_XKkRlJ0eEcfZxn6rVBbEwUOi3lhg_m5bvdHjhYWRo3UkA9Jc_0OjF3hxDP08Wnji7X6mtgEuQ9LF9u-WLkaSmZFwasH1pFw" tvg-id="OromarTV.ec" group-title="Noticias Ecuador",Oromar TV
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/1fjVkPdWULQ8bg_XKkRlJ0eEcfZxn6rVBbEwUOi3lhg_m5bvdHjhYWRo3UkA9Jc_0OjF3hxDP08Wnji7X6mtgEuQ9LF9u-WLkaSmZFwasH1pFw" tvg-id="OromarTV.ec" group-title="Canales de Ecuador",Oromar TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1 group-title="Noticias Ecuador",Canal Sur
+#EXTINF:-1 group-title="Canales de Ecuador",Canal Sur
 https://avm.ecuamedia.net/canalsur/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Noticias Ecuador",Telesucesos
+#EXTINF:-1 group-title="Canales de Ecuador",Telesucesos
 https://ticsbalancer.ticsecuador.com.ec:4444/TeleSucesos/streams/UIO-HD_adaptive.m3u8
 
-#EXTINF:-1 group-title="Noticias Ecuador",RTV Riobamba
+#EXTINF:-1 group-title="Canales de Ecuador",RTV Riobamba
 https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
 
-# ═════════════════════════════════════════════════════
-# 📍 🗺️ REGIONALES ECUADOR
-# ═════════════════════════════════════════════════════
-
-#EXTINF:-1 group-title="Regionales Ecuador",Asomavisión
+#EXTINF:-1 group-title="Canales de Ecuador",Asomavisión
 https://asomatv.cloud-ip.cc/livestream/stream.m3u8
 
-#EXTINF:-1 group-title="Regionales Ecuador",Austral TV
+#EXTINF:-1 group-title="Canales de Ecuador",Austral TV
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
-#EXTINF:-1 group-title="Regionales Ecuador",Bacán Te Veo
+#EXTINF:-1 group-title="Canales de Ecuador",Bacán Te Veo
 https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
 
-#EXTINF:-1 group-title="Regionales Ecuador",Colorados Visión TV
+#EXTINF:-1 group-title="Canales de Ecuador",Colorados Visión TV
 http://177.234.247.66:9975/ColoradosTV/index.m3u8
 
-#EXTINF:-1 group-title="Regionales Ecuador",Latacunga TV
+#EXTINF:-1 group-title="Canales de Ecuador",Latacunga TV
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 
-#EXTINF:-1 group-title="Regionales Ecuador",Nortvisión
+#EXTINF:-1 group-title="Canales de Ecuador",Nortvisión
 https://server.asilivehd.com:3242/live/nortvisionlive.m3u8
 
-#EXTINF:-1 group-title="Regionales Ecuador",Puruwa TV
+#EXTINF:-1 group-title="Canales de Ecuador",Puruwa TV
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
 
-#EXTINF:-1 group-title="Regionales Ecuador",Zaracay TV
+#EXTINF:-1 group-title="Canales de Ecuador",Zaracay TV
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+
+# ═════════════════════════════════════════════════════
+# 👶 INFANTIL / DIBUJOS ANIMADOS
+# ═════════════════════════════════════════════════════
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5be31b1c67d716259f9c73d2/colorLogoFeatured.png" group-title="Infantil / Dibujos Animados",Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be31b1c67d716259f9c73d2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5be31b7967d716259f9c73d6/colorLogoFeatured.png" group-title="Infantil / Dibujos Animados",Pluto TV Junior
+https://service-stitcher.clusters.pluna.tv/stitch/hls/channel/5be31b7967d716259f9c73d6/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e3b08e5814bfb0007fe88f4/colorLogoFeatured.png" group-title="Infantil / Dibujos Animados",Pocoyó Completo FAST
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3b08e5814bfb0007fe88f4/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e3b0a70814bfb0007fe898d/colorLogoFeatured.png" group-title="Infantil / Dibujos Animados",Anime Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3b0a70814bfb0007fe898d/master.m3u8
 
 # ═════════════════════════════════════════════════════
 # ⚽ 🏆 DEPORTES
@@ -101,70 +109,70 @@ https://ott-live.olympicchannel.com/out/out/OC1/master.m3u8
 https://gma2.blab.email/espn2.m3u8
 
 # ═════════════════════════════════════════════════════
-# 🌐 🌍 INTERNACIONALES
+# 🇲🇽 CANALES DE MÉXICO
 # ═════════════════════════════════════════════════════
 
-#EXTINF:-1 group-title="Internacionales",Univisión
+#EXTINF:-1 group-title="Canales de México",Univisión
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
-#EXTINF:-1 group-title="Internacionales",Las Estrellas
+#EXTINF:-1 group-title="Canales de México",Las Estrellas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Internacionales",Canal de las Estrellas OnlyMex
+#EXTINF:-1 group-title="Canales de México",Canal de las Estrellas OnlyMex
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 
-#EXTINF:-1 group-title="Internacionales",Telediario Now
+#EXTINF:-1 group-title="Canales de México",Telediario Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
-#EXTINF:-1 group-title="Internacionales",Multimedios
+#EXTINF:-1 group-title="Canales de México",Multimedios
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-#EXTINF:-1 group-title="Internacionales",ATV Perú
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 group-title="Internacionales",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 group-title="Internacionales",France 24 English
-https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-id="Canal.DW.(LatinoamÃ©rica).ec" group-title="Internacionales",DW Español
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@124409/master.m3u8
-
-#EXTINF:-1 group-title="Internacionales",NHK World Japan
-https://nhkworld-tv.akamaized.net/hls/live/2003458/nhkworld-tv/index.m3u8
-
-#EXTINF:-1 group-title="Internacionales",Bloomberg TV
-https://bloomberg-bloomberg-1-br.samsung.wurl.com/manifest/playlist.m3u8
-
 # ═════════════════════════════════════════════════════
-# 🧬 🚗 DISCOVERY Y DOCUMENTALES
+# 🎬 🍿 PELÍCULAS, SERIES Y DOCUMENTALES
 # ═════════════════════════════════════════════════════
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Science.(LatinoamÃ©rica).ec" group-title="Discovery y Documentales",Discovery Channel FAST
+#EXTINF:-1 tvg-id="Canal.Discovery.Science.(LatinoamÃ©rica).ec" group-title="Películas, Series y Documentales",Discovery Channel FAST
 https://fl3.moveonjoy.com/DISCOVERY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Animal.Planet.(Ecuador).ec" group-title="Discovery y Documentales",Animal Planet FAST
+#EXTINF:-1 tvg-id="Canal.Animal.Planet.(Ecuador).ec" group-title="Películas, Series y Documentales",Animal Planet FAST
 https://fl3.moveonjoy.com/ANIMAL_PLANET/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.TLC.(Ecuador).ec" group-title="Discovery y Documentales",TLC FAST
+#EXTINF:-1 tvg-id="Canal.TLC.(Ecuador).ec" group-title="Películas, Series y Documentales",TLC FAST
 https://fl3.moveonjoy.com/TLC/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Science.(LatinoamÃ©rica).ec" group-title="Discovery y Documentales",Discovery Science
+#EXTINF:-1 tvg-id="Canal.Discovery.Science.(LatinoamÃ©rica).ec" group-title="Películas, Series y Documentales",Discovery Science
 https://fl3.moveonjoy.com/DISCOVERY_SCIENCE/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Turbo.(LatinoamÃ©rica).ec" group-title="Discovery y Documentales",Discovery Turbo
+#EXTINF:-1 tvg-id="Canal.Discovery.Turbo.(LatinoamÃ©rica).ec" group-title="Películas, Series y Documentales",Discovery Turbo
 https://fl3.moveonjoy.com/DISCOVERY_TURBO/index.m3u8
 
-# ═════════════════════════════════════════════════════
-# 🎬 🍿 PELICULAS Y SERIES
-# ═════════════════════════════════════════════════════
-
-#EXTINF:-1 group-title="Peliculas y Series",Runtime Movies
+#EXTINF:-1 group-title="Películas, Series y Documentales",Runtime Movies
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
-#EXTINF:-1 group-title="Peliculas y Series",Pluto TV Cine
+#EXTINF:-1 group-title="Películas, Series y Documentales",Pluto TV Cine
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f49c9a0800097ae6c2/master.m3u8
 
-#EXTINF:-1 group-title="Peliculas y Series",Canela Cinema
+#EXTINF:-1 group-title="Películas, Series y Documentales",Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+
+# ═════════════════════════════════════════════════════
+# 🌐 NOTICIAS INTERNACIONALES
+# ═════════════════════════════════════════════════════
+
+#EXTINF:-1 group-title="Noticias Internacionales",ATV Perú
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 group-title="Noticias Internacionales",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="Noticias Internacionales",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="Canal.DW.(LatinoamÃ©rica).ec" group-title="Noticias Internacionales",DW Español
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@124409/master.m3u8
+
+#EXTINF:-1 group-title="Noticias Internacionales",NHK World Japan
+https://nhkworld-tv.akamaized.net/hls/live/2003458/nhkworld-tv/index.m3u8
+
+#EXTINF:-1 group-title="Noticias Internacionales",Bloomberg TV
+https://bloomberg-bloomberg-1-br.samsung.wurl.com/manifest/playlist.m3u8
