@@ -31,10 +31,10 @@ http://205.235.6.29:8000/play/a0ya/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Hc_mThZrJj_aM6hauqoov1hCujM3NstUvPtFHSnrHsSxIRJrqsYySXMIP9d3Fx5MhoIDqGCM6uoJ03ceZjAcxGGSwnOo4_Qwj8DFAY0" tvg-id="RTU.ec" group-title="🇪🇨 ECUADOR",RTU
 https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
 
-#EXTINF:-1 tvg-id="Ecuador.TV.ec" group-title="🇪🇨 ECUADOR",Ecuador TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SaNdwRM.png" tvg-id="Ecuador.TV.ec" group-title="🇪🇨 ECUADOR",Ecuador TV
 https://samson.streamerr.co:8081/shogun/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/1fjVkPdWULQ8bg_XKkRlJ0eEcfZxn6rVBbEwUOi3lhg_m5bvdHjhYWRo3UkA9Jc_0OjF3hxDP08Wnji7X6mtgEuQ9LF9u-WLkaSmZFwasH1pFw" tvg-id="OromarTV.ec" group-title="🇪🇨 ECUADOR",Oromar TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zT68Yiy.jpeg" tvg-id="OromarTV.ec" group-title="🇪🇨 ECUADOR",Oromar TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-1 group-title="🇪🇨 ECUADOR",Canal Sur
