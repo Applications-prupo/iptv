@@ -92,11 +92,14 @@ http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
 #EXTINF:-1 tvg-id="AMCLatinAmerica.ec" group-title="🍿 CINE & SERIES",AMC HD
 http://148.222.230.144:8000/play/a05y/index.m3u8
 
-#EXTINF:-1 group-title="🍿 CINE & SERIES",AMC Series
-http://152.230.246.26:8001/play/a03h/index.m3u8
-
 #EXTINF:-1 tvg-id="AandEAndes.ec" group-title="🍿 CINE & SERIES",A&E HD
-http://152.230.246.26:8001/play/a00f/index.m3u8
+http://190.60.55.141:9083/play/a0eo/index.m3u8
+
+#EXTINF:-1 group-title="🍿 CINE & SERIES" , AMC HD
+http://190.60.55.141:9083/play/a0et/index.m3u8
+
+#EXTINF:-1 group-title="🍿 CINE & SERIES" , AMC Series
+http://190.60.55.141:9083/play/a0hl/index.m3u8
 
 # =====================================================
 # 🧬 DOCUMENTALES & MOTOR
