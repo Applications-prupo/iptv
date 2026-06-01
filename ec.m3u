@@ -73,125 +73,435 @@ https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 # =====================================================
 # 🍿 CINE & SERIES
 # =====================================================
-
-#EXTINF:-1 group-title="🍿 CINE & SERIES",Runtime Movies
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-
+#EXTINF:-1 group-title="🍿 CINE & SERIES",A&E
+http://45.166.93.156:9999/play/a08b/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",A3CINE
+http://45.166.93.156:9999/play/a0ju/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",AMC
+http://45.166.93.156:9999/play/a0h2/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",AXN
+http://45.166.93.156:9999/play/a0h0/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",AXN HD
+http://45.166.93.156:9999/play/a0fg/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",Atres Series
+http://45.166.93.156:9999/play/a0hl/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",Cine Canela
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+#EXTINF:-1 group-title="🍿 CINE & SERIES",Cine Familiar HD
+http://45.166.93.156:9999/play/a0j4/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",Cine Hispano HD
+http://45.166.93.156:9999/play/a0j5/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",Cine Infantil HD
+http://45.166.93.156:9999/play/a0j6/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",Cine Latino
+http://45.166.93.156:9999/play/a0ix/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",Cine Premium HD
+http://45.166.93.156:9999/play/a0j3/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",CineCanal
+http://45.166.93.156:9999/play/a0fc/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",CINECANAL HD
+http://45.166.93.156:9999/play/a0g7/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",CineMax
+http://45.166.93.156:9999/play/a0ig/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",Claro Cinema
+http://45.166.93.156:9999/play/a0e9/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",DHE HD
+http://45.166.93.156:9999/play/a0bx/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",E! Entertainment
+http://45.166.93.156:9999/play/a08a/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",EURO Channel
+http://45.166.93.156:9999/play/a0dy/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",Europa HD
+http://45.166.93.156:9999/play/a0j0/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",Golden Premiere HD
+http://45.166.93.156:9999/play/a0g3/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",HBO HD
+http://45.166.93.156:9999/play/a0im/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",HBO XTREME
+http://45.166.93.156:9999/play/a0g5/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",LIFE TIME
+http://45.166.93.156:9999/play/a0gv/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",Multicinema
+http://45.166.93.156:9999/play/a0c5/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",Multipremier
+http://45.166.93.156:9999/play/a0fj/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",Pasiones HD
+http://45.166.93.156:9999/play/a0i6/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",Pasiones HD Alternate
+http://45.166.93.156:9999/play/a0b4/index.m3u8
 #EXTINF:-1 group-title="🍿 CINE & SERIES",Pluto TV Cine
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f49c9a0800097ae6c2/master.m3u8
-
-#EXTINF:-1 group-title="🍿 CINE & SERIES",Canela Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
-
-#EXTINF:-1 tvg-id="Canal.TLC.(Ecuador).ec" group-title="🍿 CINE & SERIES",TLC Reality
-https://fl3.moveonjoy.com/TLC/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal.nitro.(Ecuador).ec" group-title="🍿 CINE & SERIES", nitro
-http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="AMCLatinAmerica.ec" group-title="🍿 CINE & SERIES",AMC HD
-http://148.222.230.144:8000/play/a05y/index.m3u8
-
-#EXTINF:-1 tvg-id="AandEAndes.ec" group-title="🍿 CINE & SERIES",A&E HD
-http://190.60.55.141:9083/play/a0eo/index.m3u8
-
-#EXTINF:-1 group-title="🍿 CINE & SERIES" , AMC HD
-http://190.60.55.141:9083/play/a0et/index.m3u8
-
-#EXTINF:-1 group-title="🍿 CINE & SERIES" , AMC Series
-http://190.60.55.141:9083/play/a0hl/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",RCN Novelas
+http://45.166.93.156:9999/play/a0e0/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",Runtime Movies
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 group-title="🍿 CINE & SERIES",Sony Movies HD
+http://45.166.93.156:9999/play/a0bw/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",SPACE
+http://45.166.93.156:9999/play/a0gq/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",SPACE HD
+http://45.166.93.156:9999/play/a0fh/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",STAR CHANNEL
+http://45.166.93.156:9999/play/a0f4/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",STAR CHANNEL HD
+http://45.166.93.156:9999/play/a09n/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",Studio Universal HD
+http://45.166.93.156:9999/play/a0is/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",TCM
+http://45.166.93.156:9999/play/a0bj/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",TNT
+http://45.166.93.156:9999/play/a0h1/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",TNT HD
+http://45.166.93.156:9999/play/a0em/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",TNT Novelas
+http://45.166.93.156:9999/play/a0gt/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",TNT Series
+http://45.166.93.156:9999/play/a0gr/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",TNT Series HD
+http://45.166.93.156:9999/play/a0i3/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",UNIVERSAL CINEMA ESTE HD
+http://45.166.93.156:9999/play/a0i9/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",UNIVERSAL COMEDY HD
+http://45.166.93.156:9999/play/a0ev/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",UNIVERSAL CRIME HD
+http://45.166.93.156:9999/play/a0eu/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",UNIVERSAL PREMIERE HD
+http://45.166.93.156:9999/play/a0er/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",UNIVERSAL REALITY HD
+http://45.166.93.156:9999/play/a0et/index.m3u8
+#EXTINF:-1 group-title="🍿 CINE & SERIES",WARNER HD
+http://45.166.93.156:9999/play/a08k/index.m3u8
 
 # =====================================================
-# 🧬 DOCUMENTALES & MOTOR
+# 🧬 DOCUMENTALES & HISTORIA
 # =====================================================
-
-#EXTINF:-1 tvg-id="Canal.Discovery.Science.(LatinoamÃ©rica).ec" group-title="🧬 DOCUMENTALES & MOTOR",Discovery Channel
-https://fl3.moveonjoy.com/DISCOVERY_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal.Discovery.Science.(LatinoamÃ©rica).ec" group-title="🧬 DOCUMENTALES & MOTOR",Discovery Science
-https://fl3.moveonjoy.com/DISCOVERY_SCIENCE/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal.Discovery.Turbo.(LatinoamÃ©rica).ec" group-title="🧬 DOCUMENTALES & MOTOR",Discovery Turbo
-https://fl3.moveonjoy.com/DISCOVERY_TURBO/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal.Animal.Planet.(Ecuador).ec" group-title="🧬 DOCUMENTALES & MOTOR",Animal Planet
+#EXTINF:-1 group-title="🧬 DOCUMENTALES & HISTORIA",Animal Planet
+http://45.166.93.156:9999/play/a09v/index.m3u8
+#EXTINF:-1 group-title="🧬 DOCUMENTALES & HISTORIA",Animal Planet HD
+http://45.166.93.156:9999/play/a0bp/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Animal.Planet.(Ecuador).ec" group-title="🧬 DOCUMENTALES & HISTORIA",Animal Planet FAST
 https://fl3.moveonjoy.com/ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Discovery.Science.(LatinoamÃ©rica).ec" group-title="🧬 DOCUMENTALES & HISTORIA",Discovery Channel FAST
+https://fl3.moveonjoy.com/DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="🧬 DOCUMENTALES & HISTORIA",Discovery Channel
+http://45.166.93.156:9999/play/a09t/index.m3u8
+#EXTINF:-1 group-title="🧬 DOCUMENTALES & HISTORIA",Discovery Channel HD
+http://45.166.93.156:9999/play/a0i4/index.m3u8
+#EXTINF:-1 group-title="🧬 DOCUMENTALES & HISTORIA",Discovery Home & Health
+http://45.166.93.156:9999/play/a0f7/index.m3u8
+#EXTINF:-1 group-title="🧬 DOCUMENTALES & HISTORIA",Discovery ID HD
+http://45.166.93.156:9999/play/a0i8/index.m3u8
+#EXTINF:-1 group-title="🧬 DOCUMENTALES & HISTORIA",Discovery Science
+http://45.166.93.156:9999/play/a0hi/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Discovery.Science.(LatinoamÃ©rica).ec" group-title="🧬 DOCUMENTALES & HISTORIA",Discovery Science FAST
+https://fl3.moveonjoy.com/DISCOVERY_SCIENCE/index.m3u8
+#EXTINF:-1 group-title="🧬 DOCUMENTALES & HISTORIA",Discovery Turbo
+http://45.166.93.156:9999/play/a0f6/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Discovery.Turbo.(LatinoamÃ©rica).ec" group-title="🧬 DOCUMENTALES & HISTORIA",Discovery Turbo FAST
+https://fl3.moveonjoy.com/DISCOVERY_TURBO/index.m3u8
+#EXTINF:-1 group-title="🧬 DOCUMENTALES & HISTORIA",Discovery World HD
+http://45.166.93.156:9999/play/a0i5/index.m3u8
+#EXTINF:-1 group-title="🧬 DOCUMENTALES & HISTORIA",DISC THEATER HD
+http://45.166.93.156:9999/play/a0en/index.m3u8
+#EXTINF:-1 group-title="🧬 DOCUMENTALES & HISTORIA",H2
+http://45.166.93.156:9999/play/a09x/index.m3u8
+#EXTINF:-1 group-title="🧬 DOCUMENTALES & HISTORIA",History Channel
+http://45.166.93.156:9999/play/a09w/index.m3u8
+#EXTINF:-1 group-title="🧬 DOCUMENTALES & HISTORIA",History HD
+http://45.166.93.156:9999/play/a0h8/index.m3u8
+#EXTINF:-1 group-title="🧬 DOCUMENTALES & HISTORIA",Home & Health HD
+http://45.166.93.156:9999/play/a0eo/index.m3u8
+#EXTINF:-1 group-title="🧬 DOCUMENTALES & HISTORIA",ID Investigation Discovery
+http://45.166.93.156:9999/play/a0f8/index.m3u8
+#EXTINF:-1 group-title="🧬 DOCUMENTALES & HISTORIA",National Geographic
+http://45.166.93.156:9999/play/a0gu/index.m3u8
+#EXTINF:-1 group-title="🧬 DOCUMENTALES & HISTORIA",Nat Geo HD
+http://45.166.93.156:9999/play/a0i1/index.m3u8
+#EXTINF:-1 group-title="🧬 DOCUMENTALES & HISTORIA",TLC
+http://45.166.93.156:9999/play/a0e8/index.m3u8
+#EXTINF:-1 tvg-id="Canal.TLC.(Ecuador).ec" group-title="🧬 DOCUMENTALES & HISTORIA",TLC FAST
+https://fl3.moveonjoy.com/TLC/index.m3u8
 
 # =====================================================
 # 👶 INFANTIL / DIBUJOS ANIMADOS
 # =====================================================
-
+#EXTINF:-1 group-title="👶 INFANTIL",Baby TV
+http://45.166.93.156:9999/play/a0hc/index.m3u8
+#EXTINF:-1 group-title="👶 INFANTIL",Cartoon Network
+http://45.166.93.156:9999/play/a0gh/index.m3u8
+#EXTINF:-1 group-title="👶 INFANTIL",CARTOON NETWORK HD
+http://45.166.93.156:9999/play/a0iu/index.m3u8
+#EXTINF:-1 group-title="👶 INFANTIL",Cartoonito
+http://45.166.93.156:9999/play/a0gj/index.m3u8
+#EXTINF:-1 group-title="👶 INFANTIL",Discovery Kids
+http://45.166.93.156:9999/play/a0f1/index.m3u8
+#EXTINF:-1 group-title="👶 INFANTIL",Discovery Kids HD
+http://45.166.93.156:9999/play/a0hs/index.m3u8
+#EXTINF:-1 group-title="👶 INFANTIL",Disney Channel
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+#EXTINF:-1 group-title="👶 INFANTIL",SEMILLITAS
+http://45.166.93.156:9999/play/a0gm/index.m3u8
+#EXTINF:-1 group-title="👶 INFANTIL",Tooncast
+http://45.166.93.156:9999/play/a09a/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5be31b1c67d716259f9c73d2/colorLogoFeatured.png" group-title="👶 INFANTIL",Pluto TV Kids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be31b1c67d716259f9c73d2/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5be31b7967d716259f9c73d6/colorLogoFeatured.png" group-title="👶 INFANTIL",Pluto TV Junior
 https://service-stitcher.clusters.pluna.tv/stitch/hls/channel/5be31b7967d716259f9c73d6/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e3b08e5814bfb0007fe88f4/colorLogoFeatured.png" group-title="👶 INFANTIL",Pocoyó Completo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3b08e5814bfb0007fe88f4/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e3b0a70814bfb0007fe898d/colorLogoFeatured.png" group-title="👶 INFANTIL",Anime Kids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3b0a70814bfb0007fe898d/master.m3u8
 
 # =====================================================
 # ⚽ DEPORTES
 # =====================================================
-
-#EXTINF:-1 group-title="⚽ DEPORTES",Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-
-#EXTINF:-1 group-title="⚽ DEPORTES",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 group-title="⚽ DEPORTES",Trace Sports Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="⚽ DEPORTES",FIFA+
-https://d3d4yli4hf5bmh.cloudfront.net/hls/live.m3u8
-
-#EXTINF:-1 group-title="⚽ DEPORTES",Olympic Channel
-https://ott-live.olympicchannel.com/out/out/OC1/master.m3u8
-
+#EXTINF:-1 group-title="⚽ DEPORTES",Claro Sports 1 SD
+http://45.166.93.156:9999/play/a0f9/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES",ESPN
+http://45.166.93.156:9999/play/a09h/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES",ESPN HD
+http://45.166.93.156:9999/play/a0hx/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES",ESPN HD Alt
+http://45.166.93.156:9999/play/a0db/index.m3u8
 #EXTINF:-1 tvg-id="Canal.ESPN.2.(Ecuador).ec" group-title="⚽ DEPORTES",ESPN 2
 https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES",ESPN 2 HND Feed
+http://45.166.93.156:9999/play/a09i/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES",ESPN 2 HD
+http://45.166.93.156:9999/play/a0hy/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES",ESPN 3 HD
+http://45.166.93.156:9999/play/a0hz/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES",ESPN 4 HD
+http://45.166.93.156:9999/play/a0ha/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES",ESPN 5
+http://45.166.93.156:9999/play/a0fb/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES",ESPN 5 HD
+http://45.166.93.156:9999/play/a0fi/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES",ESPN 6
+http://45.166.93.156:9999/play/a0gw/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES",ESPN 6 HD
+http://45.166.93.156:9999/play/a0i0/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES",FUTV HD CR
+http://45.166.93.156:9999/play/a0hw/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES",LA LIGA
+http://45.166.93.156:9999/play/a0jt/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES",Tigo Sports HD
+http://45.166.93.156:9999/play/a0ek/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES",Trace Sports Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES",FIFA+
+https://d3d4yli4hf5bmh.cloudfront.net/hls/live.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES",Olympic Channel
+https://ott-live.olympicchannel.com/out/out/OC1/master.m3u8
 
 # =====================================================
 # 🇲🇽 CANALES DE MÉXICO
 # =====================================================
-
 #EXTINF:-1 group-title="🇲🇽 MÉXICO",Univisión
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
-
+#EXTINF:-1 group-title="🇲🇽 MÉXICO",Univision HD Alternate
+http://45.166.93.156:9999/play/a0i7/index.m3u8
 #EXTINF:-1 group-title="🇲🇽 MÉXICO",Las Estrellas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="🇲🇽 MÉXICO",Canal de las Estrellas (OnlyMex)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
-
 #EXTINF:-1 group-title="🇲🇽 MÉXICO",Telediario Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
-
 #EXTINF:-1 group-title="🇲🇽 MÉXICO",Multimedios
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 # =====================================================
+# 🇭🇳 CANALES DE HONDURAS
+# =====================================================
+#EXTINF:-1 group-title="🇭🇳 HONDURAS",Canal 3 Telesistemas HND
+http://45.166.93.156:9999/play/a0ez/index.m3u8
+#EXTINF:-1 group-title="🇭🇳 HONDURAS",Canal 5 - HON (Feed 1)
+http://45.166.93.156:9999/play/a0iy/index.m3u8
+#EXTINF:-1 group-title="🇭🇳 HONDURAS",Canal 5 - HON (Feed 2)
+http://45.166.93.156:9999/play/a0jr/index.m3u8
+#EXTINF:-1 group-title="🇭🇳 HONDURAS",Canal 5 - HON (Feed 3)
+http://45.166.93.156:9999/play/a0iw/index.m3u8
+#EXTINF:-1 group-title="🇭🇳 HONDURAS",Canal 8 TNH HN
+http://45.166.93.156:9999/play/a0hb/index.m3u8
+#EXTINF:-1 group-title="🇭🇳 HONDURAS",Canal VTV HND
+http://45.166.93.156:9999/play/a0f0/index.m3u8
+#EXTINF:-1 group-title="🇭🇳 HONDURAS",Deportes TVC - HND
+http://45.166.93.156:9999/play/a0eh/index.m3u8
+#EXTINF:-1 group-title="🇭🇳 HONDURAS",HCH - HON
+http://45.166.93.156:9999/play/a0cj/index.m3u8
+#EXTINF:-1 group-title="🇭🇳 HONDURAS",HCH - HON Alt
+http://45.166.93.156:9999/play/a0gg/index.m3u8
+#EXTINF:-1 group-title="🇭🇳 HONDURAS",Q HUBO TV
+http://45.166.93.156:9999/play/a0ji/index.m3u8
+#EXTINF:-1 group-title="🇭🇳 HONDURAS",UNE TV COMPAY
+http://45.166.93.156:9999/play/a0jm/index.m3u8
+#EXTINF:-1 group-title="🇭🇳 HONDURAS",UNETV 2
+http://45.166.93.156:9999/play/a0jo/index.m3u8
+#EXTINF:-1 group-title="🇭🇳 HONDURAS",MHTV Mapulaca
+http://45.166.93.156:9999/play/MAPULACA/index.m3u8
+
+# =====================================================
+# 🇸🇻 CANALES DE EL SALVADOR
+# =====================================================
+#EXTINF:-1 group-title="🇸🇻 EL SALVADOR",Canal 2 - ESA
+http://45.166.93.156:9999/play/a07k/index.m3u8
+#EXTINF:-1 group-title="🇸🇻 EL SALVADOR",Canal 4 HD ESA
+http://45.166.93.156:9999/play/a0hp/index.m3u8
+#EXTINF:-1 group-title="🇸🇻 EL SALVADOR",Canal 6 - ESA
+http://45.166.93.156:9999/play/a0ef/index.m3u8
+#EXTINF:-1 group-title="🇸🇻 EL SALVADOR",Canal 12 - ESA
+http://45.166.93.156:9999/play/a0eg/index.m3u8
+#EXTINF:-1 group-title="🇸🇻 EL SALVADOR",Canal 19 ESA
+http://45.166.93.156:9999/play/a0dw/index.m3u8
+#EXTINF:-1 group-title="🇸🇻 EL SALVADOR",Canal 21 - ESA
+http://45.166.93.156:9999/play/a0ex/index.m3u8
+#EXTINF:-1 group-title="🇸🇻 EL SALVADOR",TVM25 - ESA
+http://45.166.93.156:9999/play/a0ey/index.m3u8
+
+# =====================================================
+# 🇬🇹 CANALES DE GUATEMALA
+# =====================================================
+#EXTINF:-1 group-title="🇬🇹 GUATEMALA",AMIGOS TV GT
+http://45.166.93.156:9999/play/a0j2/index.m3u8
+#EXTINF:-1 group-title="🇬🇹 GUATEMALA",Canal 3 - GUA
+http://45.166.93.156:9999/play/a07j/index.m3u8
+#EXTINF:-1 group-title="🇬🇹 GUATEMALA",Canal 7 - GUA
+http://45.166.93.156:9999/play/a07i/index.m3u8
+#EXTINF:-1 group-title="🇬🇹 GUATEMALA",Canal 11 - GUA
+http://45.166.93.156:9999/play/a087/index.m3u8
+#EXTINF:-1 group-title="🇬🇹 GUATEMALA",Guatevision - GUA
+http://45.166.93.156:9999/play/a0ga/index.m3u8
+
+# =====================================================
+# 🇩🇴 CANALES DE REP. DOMINICANA
+# =====================================================
+#EXTINF:-1 group-title="🇩🇴 REP. DOMINICANA",Antena 7 - RD
+http://45.166.93.156:9999/play/a0gd/index.m3u8
+#EXTINF:-1 group-title="🇩🇴 REP. DOMINICANA",CERTV
+http://45.166.93.156:9999/play/a0ew/index.m3u8
+#EXTINF:-1 group-title="🇩🇴 REP. DOMINICANA",Tele Antillas - RD
+http://45.166.93.156:9999/play/a0gc/index.m3u8
+#EXTINF:-1 group-title="🇩🇴 REP. DOMINICANA",TeleMicro - RD
+http://45.166.93.156:9999/play/a0e5/index.m3u8
+#EXTINF:-1 group-title="🇩🇴 REP. DOMINICANA",Telesistema RD
+http://45.166.93.156:9999/play/a0ge/index.m3u8
+
+# =====================================================
+# 🇨🇷 CANALES DE COSTA RICA
+# =====================================================
+#EXTINF:-1 group-title="🇨🇷 COSTA RICA",Canal 7 HD CR
+http://45.166.93.156:9999/play/a08s/index.m3u8
+
+# =====================================================
+# 🎨 VARIEDAD Y LATINOS REGINALES
+# =====================================================
+#EXTINF:-1 group-title="🎨 VARIEDAD",Canal 11
+http://45.166.93.156:9999/play/a0ck/index.m3u8
+#EXTINF:-1 group-title="🎨 VARIEDAD",Canal 6 CMPAY
+http://45.166.93.156:9999/play/a0jl/index.m3u8
+#EXTINF:-1 group-title="🎨 VARIEDAD",Canal 5 COMPAY
+http://45.166.93.156:9999/play/a0jk/index.m3u8
+#EXTINF:-1 group-title="🎨 VARIEDAD",Canal 29 Plan Network
+http://45.166.93.156:9999/play/a0jc/index.m3u8
+#EXTINF:-1 group-title="🎨 VARIEDAD",Caracol TV
+http://45.166.93.156:9999/play/a0f5/index.m3u8
+#EXTINF:-1 group-title="🎨 VARIEDAD",CHOLUSAT
+http://45.166.93.156:9999/play/a0js/index.m3u8
+#EXTINF:-1 group-title="🎨 VARIEDAD",CHTV
+http://45.166.93.156:9999/play/a0jb/index.m3u8
+#EXTINF:-1 group-title="🎨 VARIEDAD",El Gourmet
+http://45.166.93.156:9999/play/a0c4/index.m3u8
+#EXTINF:-1 group-title="🎨 VARIEDAD",FFAA TV
+http://45.166.93.156:9999/play/a0ej/index.m3u8
+#EXTINF:-1 group-title="🎨 VARIEDAD",HOLA! TV HD
+http://45.166.93.156:9999/play/a0ep/index.m3u8
+#EXTINF:-1 group-title="🎨 VARIEDAD",Hola!TV
+http://45.166.93.156:9999/play/a0fs/index.m3u8
+#EXTINF:-1 group-title="🎨 VARIEDAD",Mas Noticias
+http://45.166.93.156:9999/play/a0jf/index.m3u8
+#EXTINF:-1 group-title="🎨 VARIEDAD",Nicarao TV
+http://45.166.93.156:9999/play/a0gl/index.m3u8
+#EXTINF:-1 group-title="🎨 VARIEDAD",Nuevo Mundo
+http://45.166.93.156:9999/play/a0cp/index.m3u8
+#EXTINF:-1 group-title="🎨 VARIEDAD",Sin Limites
+http://45.166.93.156:9999/play/a0iz/index.m3u8
+#EXTINF:-1 group-title="🎨 VARIEDAD",TEN
+http://45.166.93.156:9999/play/CANAL10/index.m3u8
+#EXTINF:-1 group-title="🎨 VARIEDAD",Tele Cadena 7/4
+http://45.166.93.156:9999/play/a0d8/index.m3u8
+#EXTINF:-1 group-title="🎨 VARIEDAD",TelePais
+http://45.166.93.156:9999/play/a093/index.m3u8
+#EXTINF:-1 group-title="🎨 VARIEDAD",Telemundo
+http://45.166.93.156:9999/play/a0go/index.m3u8
+#EXTINF:-1 group-title="🎨 VARIEDAD",otv
+http://45.166.93.156:9999/play/a0ct/index.m3u8
+
+# =====================================================
+# ⛪ RELIGIÓN
+# =====================================================
+#EXTINF:-1 group-title="⛪ RELIGIÓN",EWTN
+http://45.166.93.156:9999/play/a0h7/index.m3u8
+#EXTINF:-1 group-title="⛪ RELIGIÓN",La voz de Maria
+http://45.166.93.156:9999/play/a0fa/index.m3u8
+#EXTINF:-1 group-title="⛪ RELIGIÓN",RHEMA TV
+http://45.166.93.156:9999/play/a0ff/index.m3u8
+#EXTINF:-1 group-title="⛪ RELIGIÓN",Sembrador
+http://45.166.93.156:9999/play/a0cb/index.m3u8
+#EXTINF:-1 group-title="⛪ RELIGIÓN",TBN Enlace
+http://45.166.93.156:9999/play/a0h6/index.m3u8
+#EXTINF:-1 group-title="⛪ RELIGIÓN",TBN Enlace Alt
+http://45.166.93.156:9999/play/a0c8/index.m3u8
+
+# =====================================================
 # 🌐 INTERNACIONALES Y NOTICIAS
 # =====================================================
-
-#EXTINF:-1 group-title="🌐 INTERNACIONAL",ATV Perú
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
-
 #EXTINF:-1 group-title="🌐 INTERNACIONAL",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 group-title="🌐 INTERNACIONAL",France 24 English
-https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-id="Canal.DW.(LatinoamÃ©rica).ec" group-title="🌐 INTERNACIONAL",DW Español
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@124409/master.m3u8
-
-#EXTINF:-1 group-title="🌐 INTERNACIONAL",NHK World Japan
-https://nhkworld-tv.akamaized.net/hls/live/2003458/nhkworld-tv/index.m3u8
-
+#EXTINF:-1 group-title="🌐 INTERNACIONAL",Antena 3 España
+http://45.166.93.156:9999/play/a0fo/index.m3u8
+#EXTINF:-1 group-title="🌐 INTERNACIONAL",ATV Perú
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="🌐 INTERNACIONAL",Bloomberg TV
 https://bloomberg-bloomberg-1-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🌐 INTERNACIONAL",CNBC
+http://45.166.93.156:9999/play/a0fd/index.m3u8
+#EXTINF:-1 group-title="🌐 INTERNACIONAL",CNN Internacional
+http://45.166.93.156:9999/play/a0hn/index.m3u8
+#EXTINF:-1 group-title="🌐 INTERNACIONAL",CNNE (CNN Español)
+http://45.166.93.156:9999/play/a0h3/index.m3u8
+#EXTINF:-1 tvg-id="Canal.DW.(LatinoamÃ©rica).ec" group-title="🌐 INTERNACIONAL",DW Español
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@124409/master.m3u8
+#EXTINF:-1 group-title="🌐 INTERNACIONAL",France24 Español
+http://45.166.93.156:9999/play/a0h5/index.m3u8
+#EXTINF:-1 group-title="🌐 INTERNACIONAL",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="🌐 INTERNACIONAL",NHK World Japan
+https://nhkworld-tv.akamaized.net/hls/live/2003458/nhkworld-tv/index.m3u8
+#EXTINF:-1 group-title="🌐 INTERNACIONAL",TVE España
+http://45.166.93.156:9999/play/a0fe/index.m3u8
+
+# =====================================================
+# 🎵 MÚSICA
+# =====================================================
+#EXTINF:-1 group-title="🎵 MÚSICA",HTV
+http://45.166.93.156:9999/play/a0cd/index.m3u8
+#EXTINF:-1 group-title="🎵 MÚSICA",Mi Musica HD Hits
+http://45.166.93.156:9999/play/a0j8/index.m3u8
+#EXTINF:-1 group-title="🎵 MÚSICA",Mi Musica HD Regional
+http://45.166.93.156:9999/play/a0j7/index.m3u8
+#EXTINF:-1 group-title="🎵 MÚSICA",Mi Musica Regueton HD
+http://45.166.93.156:9999/play/a0ja/index.m3u8
+#EXTINF:-1 group-title="🎵 MÚSICA",Mi Musica Romantica HD
+http://45.166.93.156:9999/play/a0j9/index.m3u8
+
+# =====================================================
+# 🔞 ADULTOS
+# =====================================================
+#EXTINF:-1 group-title="🔞 ADULTOS",Playboy
+http://45.166.93.156:9999/play/a0ir/index.m3u8
+#EXTINF:-1 group-title="🔞 ADULTOS",VENUS
+http://45.166.93.156:9999/play/a0if/index.m3u8
