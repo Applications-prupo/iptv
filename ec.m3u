@@ -87,7 +87,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 https://fl3.moveonjoy.com/TLC/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.nitro.(Ecuador).ec" group-title="🍿 CINE & SERIES", nitro
-http://205.235.6.29:8000/play/aOxw/index.m3u8
+http://200.63.107.94:8000/play/a02m/index.m3u8?hls
 
 # =====================================================
 # 🧬 DOCUMENTALES & MOTOR
