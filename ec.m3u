@@ -315,6 +315,100 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 # =====================================================
+# 🇨🇴 CANALES DE COLOMBIA
+# =====================================================
+#EXTINF:-1 tvg-id="CaracolTV.co" group-title="🇨🇴 COLOMBIA",Caracol TV HD
+http://190.14.249.223:17032/play/a067/index.m3u8
+#EXTINF:-1 tvg-id="CaracolHD2.co" group-title="🇨🇴 COLOMBIA",Caracol HD 2
+http://190.14.249.223:17032/play/a066/index.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" group-title="🇨🇴 COLOMBIA",Caracol SD
+http://190.14.249.223:17032/play/a07k/index.m3u8
+#EXTINF:-1 tvg-id="RCNTV.co" group-title="🇨🇴 COLOMBIA",RCN HD
+http://190.14.249.223:17032/play/a06l/index.m3u8
+#EXTINF:-1 tvg-id="RCNHD2.co" group-title="🇨🇴 COLOMBIA",RCN HD 2
+http://190.14.249.223:17032/play/a082/index.m3u8
+#EXTINF:-1 tvg-id="RCNTV.co" group-title="🇨🇴 COLOMBIA",RCN SD
+http://190.14.249.223:17032/play/a07e/index.m3u8
+#EXTINF:-1 tvg-id="Canal1.co" group-title="🇨🇴 COLOMBIA",Canal 1 HD
+http://190.14.249.223:17032/play/a064/index.m3u8
+#EXTINF:-1 tvg-id="Canal1.co" group-title="🇨🇴 COLOMBIA",Canal 1 SD
+http://190.14.249.223:17032/play/a07l/index.m3u8
+#EXTINF:-1 tvg-id="Canal1.co" group-title="🇨🇴 COLOMBIA",Canal Uno (R)
+http://190.14.249.223:17032/play/a090/index.m3u8
+#EXTINF:-1 tvg-id="LaKalle.co" group-title="🇨🇴 COLOMBIA",La Kalle
+http://190.14.249.223:17032/play/a06i/index.m3u8
+#EXTINF:-1 tvg-id="Citytv.co" group-title="🇨🇴 COLOMBIA",City TV
+http://190.14.249.223:17032/play/a07d/index.m3u8
+#EXTINF:-1 tvg-id="SenalColombia.co" group-title="🇨🇴 COLOMBIA",Señal Colombia
+http://190.14.249.223:17032/play/a06m/index.m3u8
+#EXTINF:-1 tvg-id="SenalColombia.co" group-title="🇨🇴 COLOMBIA",Señal Colombia (R)
+http://190.14.249.223:17032/play/a07g/index.m3u8
+#EXTINF:-1 tvg-id="CanalInstitucional.co" group-title="🇨🇴 COLOMBIA",Canal Institucional
+http://190.14.249.223:17032/play/a07o/index.m3u8
+#EXTINF:-1 tvg-id="CanalInstitucional.co" group-title="🇨🇴 COLOMBIA",Canal Institucional (R)
+http://190.14.249.223:17032/play/a071/index.m3u8
+#EXTINF:-1 tvg-id="NuestraTele.co" group-title="🇨🇴 COLOMBIA",Nuestra Tele
+http://190.14.249.223:17032/play/a06u/index.m3u8
+#EXTINF:-1 tvg-id="CableNoticias.co" group-title="🇨🇴 COLOMBIA",Cable Noticias SD
+http://190.14.249.223:17032/play/a050/index.m3u8
+#EXTINF:-1 tvg-id="NTN24.co" group-title="🇨🇴 COLOMBIA",NTN 24 Horas SD
+http://190.14.249.223:17032/play/a051/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 COLOMBIA",Canal TRO
+http://190.14.249.223:17032/play/a06v/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 COLOMBIA",Canal TRO HD2
+http://190.14.249.223:17032/play/a07y/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 COLOMBIA",Canal TRO (Alterno)
+http://190.14.249.223:17032/play/a099/index.m3u8
+#EXTINF:-1 tvg-id="Teleantioquia.co" group-title="🇨🇴 COLOMBIA",Teleantioquia (R)
+http://190.14.249.223:17032/play/a078/index.m3u8
+#EXTINF:-1 tvg-id="Telecaribe.co" group-title="🇨🇴 COLOMBIA",Telecaribe (R)
+http://190.14.249.223:17032/play/a08m/index.m3u8
+#EXTINF:-1 tvg-id="Telepacifico.co" group-title="🇨🇴 COLOMBIA",Telepacífico (R)
+http://190.14.249.223:17032/play/a08n/index.m3u8
+#EXTINF:-1 tvg-id="Telecafe.co" group-title="🇨🇴 COLOMBIA",Telecafé (R)
+http://190.14.249.223:17032/play/a08o/index.m3u8
+#EXTINF:-1 tvg-id="CanalCapital.co" group-title="🇨🇴 COLOMBIA",Canal Capital
+http://190.14.249.223:17032/play/a06x/index.m3u8
+#EXTINF:-1 tvg-id="CanalTrece.co" group-title="🇨🇴 COLOMBIA",Canal 13 HD
+http://190.14.249.223:17032/play/a08p/index.m3u8
+#EXTINF:-1 tvg-id="CanalTrece.co" group-title="🇨🇴 COLOMBIA",Canal Trece SD
+http://190.14.249.223:17032/play/a08q/index.m3u8
+#EXTINF:-1 tvg-id="CanalTrece.co" group-title="🇨🇴 COLOMBIA",Canal Trece SD - TRO HD2
+http://190.14.249.223:17032/play/a09j/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 COLOMBIA",Teleisla
+http://190.14.249.223:17032/play/a09b/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 COLOMBIA",Canal Congreso
+http://190.14.249.223:17032/play/a06f/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 COLOMBIA",CNC Valledupar
+http://190.14.249.223:17032/play/a08g/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 COLOMBIA",ATN
+http://190.14.249.223:17032/play/a08l/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 COLOMBIA",Zoom
+http://190.14.249.223:17032/play/a06g/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 COLOMBIA",Zoomo
+http://190.14.249.223:17032/play/a06h/index.m3u8
+
+# =====================================================
+# 📻 RADIOS COLOMBIA (Audio Only)
+# =====================================================
+#EXTINF:-1 group-title="📻 RADIOS COLOMBIA",Radio Nacional
+http://190.14.249.223:17032/play/a088/index.m3u8
+#EXTINF:-1 group-title="📻 RADIOS COLOMBIA",Radiónica
+http://190.14.249.223:17032/play/a089/index.m3u8
+#EXTINF:-1 group-title="📻 RADIOS COLOMBIA",Exploremos
+http://190.14.249.223:17032/play/a08a/index.m3u8
+#EXTINF:-1 group-title="📻 RADIOS COLOMBIA",Blu Radio
+http://190.14.249.223:17032/play/a08b/index.m3u8
+#EXTINF:-1 group-title="📻 RADIOS COLOMBIA",RCN La Radio
+http://190.14.249.223:17032/play/a08c/index.m3u8
+#EXTINF:-1 group-title="📻 RADIOS COLOMBIA",La FM Radio
+http://190.14.249.223:17032/play/a08d/index.m3u8
+#EXTINF:-1 group-title="📻 RADIOS COLOMBIA",RCN Radio Uno
+http://190.14.249.223:17032/play/a08e/index.m3u8
+#EXTINF:-1 group-title="📻 RADIOS COLOMBIA",La Mega
+http://190.14.249.223:17032/play/a08f/index.m3u8
+
+# =====================================================
 # 🇭🇳 CANALES DE HONDURAS
 # =====================================================
 #EXTINF:-1 group-title="🇭🇳 HONDURAS",Canal 3 Telesistemas HND
