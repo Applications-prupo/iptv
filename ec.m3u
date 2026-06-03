@@ -80,7 +80,7 @@ http://45.166.93.156:9999/play/a0ju/index.m3u8
 #EXTINF:-1 group-title="🍿 CINE & SERIES",AMC
 http://45.166.93.156:9999/play/a0h2/index.m3u8
 #EXTINF:-1 group-title="🍿 CINE & SERIES",AMC2
-http://152.230.246.26:8001/play/a00p/index.m3u8
+http://189.148.49.233:8000/play/a03b/index.m3u8
 #EXTINF:-1 group-title="🍿 CINE & SERIES",AXN
 http://45.166.93.156:9999/play/a0h0/index.m3u8
 #EXTINF:-1 group-title="🍿 CINE & SERIES",AXN HD
@@ -131,8 +131,6 @@ http://45.166.93.156:9999/play/a0fj/index.m3u8
 http://45.166.93.156:9999/play/a0i6/index.m3u8
 #EXTINF:-1 group-title="🍿 CINE & SERIES",Pasiones HD Alternate
 http://45.166.93.156:9999/play/a0b4/index.m3u8
-#EXTINF:-1 group-title="🍿 CINE & SERIES",Pluto TV Cine
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f49c9a0800097ae6c2/master.m3u8
 #EXTINF:-1 group-title="🍿 CINE & SERIES",RCN Novelas
 http://45.166.93.156:9999/play/a0e0/index.m3u8
 #EXTINF:-1 group-title="🍿 CINE & SERIES",Runtime Movies
