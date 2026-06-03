@@ -243,14 +243,6 @@ http://45.166.93.156:9999/play/a0f3/index.m3u8
 http://45.166.93.156:9999/play/a0gm/index.m3u8
 #EXTINF:-1 group-title="👶 INFANTIL",Tooncast
 http://45.166.93.156:9999/play/a09a/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5be31b1c67d716259f9c73d2/colorLogoFeatured.png" group-title="👶 INFANTIL",Pluto TV Kids
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be31b1c67d716259f9c73d2/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5be31b7967d716259f9c73d6/colorLogoFeatured.png" group-title="👶 INFANTIL",Pluto TV Junior
-https://service-stitcher.clusters.pluna.tv/stitch/hls/channel/5be31b7967d716259f9c73d6/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e3b08e5814bfb0007fe88f4/colorLogoFeatured.png" group-title="👶 INFANTIL",Pocoyó Completo
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3b08e5814bfb0007fe88f4/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e3b0a70814bfb0007fe898d/colorLogoFeatured.png" group-title="👶 INFANTIL",Anime Kids
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3b0a70814bfb0007fe898d/master.m3u8
 
 # =====================================================
 # ⚽ DEPORTES
@@ -389,26 +381,6 @@ http://190.14.249.223:17032/play/a06g/index.m3u8
 http://190.14.249.223:17032/play/a06h/index.m3u8
 
 # =====================================================
-# 📻 RADIOS COLOMBIA (Audio Only)
-# =====================================================
-#EXTINF:-1 group-title="📻 RADIOS COLOMBIA",Radio Nacional
-http://190.14.249.223:17032/play/a088/index.m3u8
-#EXTINF:-1 group-title="📻 RADIOS COLOMBIA",Radiónica
-http://190.14.249.223:17032/play/a089/index.m3u8
-#EXTINF:-1 group-title="📻 RADIOS COLOMBIA",Exploremos
-http://190.14.249.223:17032/play/a08a/index.m3u8
-#EXTINF:-1 group-title="📻 RADIOS COLOMBIA",Blu Radio
-http://190.14.249.223:17032/play/a08b/index.m3u8
-#EXTINF:-1 group-title="📻 RADIOS COLOMBIA",RCN La Radio
-http://190.14.249.223:17032/play/a08c/index.m3u8
-#EXTINF:-1 group-title="📻 RADIOS COLOMBIA",La FM Radio
-http://190.14.249.223:17032/play/a08d/index.m3u8
-#EXTINF:-1 group-title="📻 RADIOS COLOMBIA",RCN Radio Uno
-http://190.14.249.223:17032/play/a08e/index.m3u8
-#EXTINF:-1 group-title="📻 RADIOS COLOMBIA",La Mega
-http://190.14.249.223:17032/play/a08f/index.m3u8
-
-# =====================================================
 # 🇭🇳 CANALES DE HONDURAS
 # =====================================================
 #EXTINF:-1 group-title="🇭🇳 HONDURAS",Canal 3 Telesistemas HND
@@ -533,22 +505,6 @@ http://45.166.93.156:9999/play/a093/index.m3u8
 http://45.166.93.156:9999/play/a0go/index.m3u8
 #EXTINF:-1 group-title="🎨 VARIEDAD",otv
 http://45.166.93.156:9999/play/a0ct/index.m3u8
-
-# =====================================================
-# ⛪ RELIGIÓN
-# =====================================================
-#EXTINF:-1 group-title="⛪ RELIGIÓN",EWTN
-http://45.166.93.156:9999/play/a0h7/index.m3u8
-#EXTINF:-1 group-title="⛪ RELIGIÓN",La voz de Maria
-http://45.166.93.156:9999/play/a0fa/index.m3u8
-#EXTINF:-1 group-title="⛪ RELIGIÓN",RHEMA TV
-http://45.166.93.156:9999/play/a0ff/index.m3u8
-#EXTINF:-1 group-title="⛪ RELIGIÓN",Sembrador
-http://45.166.93.156:9999/play/a0cb/index.m3u8
-#EXTINF:-1 group-title="⛪ RELIGIÓN",TBN Enlace
-http://45.166.93.156:9999/play/a0h6/index.m3u8
-#EXTINF:-1 group-title="⛪ RELIGIÓN",TBN Enlace Alt
-http://45.166.93.156:9999/play/a0c8/index.m3u8
 
 # =====================================================
 # 🌐 INTERNACIONALES Y NOTICIAS
